@@ -1,0 +1,1 @@
+The current AGORA folder only contains the models for the representative strains. Please download the complete AGORA collection from [here](https://mega.nz/file/OoYjAAbC#2OgnAVQ3388GeH1h0YFgqAPHs6GVd1m8Qsw8zhbkFHM).
