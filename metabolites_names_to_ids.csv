@@ -1,0 +1,2131 @@
+Metabolite Name,Metabolites IDs
+4-Aminobutanoate,4abut[e]
+acetate,ac[e]
+acetaldehyde,acald[e]
+Adenosylcobalamin,adocbl[e]
+L-alanine,ala_L[e]
+L-alanyl-L-aspartate,alaasp[e]
+L-alanyl-L-glutamine,alagln[e]
+L-alanyl-L-glutamate,alaglu[e]
+L-alanylglycine,alagly[e]
+L-alanyl-L-histidine,alahis[e]
+L-alanyl-L-leucine,alaleu[e]
+L-alanyl-L-threonine,alathr[e]
+L-arabinose,arab_L[e]
+L-argininium(1+),arg_L[e]
+Arsenobetaine,arsenb[e]
+L-asparagine,asn_L[e]
+arsenite,aso3[e]
+arsenate,aso4[e]
+L-aspartate(1-),asp_L[e]
+Biotin,btn[e]
+calcium(2+),ca2[e]
+Cob(I)alamin,cbl1[e]
+Cob(II)alamin,cbl2[e]
+Cadmium,cd2[e]
+L-cysteinylglycine,cgly[e]
+Citrate,cit[e]
+Chloride,cl[e]
+carbon dioxide,co2[e]
+Co2+,cobalt2[e]
+Cu2+,cu2[e]
+L-cysteine,cys_L[e]
+Dextrin,dextrin[e]
+2-deoxy-D-ribose,drib[e]
+ethanol,etoh[e]
+Fe2+,fe2[e]
+Fe3+,fe3[e]
+Folate,fol[e]
+Formate,for[e]
+D-Galactose,gal[e]
+D-glucose,glc_D[e]
+L-glutamine,gln_L[e]
+L-glutamate(1-),glu_L[e]
+Glycine,gly[e]
+Glycyl-L-asparagine,glyasn[e]
+Glycyl-L-aspartate,glyasp[e]
+glycine betaine,glyb[e]
+Glycerol 3-phosphate,glyc3p[e]
+Gly-Cys,glycys[e]
+Glycyl-L-glutamine,glygln[e]
+Glycyl-L-glutamate,glyglu[e]
+Glycylleucine,glyleu[e]
+Glycyl-L-methionine,glymet[e]
+Glycylphenylalanine,glyphe[e]
+Glycylproline,glypro[e]
+Glycyl-L-tyrosine,glytyr[e]
+proton,h[e]
+Water,h2o[e]
+Hg2+,hg2[e]
+L-histidine,his_L[e]
+Hypoxanthine,hxan[e]
+L-isoleucine,ile_L[e]
+potassium,k[e]
+(R)-lactate,lac_D[e]
+(S)-lactate,lac_L[e]
+Lactose,lcts[e]
+L-leucine,leu_L[e]
+L-lysinium(1+),lys_L[e]
+Maltose,malt[e]
+Maltohexaose,malthx[e]
+maltotriose,malttr[e]
+"mannotriose (beta-1,4)",mantr[e]
+D-Methionine,met_D[e]
+L-methionine,met_L[e]
+L-methionyl-L-alanine,metala[e]
+L-methionine-R-sulfoxide,metsox_R_L[e]
+L-Methionine Sulfoxide,metsox_S_L[e]
+magnesium,mg2[e]
+Mn2+,mn2[e]
+Menaquinone 7,mqn7[e]
+Sodium,na1[e]
+Nicotinate,nac[e]
+Ammonium,nh4[e]
+O2,o2[e]
+octadecanoate (n-C18:0),ocdca[e]
+Ornithine,orn[e]
+Lead,pb[e]
+L-phenylalanine,phe_L[e]
+Protoheme,pheme[e]
+hydrogenphosphate,pi[e]
+(R)-Pantothenate,pnto_R[e]
+L-proline,pro_L[e]
+"pullulan (n=1200 repeat units, alpha-1,4 and alph-1,6 bounds)",pullulan1200[e]
+Pyridoxal,pydx[e]
+D-ribose,rib_D[e]
+Riboflavin,ribflv[e]
+L-serine,ser_L[e]
+Siroheme,sheme[e]
+sulfate,so4[e]
+Spermidine,spmd[e]
+Stachyose,stys[e]
+Succinate,succ[e]
+Sucrose,sucr[e]
+Taurine,taur[e]
+Thiamin,thm[e]
+L-threonine,thr_L[e]
+Thymidine,thymd[e]
+trimethylamine,tma[e]
+Trehalose,tre[e]
+L-tryptophan,trp_L[e]
+L-tyrosine,tyr_L[e]
+L-valine,val_L[e]
+aldehydo-D-xylose,xyl_D[e]
+Zinc,zn2[e]
+2-Dehydro-3-deoxy-D-gluconate,2ddglcn[e]
+2-Hydroxyphenylacetate,2hyoxplac[e]
+"(3,4-dihydroxyphenyl)acetate",34dhpha[e]
+L-dopa,34dhphe[e]
+3-hydroxycinnamic acid,3hcinnm[e]
+3-(3-hydroxy-phenyl)propionate,3hpppn[e]
+3-methyl-2-oxopentanoate,3mop[e]
+4-Aminobenzoate,4abz[e]
+(4-hydroxyphenyl)acetaldehyde,4hoxpacd[e]
+5-hydroxy-L-tryptophan,5htrp[e]
+5-Methylthioadenosine,5mta[e]
+L-cysteate(1-),Lcyst[e]
+L-kynurenine,Lkynr[e]
+acetoacetate,acac[e]
+N-acetyl-D-glucosamine,acgam[e]
+2-Oxoglutarate,akg[e]
+Allantoin,alltn[e]
+D-Arabinose,arab_D[e]
+Arbutin,arbt[e]
+(R)-3-hydroxybutyrate,bhb[e]
+butyrate,but[e]
+butanesulfonate,butso3[e]
+Choline,chol[e]
+cytosine,csn[e]
+"2,3-dihydroxicinnamic acid",dhcinnm[e]
+"3-(2,3-Dihydroxyphenyl)propanoate",dhpppn[e]
+dopaminium(1+),dopa[e]
+ethanesulfonate,ethso3[e]
+D-Fructose,fru[e]
+Fumarate,fum[e]
+D-Galactonate,galctn_D[e]
+galactitol,galt[e]
+D-Glucosamine,gam[e]
+glycolaldehyde,gcald[e]
+D-gluconate,glcn[e]
+Glycerol,glyc[e]
+Reduced glutathione,gthrd[e]
+Guanine,gua[e]
+Hydrogen sulfide,h2s[e]
+Hexadecanoate (n-C16:0),hdca[e]
+hexanesulfonate,hexs[e]
+histamium,hista[e]
+indole-3-acetate,ind3ac[e]
+Isethionic acid,isetac[e]
+(S)-malate(2-),mal_L[e]
+D-Mannose,man[e]
+D-Mannitol,mnl[e]
+3-(n-Morpholino)Propanesulfonic Acid,mops[e]
+methanesulfonate,mso3[e]
+Nitrogen,n2[e]
+Nitrous oxide,n2o[e]
+Nitrite,no2[e]
+Nitrate,no3[e]
+phenylacetate,pac[e]
+propionate,ppa[e]
+Diphosphate,ppi[e]
+Putrescine,ptrc[e]
+Pyridoxamine,pydam[e]
+Pyridoxine,pydxn[e]
+Salicin,salcn[e]
+D-glucitol,sbt_D[e]
+serotonin(1+),srtn[e]
+sulfoacetate,sulfac[e]
+tryptaminium,trypta[e]
+thiosulfate(2-),tsul[e]
+tetradecanoate (n-C14:0),ttdca[e]
+tyraminium,tym[e]
+uracil,ura[e]
+Trimethylamine N-oxide,tmao[e]
+Xanthine,xan[e]
+"1,5-Diaminopentane",15dap[e]
+"meso-2,6-Diaminoheptanedioate",26dap_M[e]
+2-Demethylmenaquinone 8,2dmmq8[e]
+2-Oxobutanoate,2obut[e]
+Adenine,ade[e]
+chromate,cro4[e]
+Cytidine,cytd[e]
+2-deoxyadenosine,dad_2[e]
+Deoxycytidine,dcyt[e]
+Deoxyguanosine,dgsn[e]
+Glutarate,glutar[e]
+Hydrogen,h2[e]
+Inosine,ins[e]
+Menaquinone 8,mqn8[e]
+Ubiquinone-8,q8[e]
+Uridine,uri[e]
+Citrate-Mg,Cit_Mg[e]
+crotonobetaine,ctbt[e]
+laurate,ddca[e]
+gamma-butyrobetaine,gbbtn[e]
+NMN,nmn[e]
+Dephospho-CoA,dpcoa[e]
+dTMP,dtmp[e]
+Urea,urea[e]
+"1,2-Diacyl-sn-glycerol (dioctadecanoyl, n-C18:0)",12dgr180[e]
+4-hydroxyphenylacetate,4hphac[e]
+Malonate,HC00319[e]
+Adenosine,adn[e]
+D-alanine,ala_D[e]
+chorismate,chor[e]
+Cyanate,cynt[e]
+etha[c],etha[e]
+Ferrichrome,fecrm[e]
+D-Galactarate,galct_D[e]
+D-glucarate(2-),glcr[e]
+glycolate,glyclt[e]
+Nicotinamide,ncam[e]
+octadecenoate (n-C18:1),ocdcea[e]
+keto-phenylpyruvate,phpyr[e]
+D-serine,ser_D[e]
+oxalate(2-),oxa[e]
+7-Dehydrochenodeoxycholate,7dhcdchol[e]
+"3alpha,12alpha-Dihydroxy-7-oxo-5beta-cholanate",7ocholate[e]
+chenodeoxycholate,C02528[e]
+Cholate,cholate[e]
+4-hydroxybenzoate,4hbz[e]
+N-acetylneuraminate,acnam[e]
+Phenylpropanoate,pppn[e]
+myo-inositol,inost[e]
+"(S)-propane-1,2-diol",12ppd_S[e]
+Tyr-194 of apo-glycogenin protein (primer for glycogen synthesis),Tyr_ggn[e]
+"glycogen, structure 2 (glycogenin-1,6-{7[1,4-Glc], 4[1,4-Glc]})",glygn2[e]
+"glycogen, structure 4 (glycogenin-1,6-{2[1,4-Glc], [1,4-Glc]})",glygn4[e]
+"glycogen, structure 5 (glycogenin-2[1,4-Glc])",glygn5[e]
+Oxidized glutathione,gthox[e]
+L-Rhamnose,rmn[e]
+"starch, structure 1 (1,6-{7[1,4-Glc], 4[1,4-Glc]})",strch1[e]
+"starch, structure 2 (1,6-{2[1,4-Glc], [1,4-Glc]})",strch2[e]
+"N,N-diacetylchitobiose",chtbs[e]
+Raffinose,raffin[e]
+Nitric oxide,no[e]
+Arabinotriose,arabttr[e]
+nickel,ni2[e]
+Choline sulfate,chols[e]
+L-Carnitine,crn[e]
+Diacetyl,diact[e]
+cellobiose,cellb[e]
+Deoxyinosine,din[e]
+Deoxyuridine,duri[e]
+Indole,indole[e]
+(R)-Acetoin,actn_R[e]
+L-Fucose 1-phosphate,fuc1p_L[e]
+D-Glucose 6-phosphate,g6p[e]
+D-Mannose 6-phosphate,man6p[e]
+Melibiose,melib[e]
+3-Hydroxyphenylacetate,3hphac[e]
+AMP,amp[e]
+glycochenodeoxycholate,dgchol[e]
+L-fucose,fuc_L[e]
+glycocholate,gchola[e]
+L-Lyxose,lyx_L[e]
+pyruvate,pyr[e]
+taurocholate,tchola[e]
+taurochenodeoxycholate,tdchola[e]
+protein-linked serine or threonine residue (O-glycosylation site),Ser_Thr[e]
+T antigen (core 1),T_antigen[e]
+Tn antigen,Tn_antigen[e]
+N-acetyl-D-galactosamine,acgal[e]
+Core 2,core2[e]
+Core 3,core3[e]
+Core 4,core4[e]
+Core 5,core5[e]
+Core 6,core6[e]
+Core 7,core7[e]
+Core 8,core8[e]
+disialyl-T antigen,dsT_antigen[e]
+F1alpha,f1a[e]
+"GlcNAc-alpha-1,4-Core 1",gncore1[e]
+"GlcNAc-alpha-1,4-Core 2",gncore2[e]
+sialyl-T antigen,sT_antigen[e]
+sialyl-Tn antigen,sTn_antigen[e]
+D-Galacturonate,galur[e]
+D-glucuronate,glcur[e]
+Guanosine,gsn[e]
+"Isobutyrate, 2-Methylpropanoate",isobut[e]
+Isocaproate,isocapr[e]
+"Isovalerate, 3-Methylbutanoate",isoval[e]
+lanosterol,lanost[e]
+Phenol,phenol[e]
+"Chicory inulin, 30 monosaccharide units (29 fru, 1 glc) on average",inulin[e]
+Isoprene,ispre[e]
+3-Dehydrochenodeoxycholate,3dhcdchol[e]
+3-Dehydrocholate,3dhchol[e]
+"Kestose (2 fru, 1 glc inulin-type fructo-oligosaccharide)",kesto[e]
+"Kestopentaose (4 fru, 1 glc inulin-type fructo-oligosaccharide)",kestopt[e]
+"Kestotetraose (3 fru, 1 glc inulin-type fructo-oligosaccharide)",kestottr[e]
+12-Dehydrocholate,12dhchol[e]
+L-homoserine,hom_L[e]
+Molybdate,mobd[e]
+Isocitrate,icit[e]
+Pimelate,pime[e]
+L-Sorbitol (iMM904),sbt_L[e]
+R_R__2_3_Butanediol,btd_RR[e]
+methanol,meoh[e]
+pectins,pect[e]
+Dimer GalNAc-GlcA,acgalglcur[e]
+Dimer GalNAc-IdoA,acgalidour[e]
+Dimer GalNAc-IdoA2S,acgalidour2s[e]
+"Larch arabinogalactan, gal/ara 6:1, small amount of glcur, MW ~ 116000",arabinogal[e]
+chondroitin sulfate A (GalNAc4S-GlcA) proteoglycan,cspg_a[e]
+Dimer GalNAc4S-GlcA,cspg_a_degr[e]
+"Not degradable product CSABCPASE_A/B, Gal4S-Gal-Xyl-L-Ser-protein",cspg_ab_rest[e]
+chondroitin sulfate B / dermatan sulfate (IdoA2S-GalNAc4S) proteoglycan,cspg_b[e]
+Dimer GalNAc4S-IdoA2S,cspg_b_degr[e]
+chondroitin sulfate C (GalNAc6S-GlcA) proteoglycan,cspg_c[e]
+Dimer GalNAc6S-GlcA,cspg_c_degr[e]
+"Not degradable product CSABCPASE_C, Gal6S-Gal-Xyl-L-Ser-protein",cspg_c_rest[e]
+hyaluronan,ha[e]
+hyaluronan degradation product 1,ha_deg1[e]
+"hyaluronan biosynthesis, precursor 1",ha_pre1[e]
+"Homogalacturonan, 100 galacturonate residues. Assumed to be methylated/ acetylated in every 5th residue. Citrus HG consists of 7... <Preview truncated at 128 characters>",homogal[e]
+L-iduronate,idour[e]
+"Pectic galactan (potato), gal: arab-L: rmn: galur = 78: 9: 4: 9 (www.megazyme.com). Assumed to consist of 100 sugars per macromo... <Preview truncated at 128 characters>",pecticgal[e]
+"Potato rhamnogalacturonan I, MW assumed ~200000, 62 galur, 20 rmn, 12 gal, 3 arab-L, 1 xyl-D (www.megazyme.com, PMID: 16661590)",rhamnogalurI[e]
+"Amylopectin, 900 repeat units",amylopect900[e]
+"amylose (n=300 repeat units, alpha-1,4-glc)",amylose300[e]
+"Arabinan, polymer of 1,5-a-L-linked arabinofuranose units substituted by 1,3 or 1,2 linked branches, MW ~ 15000 Da (REF: www.meg... <Preview truncated at 128 characters>",arabinan101[e]
+"Arabinoxylan, 30 xyl_D, 18 arab_L, 3 gal, 3 glc_D",arabinoxyl[e]
+beta-glucans,bglc[e]
+"Dextran 40, 1,6-alpha-D-Glucan",dextran40[e]
+"Carob galactomannan, Gal:Man ratio 22/78. 220 gal, 780 man assumed",galmannan[e]
+"Glucosamine 2,6-sulfate",gam26s[e]
+"Konjac glucomannan, MW 77,500 (PMID:17962981), Man:Glc ~ 2:1. -> 286 man, 143 glc_D",glcmannan[e]
+heparan sulfate proteoglycan,hspg[e]
+"Product 1 HEPARL1_e, IdoA-GlcN2,6diS-GlcA-GlcN2,3,6triS",hspg_degr_1[e]
+"Product AS3TASE_HS2, GlcN2S-IdoA-GlcNAc-GlcA-Gal-Gal-Xyl-L-Ser (protein)",hspg_degr_10[e]
+"Product GAM2STASE_HS3, GlcN-IdoA-GlcNAc-GlcA-Gal-Gal-Xyl-L-Ser (protein)",hspg_degr_11[e]
+"Product GLCNACASE_HS2, GlcA-GlcNAc-IdoA-Gal-Gal-Xyl-L-Ser (protein)",hspg_degr_12[e]
+"Product GLCAASE_HS, GlcNAc-IdoA-Gal-Gal-Xyl-L-Ser (protein)",hspg_degr_13[e]
+"Product GLCNACASE_HS3, IdoA-Gal-Gal-Xyl-L-Ser (protein)",hspg_degr_14[e]
+"Product IDOURASE_HS3, Gal-Gal-Xyl-L-Ser (protein)",hspg_degr_15[e]
+"Product 2 HEPARL1_e, IdoA2S-GlcN2,6diS-IdoA2S-GlcNAc3S-GlcA-Gal-Gal-Xyl-L-Ser (protein)",hspg_degr_2[e]
+"Product IDOURASE_HS1, GlcN2,6diS-GlcA-GlcN2,3,6triS",hspg_degr_3[e]
+"Product AS6TASE_HS1, GlcN2S-GlcA-GlcN2,3diS",hspg_degr_4[e]
+"Product AS3TASE_HS1, GlcN2S-GlcA-GlcN2S",hspg_degr_5[e]
+"Product GAM2STASE_HS2, GlcN-GlcA-GlcN",hspg_degr_6[e]
+"Product IS2TASE_HS1, IdoA-GlcN2,6diS-IdoA-GlcNAc3S-GlcA-Gal-Gal-Xyl-L-Ser (protein)",hspg_degr_7[e]
+"Product IDOURASE_HS2, GlcN2,6diS-IdoA-GlcNAc3S-GlcA-Gal-Gal-Xyl-L-Ser (protein)",hspg_degr_8[e]
+"Product AS6TASE_HS2, GlcN2S-IdoA-GlcNAc3S-GlcA-Gal-Gal-Xyl-L-Ser (protein)",hspg_degr_9[e]
+"Undegradable product GALASE_HS, Xyl-L-Ser (protein)",hspg_rest[e]
+"Levan, 1000 fructose units",levan1000[e]
+Levanbiose,levanb[e]
+Levantriose,levanttr[e]
+Levantetraose,levantttr[e]
+"Lichenin from Icelandic moss, 170 glucose residues. DOI: 10.1039/JR9570001951",lichn[e]
+Laminaribiose,lmn2[e]
+"laminarin (n=30 repeat units, beta -1,3 glc)",lmn30[e]
+"Xyluglucan, PMID:16663672, Fry SC 1989. 600 glc_D, 360 xyl_D, 108 gal, 60 fuc_L, 6 arab_L",xyluglc[e]
+trans-4-hydroxy-L-proline,4hpro_LT[e]
+Isochenodeoxycholate,icdchol[e]
+Isocholate,isochol[e]
+"Oat spelt xylan, MW 79200 (DOI: 10.1002/masy.200551405) = 528 xyl_D",xylan[e]
+2-o-methylfucose (rare sugar in rhamnogalacturonan II),2omfuc[e]
+2-O-methylxylose (rare sugar in rhamnogalacturonan II),2omxyl[e]
+3-deoxy-d-lyxo-heptulosaric acid (rare sugar in rhamnogalacturonan II),3ddlhept[e]
+Aceric acid (3-C-carboxy-5-deoxy-l-xylose) (rare sugar in rhamnogalacturonan II),acerA[e]
+D-Apiose (rare sugar in rhamnogalacturonan II),apio_D[e]
+3-Deoxy-D-manno-2-octulosonate,kdo[e]
+"Alpha-mannan, yeast, has a MW of about 25000 (PMID: 5461381), equals ~ 140 mannose units. ID according to iMM904",mannan[e]
+"Wine rhamnogalacturonan II, MW ~ 5-10 kDa, 37% galur, 16% rmn, 3% fuc-L, 11% arab-L, 6% gal, 5% glcur, 4% 2omfuc, 3% 2omxyl, 6% ... <Preview truncated at 128 characters>",rhamnogalurII[e]
+dTTP,dttp[e]
+N-acetyl-D-mannosamine,acmana[e]
+5-Methyltetrahydrofolate,5mthf[e]
+"starch n=1200 repeat units (300 repeat units amylose, 900 repeat units amylopectin, corresponds to potatoe starch)",starch1200[e]
+"5,6,7,8-Tetrahydrofolate",thf[e]
+"Propane-1,3-diol",13ppd[e]
+xanthosine,xtsn[e]
+Dimethyl sulfide,dms[e]
+Dimethyl sulfoxide,dmso[e]
+Sulfite,so3[e]
+Tetrathionate,tet[e]
+Coenzyme A,coa[e]
+GTP,gtp[e]
+Thiamin monophosphate,thmmp[e]
+"Cellulose, chain length 500 glc_D assumed, DOI: 10.1002/anie.200460587",cellul[e]
+S-Adenosyl-L-methionine,amet[e]
+CMP,cmp[e]
+dATP,datp[e]
+Nicotinamide adenine dinucleotide phosphate,nadp[e]
+L-Idonate,idon_L[e]
+trans-Cinnamate,cinnm[e]
+selenate,sel[e]
+selenite,selni[e]
+butanol,btoh[e]
+Methanethiol,ch4s[e]
+Indole-3-propionate,ind3ppa[e]
+D-lactate,lac_D[e]
+L-lactate,lac_L[e]
+(R)-3-(4-Hydroxyphenyl)propionate,r34hpp[e]
+2-methylbutyrate,2mbut[e]
+4-Methylcatechol,4mcat[e]
+5-Aminopentanoate,5aptn[e]
+p-Cresol,pcresol[e]
+lithocholate,HC02191[e]
+Ursodiol,HC02194[e]
+Allodeoxycholic acid,adchac[e]
+Allolithocholic acid,alchac[e]
+deoxycholic acid,dchac[e]
+L-cystine,Lcystin[e]
+Reduced riboflavin,rbflvrd[e]
+p-hydroxyphenylpropionic acid,phppa[e]
+Valeric Acid,M03134[e]
+Ursocholate,uchol[e]
+Polysulfide,ph2s[e]
+cholesterol,chsterol[e]
+Coprostanol,coprost[e]
+S-Adenosyl-L-homocysteine,ahcys[e]
+Methane,ch4[e]
+formaldehyde,fald[e]
+Bicarbonate,hco3[e]
+Hydrogen peroxide,h2o2[e]
+Oxaloacetate,oaa[e]
+AOC3,_8639_1_c
+ABP1,_26_1[e]; _26_1_c; _26_1_m
+AOC2,_314_1_c; _314_2_c
+SLC25A21,_89874_1_c
+LDHAL6B,_92483_1_c; _92483_1_m
+LDHC,_3948_2_c; _3948_1_m; _3948_1_c
+UEVLD,_55293_1_c
+LDHB,_3945_1_m; _3945_1_c
+LDHA,_3939_1_m; _3939_1_c
+LDHA:LDHB,_3939_1_c_3945_1_c
+LDHAL6A,_160287_1_c
+SLC16A3,_9123_1_c
+SLC16A7,_9194_1_c
+SLC16A1,_6566_1_c
+SLC4A5,_57835_3_c; _57835_2_c; _57835_4_c; _57835_1_c
+SLC4A4,_8671_1_c
+OGDH,_4967_1_c; _4967_2_m; _4967_1_m; _4967_1[e]
+DLD,_1738_1_m
+PDHX,_8050_1_m
+DLST,_1743_1_m
+DLD:DLST:OGDH:PDHX,_1738_1_m_1743_1_m_4967_2_m_8050_1_m; _1738_1_m_1743_1_m_4967_1_m_8050_1_m
+ADH6,_130_1_c
+ADH4,_127_1_c
+ADH1B,_125_1_c
+ADH1A,_124_1_c
+ADH1A:ADH1B,_124_1_c_125_1_c
+ADH7,_131_1_c
+ADH1C,_126_1_c
+ADH1A:ADH1C,_124_1_c_126_1_c
+ADH5,_128_1_c
+ADHFE1,_137872_1_c
+ADH1B:ADH1C,_125_1_c_126_1_c
+SLC16A10,_117247_1_c
+HPD,_3242_1_c
+ABAT,_18_1_c; _18_2_m; _18_1_m; _18_2_c
+KDSR,_2531_1_c
+HAAO,_23498_1_c
+AADAT,_51166_1_c; _51166_2_c
+CCBL1,_883_1_c
+DDC,_1644_1_c
+SLC25A13,_10165_1_c
+SLC25A12,_8604_1_c
+GOT2,_2806_1_m
+MAOA,_4128_1_c
+MAOB,_4129_1_c
+ALDH4A1,_8659_1_m; _8659_2_m
+ALDH3B2,_222_1_m; _222_1[e]; _222_1_c
+ALDH1A3,_220_1_c; _220_1_m; _220_1[e]
+ALDH3B1,_221_1_m; _221_1[e]; _221_1_c
+ALDH3A1,_218_1_m; _218_1[e]; _218_1_c
+SULT1A2,_6799_2_c; _6799_1_c
+SULT1A1,_6817_5_c; _6817_3_c; _6817_4_c; _6817_2_c; _6817_1_c
+SULT1A3,_6818_3_c; _6818_1_c; _6818_2_c
+SULT2A1,_6822_1_c
+AOX1,_316_1_c
+FOLR1,_2348_5_c; _2348_2_c; _2348_3_c; _2348_1_c; _2348_4_c; _2348_6_c
+FOLR3,_2352_1_c
+MAN2B1,_4125_1_l
+A4GALT,_53947_1_g
+AACS,_65985_1_c
+ABO,_28_1_g
+ALDH9A1,_223_1[e]; _223_1_m; _223_1_c
+SLC36A1,_206358_1_c
+ACAT1,_38_1_m; _38_1_r
+ACAT2,_39_1_c; _39_1_x; _39_1_r
+HADHA,_3030_1_r; _3030_1[e]; _3030_1_m
+HADHB,_3032_1_r; _3032_1_m; _3032_1_c
+HADHA:HADHB,_3030_1_m_3032_1_m
+ACAA1,_30_1_c; _30_1_x; _30_1_m; _30_1_r
+SLC33A1,_9197_1_c; _9197_1_g
+NAGK,_55577_1_c
+PGM3,_5238_1_c
+PIGL,_9487_1_c
+ACHE,_43_1[e]; _43_2[e]
+ACLY,_47_1_c; _47_2_c
+NANS,_54187_1_c
+SLC17A5,_26503_1_c
+ACADSB,_36_1_m
+ACADM,_34_1_m; _34_1_c; _34_1_x
+ACAD10,_80724_1_m
+ACADS,_35_1_m
+ACAD11,_84129_1_m
+ACAD8,_27034_1_m; _27034_1_c
+ACAD9,_28976_1_m; _28976_1_c
+ACOX1,_51_2_x; _51_1_c; _51_1_x; _51_1_m
+IREB2,_3658_1_c
+ACO1,_48_1_m; _48_1_c
+ACO2,_50_1_c; _50_1_m
+ACOX2,_8309_1_x
+ACP1,_52_3_c; _52_2_c; _52_1_c
+SLC25A20,_788_1_c
+ADA,_100_1[e]; _100_1_c
+SLC29A2,_3177_1_c
+AK7,_122481_1_c
+AK1,_203_1_c
+AK5,_26289_2_c; _26289_1_c
+AK4,_205_1_m; _205_1_c; _205_2_m; _205_3_m
+AK2,_204_3_m; _204_2_m; _204_1_c; _204_1_m
+AK3,_50808_1_m
+AMD1,_262_1_c
+ADCY6,_112_1_c; _112_2_c
+ADCY10,_55811_1_c
+ADCY3,_109_1_c
+ADCY8,_114_1_c
+ADCY2,_108_1_c
+ADCY7,_113_1_c
+ADCY1,_107_1_c
+ADCY4,_196883_1_c
+ADCY9,_115_1_c
+ADCY5,_111_1_c
+SLC29A1,_2030_1_c
+CPT1B,_1375_3_c; _1375_4_c; _1375_1_c; _1375_2_c
+CPT1C,_126129_1_c
+CPT1A,_1374_1_c
+CPT2,_1376_1_c; _1376_1_m
+PAPSS2,_9060_1_c
+PAPSS1,_9061_1_c
+ADSL,_158_2_c; _158_1_c
+ADSS,_159_1_c
+ADSSL1,_122622_2_c; _122622_1_c
+B3GNT4,_79369_1_g
+B3GNT2,_10678_1_g; _10678_2_g
+B3GNT1,_11041_1_g
+B3GNTL1,_146712_1_g
+B3GNT8,_374907_2_g; _374907_1_g
+B3GNT7,_93010_1_g
+B3GNT3,_10331_1_g
+AGMAT,_79814_1_m
+AGXT2,_64902_1_m
+AGXT2L1,_64850_1_m
+HEXB,_3074_1_l
+HEXA,_3073_1_l
+HEXA:HEXB,_3073_1_l_3074_1_l
+ATIC,_471_1_c
+PAICS,_10606_1_c
+SLC25A11,_8402_1_c
+AKR1C1,_1645_1_c
+AKR1D1,_6718_1_c
+SLC1A5,_6510_1_c
+SLC1A4,_6509_1_c
+SLC7A10,_56301_1_c
+SLC3A2,_6520_1_c
+SLC7A10:SLC3A2,_56301_1_c_6520_1_c
+PROSC,_11212_1_c
+ALAS2,_212_1_m
+GCAT,_23464_1_m
+ALAS1,_211_1_m; _211_2_m
+SLC38A2,_54407_1_c
+SLC7A2,_6542_1_c
+SLC6A14,_11254_1_c
+SLC7A1,_6541_1_c
+SLC38A1,_81539_1_c
+SLC38A4,_55089_1_c
+SLC7A3,_84889_1_c
+SLC38A5,_92745_1_c
+SLC38A3,_10991_1_c
+ZADH2,_284273_1_c; _284273_2_c
+AKR1A1,_10327_2_c; _10327_1_c
+ALDH7A1,_501_1[e]; _501_1_c; _501_1_m
+ALDH1A2,_8854_3_c; _8854_2_c; _8854_1_c
+ALDH3A2,_224_1[e]; _224_1_c; _224_1_m
+ALDH1A1,_216_1_c
+ALDH1B1,_219_1[e]; _219_1_c; _219_1_m
+ALDH2,_217_1_c; _217_1_m; _217_1[e]
+ALOX5,_240_1_c
+AKR7A2,_8574_1_c
+AKR1B1,_231_1_c
+AMACR,_23600_2_x; _23600_1_x
+GNE,_10020_1_c
+SLC25A26,_115286_1_c; _115286_2_c; _115286_3_c
+AMPD2,_271_3_c; _271_2_c; _271_1_c
+AMPD1,_270_1_c
+AMPD3,_272_1_c
+ANPEP,_290_1_c; _290_1[e]
+ADC,_113451_1_m
+ARG2,_384_1_m
+ASL,_435_1_c
+ASS1,_445_2_c; _445_1_c
+SLC25A2,_83884_1_c
+SLC25A15,_10166_1_c
+ARSA,_410_1_l
+SLC23A2,_9962_1_c; _9962_2_c
+SLC23A1,_9963_1_c; _9963_2_c
+ASRGL1,_80150_1_m
+ASNS,_440_1_c; _440_3_c; _440_2_c
+GOT1,_2805_1_c
+ENTPD2,_954_2[e]; _954_1[e]; _954_1_c
+ENTPD1,_953_1[e]; _953_1_m; _953_1_c
+ENTPD3,_956_1_m; _956_1[e]; _956_1_c
+ENTPD6,_955_1[e]
+ENTPD5,_957_1[e]
+ATP5D,_513_2_c; _513_1_c
+ATP5A1,_498_2_c; _498_3_c; _498_1_c
+ATP5B,_506_1_c
+ATP5C1,_509_1_c; _509_2_c
+ATP5E,_514_1_c; _514_2_c
+ATP5A1:ATP5B:ATP5C1:ATP5D:ATP5E,_498_3_c_506_1_c_509_1_c_513_1_c_514_1_c; _498_2_c_506_1_c_509_2_c_513_2_c_514_1_c; _498_2_c_506_1_c_509_2_c_513_1_c_514_1_c; _498_3_c_506_1_c_509_1_c_513_2_c_514_1_c; _498_1_c_506_1_c_509_2_c_513_2_c_514_1_c; _498_2_c_506_1_c_509_1_c_513_2_c_514_2_c; _498_3_c_506_1_c_509_1_c_513_2_c_514_2_c; _498_3_c_506_1_c_509_2_c_513_1_c_514_2_c; _498_3_c_506_1_c_509_2_c_513_2_c_514_1_c; _498_2_c_506_1_c_509_2_c_513_2_c_514_2_c; _498_3_c_506_1_c_509_2_c_513_2_c_514_2_c; _498_2_c_506_1_c_509_1_c_513_1_c_514_1_c; _498_2_c_506_1_c_509_1_c_513_2_c_514_1_c; _498_1_c_506_1_c_509_2_c_513_1_c_514_1_c; _498_1_c_506_1_c_509_1_c_513_2_c_514_1_c; _498_3_c_506_1_c_509_1_c_513_1_c_514_2_c; _498_1_c_506_1_c_509_1_c_513_1_c_514_2_c; _498_1_c_506_1_c_509_2_c_513_1_c_514_2_c; _498_2_c_506_1_c_509_1_c_513_1_c_514_2_c; _498_1_c_506_1_c_509_2_c_513_2_c_514_2_c; _498_1_c_506_1_c_509_1_c_513_1_c_514_1_c; _498_3_c_506_1_c_509_2_c_513_1_c_514_1_c; _498_2_c_506_1_c_509_2_c_513_1_c_514_2_c
+ATP5L,_10632_1_c
+NSF,_4905_1_c
+ATP5H,_10476_1_c; _10476_2_c
+ATP5J2,_9551_2_c; _9551_1_c; _9551_3_c
+ATP5J,_522_3_c; _522_1_c; _522_2_c; _522_4_c; _522_5_c
+ATP5G1,_516_2_c; _516_1_c
+ATP5I,_521_1_c
+ATP5F1,_515_3_c; _515_2_c; _515_1_c
+ATP5H:ATP5L:NSF:ATP5A1:ATP5B:ATP5C1:ATP5D:ATP5E:ATP5F1:ATP5G1:ATP5I:ATP5J:ATP5J2,_10476_1_c_10632_1_c_4905_1_c_498_1_c_506_1_c_509_1_c_513_2_c_514_2_c_515_1_c_516_2_c_521_1_c_522_5_c_9551_3_c
+ATP5G3,_518_2_c; _518_1_c; _518_3_c
+ATP5H:ATP5L:NSF:ATP5F1:ATP5G3:ATP5I:ATP5J:ATP5J2,_10476_1_c_10632_1_c_4905_1_c_515_2_c_518_1_c_521_1_c_522_3_c_9551_2_c; _10476_2_c_10632_1_c_4905_1_c_515_2_c_518_1_c_521_1_c_522_2_c_9551_2_c; _10476_1_c_10632_1_c_4905_1_c_515_3_c_518_3_c_521_1_c_522_2_c_9551_3_c; _10476_1_c_10632_1_c_4905_1_c_515_2_c_518_2_c_521_1_c_522_4_c_9551_1_c; _10476_2_c_10632_1_c_4905_1_c_515_3_c_518_1_c_521_1_c_522_3_c_9551_3_c; _10476_1_c_10632_1_c_4905_1_c_515_1_c_518_2_c_521_1_c_522_5_c_9551_3_c; _10476_2_c_10632_1_c_4905_1_c_515_1_c_518_1_c_521_1_c_522_4_c_9551_2_c; _10476_2_c_10632_1_c_4905_1_c_515_2_c_518_1_c_521_1_c_522_3_c_9551_3_c; _10476_1_c_10632_1_c_4905_1_c_515_3_c_518_1_c_521_1_c_522_5_c_9551_2_c; _10476_1_c_10632_1_c_4905_1_c_515_2_c_518_2_c_521_1_c_522_2_c_9551_3_c; _10476_1_c_10632_1_c_4905_1_c_515_2_c_518_1_c_521_1_c_522_1_c_9551_2_c; _10476_1_c_10632_1_c_4905_1_c_515_2_c_518_1_c_521_1_c_522_2_c_9551_3_c; _10476_2_c_10632_1_c_4905_1_c_515_2_c_518_1_c_521_1_c_522_2_c_9551_3_c; _10476_1_c_10632_1_c_4905_1_c_515_3_c_518_3_c_521_1_c_522_4_c_9551_1_c; _10476_1_c_10632_1_c_4905_1_c_515_1_c_518_1_c_521_1_c_522_1_c_9551_2_c; _10476_1_c_10632_1_c_4905_1_c_515_3_c_518_2_c_521_1_c_522_4_c_9551_3_c; _10476_2_c_10632_1_c_4905_1_c_515_2_c_518_1_c_521_1_c_522_2_c_9551_1_c; _10476_2_c_10632_1_c_4905_1_c_515_2_c_518_3_c_521_1_c_522_1_c_9551_1_c; _10476_1_c_10632_1_c_4905_1_c_515_1_c_518_1_c_521_1_c_522_3_c_9551_3_c; _10476_1_c_10632_1_c_4905_1_c_515_1_c_518_2_c_521_1_c_522_4_c_9551_1_c; _10476_1_c_10632_1_c_4905_1_c_515_3_c_518_2_c_521_1_c_522_3_c_9551_3_c; _10476_1_c_10632_1_c_4905_1_c_515_2_c_518_2_c_521_1_c_522_5_c_9551_3_c; _10476_2_c_10632_1_c_4905_1_c_515_2_c_518_3_c_521_1_c_522_3_c_9551_1_c; _10476_2_c_10632_1_c_4905_1_c_515_3_c_518_2_c_521_1_c_522_3_c_9551_3_c; _10476_2_c_10632_1_c_4905_1_c_515_2_c_518_1_c_521_1_c_522_5_c_9551_2_c; _10476_2_c_10632_1_c_4905_1_c_515_1_c_518_3_c_521_1_c_522_4_c_9551_2_c; _10476_1_c_10632_1_c_4905_1_c_515_3_c_518_2_c_521_1_c_522_1_c_9551_2_c; _10476_2_c_10632_1_c_4905_1_c_515_2_c_518_1_c_521_1_c_522_4_c_9551_3_c; _10476_1_c_10632_1_c_4905_1_c_515_2_c_518_3_c_521_1_c_522_1_c_9551_1_c; _10476_1_c_10632_1_c_4905_1_c_515_3_c_518_2_c_521_1_c_522_5_c_9551_1_c; _10476_1_c_10632_1_c_4905_1_c_515_3_c_518_1_c_521_1_c_522_3_c_9551_1_c; _10476_1_c_10632_1_c_4905_1_c_515_1_c_518_3_c_521_1_c_522_3_c_9551_1_c; _10476_1_c_10632_1_c_4905_1_c_515_1_c_518_2_c_521_1_c_522_1_c_9551_3_c; _10476_2_c_10632_1_c_4905_1_c_515_2_c_518_1_c_521_1_c_522_1_c_9551_2_c; _10476_1_c_10632_1_c_4905_1_c_515_3_c_518_3_c_521_1_c_522_3_c_9551_1_c; _10476_1_c_10632_1_c_4905_1_c_515_3_c_518_2_c_521_1_c_522_3_c_9551_1_c; _10476_1_c_10632_1_c_4905_1_c_515_3_c_518_1_c_521_1_c_522_4_c_9551_3_c; _10476_2_c_10632_1_c_4905_1_c_515_3_c_518_1_c_521_1_c_522_2_c_9551_2_c; _10476_2_c_10632_1_c_4905_1_c_515_3_c_518_1_c_521_1_c_522_1_c_9551_2_c; _10476_2_c_10632_1_c_4905_1_c_515_2_c_518_2_c_521_1_c_522_4_c_9551_2_c; _10476_1_c_10632_1_c_4905_1_c_515_2_c_518_3_c_521_1_c_522_4_c_9551_1_c; _10476_2_c_10632_1_c_4905_1_c_515_2_c_518_3_c_521_1_c_522_2_c_9551_1_c; _10476_2_c_10632_1_c_4905_1_c_515_1_c_518_3_c_521_1_c_522_3_c_9551_1_c; _10476_2_c_10632_1_c_4905_1_c_515_1_c_518_3_c_521_1_c_522_5_c_9551_3_c; _10476_2_c_10632_1_c_4905_1_c_515_2_c_518_1_c_521_1_c_522_1_c_9551_3_c; _10476_1_c_10632_1_c_4905_1_c_515_1_c_518_2_c_521_1_c_522_2_c_9551_1_c; _10476_1_c_10632_1_c_4905_1_c_515_2_c_518_3_c_521_1_c_522_2_c_9551_3_c; _10476_2_c_10632_1_c_4905_1_c_515_1_c_518_1_c_521_1_c_522_2_c_9551_2_c; _10476_1_c_10632_1_c_4905_1_c_515_2_c_518_2_c_521_1_c_522_1_c_9551_3_c; _10476_2_c_10632_1_c_4905_1_c_515_1_c_518_2_c_521_1_c_522_1_c_9551_2_c; _10476_2_c_10632_1_c_4905_1_c_515_2_c_518_2_c_521_1_c_522_1_c_9551_1_c; _10476_1_c_10632_1_c_4905_1_c_515_3_c_518_3_c_521_1_c_522_1_c_9551_2_c; _10476_2_c_10632_1_c_4905_1_c_515_3_c_518_3_c_521_1_c_522_3_c_9551_3_c; _10476_2_c_10632_1_c_4905_1_c_515_1_c_518_1_c_521_1_c_522_1_c_9551_1_c; _10476_2_c_10632_1_c_4905_1_c_515_1_c_518_1_c_521_1_c_522_4_c_9551_1_c; _10476_1_c_10632_1_c_4905_1_c_515_3_c_518_3_c_521_1_c_522_5_c_9551_2_c; _10476_1_c_10632_1_c_4905_1_c_515_1_c_518_3_c_521_1_c_522_3_c_9551_2_c; _10476_2_c_10632_1_c_4905_1_c_515_2_c_518_3_c_521_1_c_522_1_c_9551_3_c; _10476_2_c_10632_1_c_4905_1_c_515_1_c_518_2_c_521_1_c_522_1_c_9551_3_c; _10476_2_c_10632_1_c_4905_1_c_515_2_c_518_2_c_521_1_c_522_4_c_9551_1_c; _10476_2_c_10632_1_c_4905_1_c_515_1_c_518_1_c_521_1_c_522_1_c_9551_3_c; _10476_1_c_10632_1_c_4905_1_c_515_2_c_518_2_c_521_1_c_522_4_c_9551_3_c; _10476_1_c_10632_1_c_4905_1_c_515_1_c_518_3_c_521_1_c_522_2_c_9551_3_c; _10476_2_c_10632_1_c_4905_1_c_515_2_c_518_2_c_521_1_c_522_1_c_9551_3_c; _10476_2_c_10632_1_c_4905_1_c_515_1_c_518_1_c_521_1_c_522_5_c_9551_2_c; _10476_1_c_10632_1_c_4905_1_c_515_1_c_518_1_c_521_1_c_522_1_c_9551_1_c; _10476_2_c_10632_1_c_4905_1_c_515_1_c_518_1_c_521_1_c_522_5_c_9551_1_c; _10476_2_c_10632_1_c_4905_1_c_515_2_c_518_3_c_521_1_c_522_2_c_9551_2_c; _10476_1_c_10632_1_c_4905_1_c_515_3_c_518_3_c_521_1_c_522_3_c_9551_3_c; _10476_1_c_10632_1_c_4905_1_c_515_2_c_518_1_c_521_1_c_522_1_c_9551_3_c; _10476_1_c_10632_1_c_4905_1_c_515_3_c_518_2_c_521_1_c_522_3_c_9551_2_c; _10476_2_c_10632_1_c_4905_1_c_515_2_c_518_3_c_521_1_c_522_4_c_9551_1_c; _10476_1_c_10632_1_c_4905_1_c_515_1_c_518_1_c_521_1_c_522_2_c_9551_2_c; _10476_2_c_10632_1_c_4905_1_c_515_1_c_518_3_c_521_1_c_522_2_c_9551_3_c; _10476_2_c_10632_1_c_4905_1_c_515_3_c_518_3_c_521_1_c_522_3_c_9551_2_c; _10476_1_c_10632_1_c_4905_1_c_515_2_c_518_1_c_521_1_c_522_4_c_9551_3_c; _10476_2_c_10632_1_c_4905_1_c_515_1_c_518_3_c_521_1_c_522_4_c_9551_1_c; _10476_1_c_10632_1_c_4905_1_c_515_2_c_518_1_c_521_1_c_522_1_c_9551_1_c; _10476_2_c_10632_1_c_4905_1_c_515_2_c_518_3_c_521_1_c_522_3_c_9551_2_c; _10476_1_c_10632_1_c_4905_1_c_515_1_c_518_3_c_521_1_c_522_3_c_9551_3_c; _10476_1_c_10632_1_c_4905_1_c_515_1_c_518_2_c_521_1_c_522_3_c_9551_1_c; _10476_2_c_10632_1_c_4905_1_c_515_1_c_518_2_c_521_1_c_522_2_c_9551_3_c; _10476_1_c_10632_1_c_4905_1_c_515_3_c_518_3_c_521_1_c_522_5_c_9551_1_c; _10476_1_c_10632_1_c_4905_1_c_515_2_c_518_3_c_521_1_c_522_5_c_9551_3_c; _10476_1_c_10632_1_c_4905_1_c_515_3_c_518_2_c_521_1_c_522_5_c_9551_3_c; _10476_2_c_10632_1_c_4905_1_c_515_1_c_518_2_c_521_1_c_522_2_c_9551_2_c; _10476_2_c_10632_1_c_4905_1_c_515_1_c_518_2_c_521_1_c_522_4_c_9551_2_c; _10476_2_c_10632_1_c_4905_1_c_515_2_c_518_3_c_521_1_c_522_5_c_9551_3_c; _10476_2_c_10632_1_c_4905_1_c_515_3_c_518_3_c_521_1_c_522_3_c_9551_1_c; _10476_2_c_10632_1_c_4905_1_c_515_2_c_518_2_c_521_1_c_522_5_c_9551_3_c; _10476_1_c_10632_1_c_4905_1_c_515_1_c_518_1_c_521_1_c_522_4_c_9551_1_c; _10476_1_c_10632_1_c_4905_1_c_515_1_c_518_2_c_521_1_c_522_5_c_9551_1_c; _10476_1_c_10632_1_c_4905_1_c_515_1_c_518_3_c_521_1_c_522_1_c_9551_1_c; _10476_1_c_10632_1_c_4905_1_c_515_2_c_518_3_c_521_1_c_522_2_c_9551_2_c; _10476_1_c_10632_1_c_4905_1_c_515_3_c_518_3_c_521_1_c_522_2_c_9551_1_c; _10476_2_c_10632_1_c_4905_1_c_515_2_c_518_3_c_521_1_c_522_5_c_9551_1_c; _10476_2_c_10632_1_c_4905_1_c_515_2_c_518_1_c_521_1_c_522_3_c_9551_1_c; _10476_2_c_10632_1_c_4905_1_c_515_2_c_518_2_c_521_1_c_522_5_c_9551_2_c; _10476_1_c_10632_1_c_4905_1_c_515_1_c_518_1_c_521_1_c_522_1_c_9551_3_c; _10476_2_c_10632_1_c_4905_1_c_515_1_c_518_3_c_521_1_c_522_3_c_9551_2_c; _10476_2_c_10632_1_c_4905_1_c_515_3_c_518_3_c_521_1_c_522_1_c_9551_3_c; _10476_2_c_10632_1_c_4905_1_c_515_1_c_518_3_c_521_1_c_522_2_c_9551_2_c; _10476_2_c_10632_1_c_4905_1_c_515_3_c_518_3_c_521_1_c_522_5_c_9551_3_c; _10476_2_c_10632_1_c_4905_1_c_515_3_c_518_3_c_521_1_c_522_2_c_9551_1_c; _10476_2_c_10632_1_c_4905_1_c_515_2_c_518_2_c_521_1_c_522_3_c_9551_2_c; _10476_2_c_10632_1_c_4905_1_c_515_2_c_518_2_c_521_1_c_522_3_c_9551_3_c; _10476_1_c_10632_1_c_4905_1_c_515_2_c_518_3_c_521_1_c_522_2_c_9551_1_c; _10476_1_c_10632_1_c_4905_1_c_515_1_c_518_3_c_521_1_c_522_2_c_9551_2_c; _10476_2_c_10632_1_c_4905_1_c_515_3_c_518_3_c_521_1_c_522_1_c_9551_2_c; _10476_2_c_10632_1_c_4905_1_c_515_2_c_518_3_c_521_1_c_522_5_c_9551_2_c; _10476_2_c_10632_1_c_4905_1_c_515_1_c_518_2_c_521_1_c_522_4_c_9551_3_c; _10476_2_c_10632_1_c_4905_1_c_515_3_c_518_3_c_521_1_c_522_4_c_9551_3_c; _10476_1_c_10632_1_c_4905_1_c_515_3_c_518_2_c_521_1_c_522_5_c_9551_2_c; _10476_1_c_10632_1_c_4905_1_c_515_2_c_518_2_c_521_1_c_522_4_c_9551_2_c; _10476_2_c_10632_1_c_4905_1_c_515_3_c_518_1_c_521_1_c_522_2_c_9551_3_c; _10476_2_c_10632_1_c_4905_1_c_515_3_c_518_1_c_521_1_c_522_1_c_9551_1_c; _10476_2_c_10632_1_c_4905_1_c_515_2_c_518_3_c_521_1_c_522_4_c_9551_2_c; _10476_1_c_10632_1_c_4905_1_c_515_3_c_518_1_c_521_1_c_522_5_c_9551_3_c; _10476_1_c_10632_1_c_4905_1_c_515_2_c_518_2_c_521_1_c_522_2_c_9551_2_c; _10476_2_c_10632_1_c_4905_1_c_515_2_c_518_1_c_521_1_c_522_5_c_9551_1_c; _10476_2_c_10632_1_c_4905_1_c_515_1_c_518_1_c_521_1_c_522_4_c_9551_3_c; _10476_1_c_10632_1_c_4905_1_c_515_2_c_518_2_c_521_1_c_522_5_c_9551_1_c; _10476_1_c_10632_1_c_4905_1_c_515_1_c_518_1_c_521_1_c_522_2_c_9551_1_c; _10476_1_c_10632_1_c_4905_1_c_515_1_c_518_2_c_521_1_c_522_1_c_9551_1_c; _10476_1_c_10632_1_c_4905_1_c_515_1_c_518_2_c_521_1_c_522_2_c_9551_2_c; _10476_1_c_10632_1_c_4905_1_c_515_1_c_518_1_c_521_1_c_522_2_c_9551_3_c; _10476_1_c_10632_1_c_4905_1_c_515_2_c_518_2_c_521_1_c_522_5_c_9551_2_c; _10476_1_c_10632_1_c_4905_1_c_515_3_c_518_3_c_521_1_c_522_3_c_9551_2_c; _10476_1_c_10632_1_c_4905_1_c_515_3_c_518_3_c_521_1_c_522_1_c_9551_3_c; _10476_2_c_10632_1_c_4905_1_c_515_3_c_518_1_c_521_1_c_522_5_c_9551_2_c; _10476_2_c_10632_1_c_4905_1_c_515_3_c_518_2_c_521_1_c_522_5_c_9551_2_c; _10476_1_c_10632_1_c_4905_1_c_515_1_c_518_1_c_521_1_c_522_5_c_9551_3_c; _10476_1_c_10632_1_c_4905_1_c_515_1_c_518_2_c_521_1_c_522_4_c_9551_3_c; _10476_1_c_10632_1_c_4905_1_c_515_3_c_518_1_c_521_1_c_522_3_c_9551_3_c; _10476_1_c_10632_1_c_4905_1_c_515_3_c_518_2_c_521_1_c_522_2_c_9551_2_c; _10476_2_c_10632_1_c_4905_1_c_515_1_c_518_3_c_521_1_c_522_5_c_9551_2_c; _10476_2_c_10632_1_c_4905_1_c_515_1_c_518_1_c_521_1_c_522_1_c_9551_2_c; _10476_1_c_10632_1_c_4905_1_c_515_1_c_518_3_c_521_1_c_522_2_c_9551_1_c; _10476_1_c_10632_1_c_4905_1_c_515_3_c_518_3_c_521_1_c_522_2_c_9551_2_c; _10476_2_c_10632_1_c_4905_1_c_515_1_c_518_1_c_521_1_c_522_5_c_9551_3_c; _10476_1_c_10632_1_c_4905_1_c_515_3_c_518_3_c_521_1_c_522_1_c_9551_1_c; _10476_2_c_10632_1_c_4905_1_c_515_1_c_518_3_c_521_1_c_522_1_c_9551_3_c; _10476_1_c_10632_1_c_4905_1_c_515_2_c_518_3_c_521_1_c_522_4_c_9551_2_c; _10476_1_c_10632_1_c_4905_1_c_515_2_c_518_2_c_521_1_c_522_3_c_9551_2_c; _10476_2_c_10632_1_c_4905_1_c_515_1_c_518_2_c_521_1_c_522_3_c_9551_2_c; _10476_1_c_10632_1_c_4905_1_c_515_1_c_518_2_c_521_1_c_522_3_c_9551_2_c; _10476_1_c_10632_1_c_4905_1_c_515_3_c_518_1_c_521_1_c_522_3_c_9551_2_c; _10476_1_c_10632_1_c_4905_1_c_515_1_c_518_2_c_521_1_c_522_1_c_9551_2_c; _10476_2_c_10632_1_c_4905_1_c_515_3_c_518_2_c_521_1_c_522_1_c_9551_1_c; _10476_2_c_10632_1_c_4905_1_c_515_1_c_518_1_c_521_1_c_522_2_c_9551_1_c; _10476_2_c_10632_1_c_4905_1_c_515_3_c_518_2_c_521_1_c_522_3_c_9551_1_c; _10476_1_c_10632_1_c_4905_1_c_515_1_c_518_3_c_521_1_c_522_4_c_9551_2_c; _10476_2_c_10632_1_c_4905_1_c_515_1_c_518_2_c_521_1_c_522_3_c_9551_3_c; _10476_1_c_10632_1_c_4905_1_c_515_1_c_518_3_c_521_1_c_522_5_c_9551_2_c; _10476_1_c_10632_1_c_4905_1_c_515_3_c_518_1_c_521_1_c_522_4_c_9551_2_c; _10476_1_c_10632_1_c_4905_1_c_515_3_c_518_2_c_521_1_c_522_2_c_9551_1_c; _10476_2_c_10632_1_c_4905_1_c_515_3_c_518_3_c_521_1_c_522_4_c_9551_2_c; _10476_1_c_10632_1_c_4905_1_c_515_1_c_518_3_c_521_1_c_522_4_c_9551_3_c; _10476_2_c_10632_1_c_4905_1_c_515_3_c_518_3_c_521_1_c_522_5_c_9551_2_c; _10476_2_c_10632_1_c_4905_1_c_515_1_c_518_3_c_521_1_c_522_1_c_9551_1_c; _10476_2_c_10632_1_c_4905_1_c_515_2_c_518_3_c_521_1_c_522_2_c_9551_3_c; _10476_2_c_10632_1_c_4905_1_c_515_1_c_518_3_c_521_1_c_522_5_c_9551_1_c; _10476_1_c_10632_1_c_4905_1_c_515_2_c_518_1_c_521_1_c_522_5_c_9551_2_c; _10476_1_c_10632_1_c_4905_1_c_515_3_c_518_2_c_521_1_c_522_1_c_9551_3_c; _10476_2_c_10632_1_c_4905_1_c_515_2_c_518_3_c_521_1_c_522_3_c_9551_3_c; _10476_1_c_10632_1_c_4905_1_c_515_3_c_518_2_c_521_1_c_522_4_c_9551_2_c; _10476_1_c_10632_1_c_4905_1_c_515_1_c_518_3_c_521_1_c_522_5_c_9551_3_c; _10476_1_c_10632_1_c_4905_1_c_515_3_c_518_1_c_521_1_c_522_1_c_9551_3_c; _10476_2_c_10632_1_c_4905_1_c_515_1_c_518_2_c_521_1_c_522_3_c_9551_1_c; _10476_1_c_10632_1_c_4905_1_c_515_2_c_518_2_c_521_1_c_522_3_c_9551_3_c; _10476_2_c_10632_1_c_4905_1_c_515_3_c_518_2_c_521_1_c_522_5_c_9551_1_c; _10476_1_c_10632_1_c_4905_1_c_515_2_c_518_3_c_521_1_c_522_4_c_9551_3_c; _10476_2_c_10632_1_c_4905_1_c_515_3_c_518_1_c_521_1_c_522_2_c_9551_1_c; _10476_2_c_10632_1_c_4905_1_c_515_1_c_518_3_c_521_1_c_522_3_c_9551_3_c; _10476_2_c_10632_1_c_4905_1_c_515_1_c_518_3_c_521_1_c_522_1_c_9551_2_c; _10476_2_c_10632_1_c_4905_1_c_515_3_c_518_1_c_521_1_c_522_4_c_9551_2_c; _10476_2_c_10632_1_c_4905_1_c_515_1_c_518_2_c_521_1_c_522_2_c_9551_1_c; _10476_1_c_10632_1_c_4905_1_c_515_2_c_518_1_c_521_1_c_522_4_c_9551_2_c; _10476_1_c_10632_1_c_4905_1_c_515_2_c_518_2_c_521_1_c_522_2_c_9551_1_c; _10476_2_c_10632_1_c_4905_1_c_515_3_c_518_1_c_521_1_c_522_4_c_9551_3_c; _10476_2_c_10632_1_c_4905_1_c_515_3_c_518_2_c_521_1_c_522_4_c_9551_3_c; _10476_1_c_10632_1_c_4905_1_c_515_1_c_518_2_c_521_1_c_522_4_c_9551_2_c; _10476_1_c_10632_1_c_4905_1_c_515_3_c_518_2_c_521_1_c_522_4_c_9551_1_c; _10476_1_c_10632_1_c_4905_1_c_515_1_c_518_1_c_521_1_c_522_3_c_9551_1_c; _10476_1_c_10632_1_c_4905_1_c_515_2_c_518_1_c_521_1_c_522_4_c_9551_1_c; _10476_1_c_10632_1_c_4905_1_c_515_1_c_518_2_c_521_1_c_522_2_c_9551_3_c; _10476_1_c_10632_1_c_4905_1_c_515_3_c_518_1_c_521_1_c_522_5_c_9551_1_c; _10476_2_c_10632_1_c_4905_1_c_515_3_c_518_2_c_521_1_c_522_1_c_9551_3_c; _10476_2_c_10632_1_c_4905_1_c_515_2_c_518_2_c_521_1_c_522_4_c_9551_3_c; _10476_2_c_10632_1_c_4905_1_c_515_1_c_518_2_c_521_1_c_522_5_c_9551_1_c; _10476_2_c_10632_1_c_4905_1_c_515_3_c_518_2_c_521_1_c_522_2_c_9551_2_c; _10476_1_c_10632_1_c_4905_1_c_515_3_c_518_3_c_521_1_c_522_4_c_9551_2_c; _10476_2_c_10632_1_c_4905_1_c_515_1_c_518_2_c_521_1_c_522_5_c_9551_3_c; _10476_1_c_10632_1_c_4905_1_c_515_2_c_518_1_c_521_1_c_522_5_c_9551_3_c; _10476_2_c_10632_1_c_4905_1_c_515_3_c_518_2_c_521_1_c_522_3_c_9551_2_c; _10476_2_c_10632_1_c_4905_1_c_515_3_c_518_3_c_521_1_c_522_5_c_9551_1_c; _10476_2_c_10632_1_c_4905_1_c_515_3_c_518_3_c_521_1_c_522_4_c_9551_1_c; _10476_2_c_10632_1_c_4905_1_c_515_3_c_518_1_c_521_1_c_522_3_c_9551_2_c; _10476_1_c_10632_1_c_4905_1_c_515_1_c_518_1_c_521_1_c_522_5_c_9551_1_c; _10476_1_c_10632_1_c_4905_1_c_515_3_c_518_3_c_521_1_c_522_5_c_9551_3_c; _10476_2_c_10632_1_c_4905_1_c_515_2_c_518_2_c_521_1_c_522_2_c_9551_2_c; _10476_2_c_10632_1_c_4905_1_c_515_3_c_518_2_c_521_1_c_522_1_c_9551_2_c; _10476_1_c_10632_1_c_4905_1_c_515_2_c_518_1_c_521_1_c_522_5_c_9551_1_c; _10476_2_c_10632_1_c_4905_1_c_515_2_c_518_2_c_521_1_c_522_1_c_9551_2_c; _10476_2_c_10632_1_c_4905_1_c_515_1_c_518_2_c_521_1_c_522_1_c_9551_1_c; _10476_1_c_10632_1_c_4905_1_c_515_1_c_518_1_c_521_1_c_522_4_c_9551_2_c; _10476_1_c_10632_1_c_4905_1_c_515_2_c_518_2_c_521_1_c_522_1_c_9551_1_c; _10476_2_c_10632_1_c_4905_1_c_515_2_c_518_3_c_521_1_c_522_4_c_9551_3_c; _10476_1_c_10632_1_c_4905_1_c_515_3_c_518_2_c_521_1_c_522_1_c_9551_1_c; _10476_2_c_10632_1_c_4905_1_c_515_3_c_518_3_c_521_1_c_522_2_c_9551_2_c; _10476_2_c_10632_1_c_4905_1_c_515_3_c_518_1_c_521_1_c_522_4_c_9551_1_c; _10476_2_c_10632_1_c_4905_1_c_515_2_c_518_2_c_521_1_c_522_3_c_9551_1_c; _10476_1_c_10632_1_c_4905_1_c_515_1_c_518_2_c_521_1_c_522_3_c_9551_3_c; _10476_1_c_10632_1_c_4905_1_c_515_3_c_518_1_c_521_1_c_522_2_c_9551_2_c; _10476_1_c_10632_1_c_4905_1_c_515_2_c_518_1_c_521_1_c_522_2_c_9551_2_c; _10476_1_c_10632_1_c_4905_1_c_515_1_c_518_2_c_521_1_c_522_5_c_9551_2_c; _10476_1_c_10632_1_c_4905_1_c_515_2_c_518_3_c_521_1_c_522_1_c_9551_3_c; _10476_1_c_10632_1_c_4905_1_c_515_3_c_518_3_c_521_1_c_522_4_c_9551_3_c; _10476_2_c_10632_1_c_4905_1_c_515_3_c_518_1_c_521_1_c_522_3_c_9551_1_c; _10476_1_c_10632_1_c_4905_1_c_515_2_c_518_1_c_521_1_c_522_3_c_9551_3_c; _10476_1_c_10632_1_c_4905_1_c_515_2_c_518_1_c_521_1_c_522_2_c_9551_1_c; _10476_2_c_10632_1_c_4905_1_c_515_3_c_518_1_c_521_1_c_522_5_c_9551_3_c; _10476_2_c_10632_1_c_4905_1_c_515_3_c_518_2_c_521_1_c_522_5_c_9551_3_c; _10476_2_c_10632_1_c_4905_1_c_515_2_c_518_2_c_521_1_c_522_2_c_9551_1_c; _10476_2_c_10632_1_c_4905_1_c_515_3_c_518_3_c_521_1_c_522_1_c_9551_1_c; _10476_1_c_10632_1_c_4905_1_c_515_2_c_518_2_c_521_1_c_522_1_c_9551_2_c; _10476_1_c_10632_1_c_4905_1_c_515_2_c_518_2_c_521_1_c_522_3_c_9551_1_c; _10476_1_c_10632_1_c_4905_1_c_515_2_c_518_3_c_521_1_c_522_3_c_9551_1_c; _10476_1_c_10632_1_c_4905_1_c_515_1_c_518_3_c_521_1_c_522_4_c_9551_1_c; _10476_2_c_10632_1_c_4905_1_c_515_1_c_518_2_c_521_1_c_522_4_c_9551_1_c; _10476_1_c_10632_1_c_4905_1_c_515_2_c_518_3_c_521_1_c_522_3_c_9551_3_c; _10476_1_c_10632_1_c_4905_1_c_515_3_c_518_1_c_521_1_c_522_4_c_9551_1_c; _10476_2_c_10632_1_c_4905_1_c_515_2_c_518_2_c_521_1_c_522_5_c_9551_1_c; _10476_2_c_10632_1_c_4905_1_c_515_2_c_518_1_c_521_1_c_522_3_c_9551_2_c; _10476_2_c_10632_1_c_4905_1_c_515_2_c_518_1_c_521_1_c_522_5_c_9551_3_c; _10476_1_c_10632_1_c_4905_1_c_515_2_c_518_3_c_521_1_c_522_3_c_9551_2_c; _10476_1_c_10632_1_c_4905_1_c_515_1_c_518_3_c_521_1_c_522_1_c_9551_2_c; _10476_2_c_10632_1_c_4905_1_c_515_1_c_518_1_c_521_1_c_522_3_c_9551_1_c; _10476_2_c_10632_1_c_4905_1_c_515_1_c_518_1_c_521_1_c_522_2_c_9551_3_c; _10476_2_c_10632_1_c_4905_1_c_515_2_c_518_1_c_521_1_c_522_4_c_9551_1_c; _10476_2_c_10632_1_c_4905_1_c_515_3_c_518_2_c_521_1_c_522_4_c_9551_2_c; _10476_1_c_10632_1_c_4905_1_c_515_3_c_518_2_c_521_1_c_522_2_c_9551_3_c; _10476_2_c_10632_1_c_4905_1_c_515_2_c_518_3_c_521_1_c_522_1_c_9551_2_c; _10476_1_c_10632_1_c_4905_1_c_515_3_c_518_1_c_521_1_c_522_2_c_9551_1_c; _10476_2_c_10632_1_c_4905_1_c_515_3_c_518_1_c_521_1_c_522_5_c_9551_1_c; _10476_2_c_10632_1_c_4905_1_c_515_3_c_518_3_c_521_1_c_522_2_c_9551_3_c; _10476_2_c_10632_1_c_4905_1_c_515_2_c_518_2_c_521_1_c_522_2_c_9551_3_c; _10476_1_c_10632_1_c_4905_1_c_515_1_c_518_3_c_521_1_c_522_1_c_9551_3_c; _10476_1_c_10632_1_c_4905_1_c_515_1_c_518_1_c_521_1_c_522_4_c_9551_3_c; _10476_1_c_10632_1_c_4905_1_c_515_2_c_518_3_c_521_1_c_522_5_c_9551_2_c; _10476_1_c_10632_1_c_4905_1_c_515_3_c_518_1_c_521_1_c_522_1_c_9551_2_c; _10476_1_c_10632_1_c_4905_1_c_515_2_c_518_3_c_521_1_c_522_5_c_9551_1_c; _10476_2_c_10632_1_c_4905_1_c_515_3_c_518_2_c_521_1_c_522_2_c_9551_1_c; _10476_2_c_10632_1_c_4905_1_c_515_3_c_518_2_c_521_1_c_522_4_c_9551_1_c; _10476_2_c_10632_1_c_4905_1_c_515_1_c_518_1_c_521_1_c_522_3_c_9551_2_c; _10476_1_c_10632_1_c_4905_1_c_515_2_c_518_1_c_521_1_c_522_3_c_9551_1_c; _10476_2_c_10632_1_c_4905_1_c_515_2_c_518_1_c_521_1_c_522_4_c_9551_2_c; _10476_2_c_10632_1_c_4905_1_c_515_1_c_518_2_c_521_1_c_522_5_c_9551_2_c; _10476_1_c_10632_1_c_4905_1_c_515_1_c_518_3_c_521_1_c_522_5_c_9551_1_c; _10476_2_c_10632_1_c_4905_1_c_515_1_c_518_1_c_521_1_c_522_3_c_9551_3_c; _10476_1_c_10632_1_c_4905_1_c_515_3_c_518_1_c_521_1_c_522_1_c_9551_1_c; _10476_2_c_10632_1_c_4905_1_c_515_2_c_518_1_c_521_1_c_522_1_c_9551_1_c; _10476_1_c_10632_1_c_4905_1_c_515_3_c_518_1_c_521_1_c_522_2_c_9551_3_c; _10476_2_c_10632_1_c_4905_1_c_515_3_c_518_2_c_521_1_c_522_2_c_9551_3_c; _10476_2_c_10632_1_c_4905_1_c_515_1_c_518_3_c_521_1_c_522_2_c_9551_1_c; _10476_2_c_10632_1_c_4905_1_c_515_3_c_518_1_c_521_1_c_522_1_c_9551_3_c; _10476_2_c_10632_1_c_4905_1_c_515_1_c_518_3_c_521_1_c_522_4_c_9551_3_c; _10476_1_c_10632_1_c_4905_1_c_515_1_c_518_1_c_521_1_c_522_3_c_9551_2_c; _10476_1_c_10632_1_c_4905_1_c_515_1_c_518_1_c_521_1_c_522_5_c_9551_2_c; _10476_1_c_10632_1_c_4905_1_c_515_2_c_518_3_c_521_1_c_522_1_c_9551_2_c
+ATP5G2,_517_2_c; _517_1_c
+ATP5H:ATP5L:NSF:ATP5F1:ATP5G2:ATP5I:ATP5J:ATP5J2,_10476_1_c_10632_1_c_4905_1_c_515_3_c_517_1_c_521_1_c_522_3_c_9551_1_c; _10476_2_c_10632_1_c_4905_1_c_515_1_c_517_2_c_521_1_c_522_1_c_9551_2_c; _10476_1_c_10632_1_c_4905_1_c_515_3_c_517_2_c_521_1_c_522_1_c_9551_1_c; _10476_1_c_10632_1_c_4905_1_c_515_1_c_517_2_c_521_1_c_522_1_c_9551_1_c; _10476_1_c_10632_1_c_4905_1_c_515_3_c_517_1_c_521_1_c_522_5_c_9551_2_c; _10476_2_c_10632_1_c_4905_1_c_515_1_c_517_2_c_521_1_c_522_2_c_9551_2_c; _10476_1_c_10632_1_c_4905_1_c_515_1_c_517_2_c_521_1_c_522_3_c_9551_2_c; _10476_1_c_10632_1_c_4905_1_c_515_2_c_517_1_c_521_1_c_522_1_c_9551_1_c; _10476_1_c_10632_1_c_4905_1_c_515_1_c_517_1_c_521_1_c_522_1_c_9551_3_c; _10476_1_c_10632_1_c_4905_1_c_515_3_c_517_1_c_521_1_c_522_4_c_9551_2_c; _10476_2_c_10632_1_c_4905_1_c_515_3_c_517_1_c_521_1_c_522_2_c_9551_3_c; _10476_1_c_10632_1_c_4905_1_c_515_3_c_517_2_c_521_1_c_522_3_c_9551_2_c; _10476_1_c_10632_1_c_4905_1_c_515_3_c_517_2_c_521_1_c_522_4_c_9551_1_c; _10476_1_c_10632_1_c_4905_1_c_515_3_c_517_2_c_521_1_c_522_1_c_9551_2_c; _10476_2_c_10632_1_c_4905_1_c_515_3_c_517_1_c_521_1_c_522_4_c_9551_1_c; _10476_1_c_10632_1_c_4905_1_c_515_3_c_517_2_c_521_1_c_522_5_c_9551_3_c; _10476_1_c_10632_1_c_4905_1_c_515_1_c_517_2_c_521_1_c_522_5_c_9551_3_c; _10476_2_c_10632_1_c_4905_1_c_515_2_c_517_2_c_521_1_c_522_1_c_9551_2_c; _10476_2_c_10632_1_c_4905_1_c_515_1_c_517_1_c_521_1_c_522_1_c_9551_3_c; _10476_1_c_10632_1_c_4905_1_c_515_3_c_517_2_c_521_1_c_522_2_c_9551_2_c; _10476_2_c_10632_1_c_4905_1_c_515_1_c_517_2_c_521_1_c_522_2_c_9551_1_c; _10476_1_c_10632_1_c_4905_1_c_515_1_c_517_2_c_521_1_c_522_2_c_9551_2_c; _10476_1_c_10632_1_c_4905_1_c_515_2_c_517_2_c_521_1_c_522_4_c_9551_3_c; _10476_1_c_10632_1_c_4905_1_c_515_1_c_517_1_c_521_1_c_522_5_c_9551_3_c; _10476_2_c_10632_1_c_4905_1_c_515_3_c_517_1_c_521_1_c_522_2_c_9551_2_c; _10476_1_c_10632_1_c_4905_1_c_515_3_c_517_1_c_521_1_c_522_2_c_9551_3_c; _10476_1_c_10632_1_c_4905_1_c_515_3_c_517_1_c_521_1_c_522_4_c_9551_3_c; _10476_1_c_10632_1_c_4905_1_c_515_2_c_517_1_c_521_1_c_522_2_c_9551_2_c; _10476_2_c_10632_1_c_4905_1_c_515_1_c_517_1_c_521_1_c_522_4_c_9551_2_c; _10476_2_c_10632_1_c_4905_1_c_515_3_c_517_1_c_521_1_c_522_2_c_9551_1_c; _10476_2_c_10632_1_c_4905_1_c_515_2_c_517_1_c_521_1_c_522_2_c_9551_2_c; _10476_2_c_10632_1_c_4905_1_c_515_3_c_517_2_c_521_1_c_522_5_c_9551_1_c; _10476_1_c_10632_1_c_4905_1_c_515_1_c_517_2_c_521_1_c_522_2_c_9551_3_c; _10476_1_c_10632_1_c_4905_1_c_515_1_c_517_2_c_521_1_c_522_4_c_9551_2_c; _10476_1_c_10632_1_c_4905_1_c_515_1_c_517_1_c_521_1_c_522_1_c_9551_1_c; _10476_2_c_10632_1_c_4905_1_c_515_2_c_517_2_c_521_1_c_522_1_c_9551_1_c; _10476_1_c_10632_1_c_4905_1_c_515_2_c_517_1_c_521_1_c_522_1_c_9551_3_c; _10476_1_c_10632_1_c_4905_1_c_515_3_c_517_1_c_521_1_c_522_1_c_9551_3_c; _10476_1_c_10632_1_c_4905_1_c_515_1_c_517_2_c_521_1_c_522_2_c_9551_1_c; _10476_1_c_10632_1_c_4905_1_c_515_3_c_517_1_c_521_1_c_522_2_c_9551_2_c; _10476_2_c_10632_1_c_4905_1_c_515_2_c_517_1_c_521_1_c_522_5_c_9551_2_c; _10476_2_c_10632_1_c_4905_1_c_515_2_c_517_1_c_521_1_c_522_2_c_9551_1_c; _10476_1_c_10632_1_c_4905_1_c_515_2_c_517_1_c_521_1_c_522_5_c_9551_1_c; _10476_1_c_10632_1_c_4905_1_c_515_1_c_517_2_c_521_1_c_522_4_c_9551_1_c; _10476_1_c_10632_1_c_4905_1_c_515_1_c_517_1_c_521_1_c_522_2_c_9551_3_c; _10476_1_c_10632_1_c_4905_1_c_515_2_c_517_2_c_521_1_c_522_1_c_9551_2_c; _10476_2_c_10632_1_c_4905_1_c_515_2_c_517_2_c_521_1_c_522_5_c_9551_3_c; _10476_2_c_10632_1_c_4905_1_c_515_1_c_517_1_c_521_1_c_522_5_c_9551_1_c; _10476_2_c_10632_1_c_4905_1_c_515_2_c_517_1_c_521_1_c_522_3_c_9551_3_c; _10476_2_c_10632_1_c_4905_1_c_515_1_c_517_1_c_521_1_c_522_5_c_9551_3_c; _10476_1_c_10632_1_c_4905_1_c_515_3_c_517_1_c_521_1_c_522_1_c_9551_2_c; _10476_2_c_10632_1_c_4905_1_c_515_1_c_517_2_c_521_1_c_522_5_c_9551_1_c; _10476_1_c_10632_1_c_4905_1_c_515_1_c_517_2_c_521_1_c_522_3_c_9551_1_c; _10476_1_c_10632_1_c_4905_1_c_515_2_c_517_1_c_521_1_c_522_4_c_9551_2_c; _10476_1_c_10632_1_c_4905_1_c_515_3_c_517_1_c_521_1_c_522_3_c_9551_3_c; _10476_2_c_10632_1_c_4905_1_c_515_2_c_517_2_c_521_1_c_522_4_c_9551_3_c; _10476_2_c_10632_1_c_4905_1_c_515_3_c_517_2_c_521_1_c_522_2_c_9551_2_c; _10476_1_c_10632_1_c_4905_1_c_515_2_c_517_2_c_521_1_c_522_1_c_9551_3_c; _10476_1_c_10632_1_c_4905_1_c_515_1_c_517_2_c_521_1_c_522_1_c_9551_3_c; _10476_1_c_10632_1_c_4905_1_c_515_3_c_517_2_c_521_1_c_522_1_c_9551_3_c; _10476_1_c_10632_1_c_4905_1_c_515_3_c_517_2_c_521_1_c_522_2_c_9551_1_c; _10476_1_c_10632_1_c_4905_1_c_515_3_c_517_2_c_521_1_c_522_4_c_9551_3_c; _10476_1_c_10632_1_c_4905_1_c_515_3_c_517_1_c_521_1_c_522_5_c_9551_3_c; _10476_2_c_10632_1_c_4905_1_c_515_3_c_517_2_c_521_1_c_522_1_c_9551_2_c; _10476_2_c_10632_1_c_4905_1_c_515_3_c_517_1_c_521_1_c_522_4_c_9551_3_c; _10476_1_c_10632_1_c_4905_1_c_515_2_c_517_2_c_521_1_c_522_1_c_9551_1_c; _10476_1_c_10632_1_c_4905_1_c_515_2_c_517_2_c_521_1_c_522_3_c_9551_3_c; _10476_2_c_10632_1_c_4905_1_c_515_2_c_517_1_c_521_1_c_522_5_c_9551_1_c; _10476_2_c_10632_1_c_4905_1_c_515_3_c_517_2_c_521_1_c_522_5_c_9551_3_c; _10476_1_c_10632_1_c_4905_1_c_515_2_c_517_1_c_521_1_c_522_4_c_9551_1_c; _10476_1_c_10632_1_c_4905_1_c_515_2_c_517_1_c_521_1_c_522_3_c_9551_3_c; _10476_2_c_10632_1_c_4905_1_c_515_2_c_517_2_c_521_1_c_522_3_c_9551_3_c; _10476_2_c_10632_1_c_4905_1_c_515_2_c_517_1_c_521_1_c_522_3_c_9551_1_c; _10476_2_c_10632_1_c_4905_1_c_515_2_c_517_2_c_521_1_c_522_2_c_9551_3_c; _10476_2_c_10632_1_c_4905_1_c_515_3_c_517_1_c_521_1_c_522_1_c_9551_3_c; _10476_2_c_10632_1_c_4905_1_c_515_1_c_517_1_c_521_1_c_522_5_c_9551_2_c; _10476_2_c_10632_1_c_4905_1_c_515_1_c_517_2_c_521_1_c_522_1_c_9551_1_c; _10476_2_c_10632_1_c_4905_1_c_515_3_c_517_2_c_521_1_c_522_5_c_9551_2_c; _10476_1_c_10632_1_c_4905_1_c_515_1_c_517_2_c_521_1_c_522_4_c_9551_3_c; _10476_2_c_10632_1_c_4905_1_c_515_1_c_517_1_c_521_1_c_522_4_c_9551_3_c; _10476_1_c_10632_1_c_4905_1_c_515_1_c_517_1_c_521_1_c_522_4_c_9551_1_c; _10476_2_c_10632_1_c_4905_1_c_515_2_c_517_1_c_521_1_c_522_4_c_9551_3_c; _10476_2_c_10632_1_c_4905_1_c_515_1_c_517_1_c_521_1_c_522_3_c_9551_2_c; _10476_1_c_10632_1_c_4905_1_c_515_3_c_517_2_c_521_1_c_522_3_c_9551_1_c; _10476_2_c_10632_1_c_4905_1_c_515_3_c_517_1_c_521_1_c_522_5_c_9551_1_c; _10476_2_c_10632_1_c_4905_1_c_515_1_c_517_1_c_521_1_c_522_4_c_9551_1_c; _10476_1_c_10632_1_c_4905_1_c_515_1_c_517_1_c_521_1_c_522_4_c_9551_3_c; _10476_2_c_10632_1_c_4905_1_c_515_3_c_517_1_c_521_1_c_522_4_c_9551_2_c; _10476_2_c_10632_1_c_4905_1_c_515_3_c_517_2_c_521_1_c_522_4_c_9551_2_c; _10476_2_c_10632_1_c_4905_1_c_515_1_c_517_1_c_521_1_c_522_2_c_9551_2_c; _10476_1_c_10632_1_c_4905_1_c_515_3_c_517_2_c_521_1_c_522_3_c_9551_3_c; _10476_2_c_10632_1_c_4905_1_c_515_1_c_517_1_c_521_1_c_522_2_c_9551_1_c; _10476_1_c_10632_1_c_4905_1_c_515_2_c_517_2_c_521_1_c_522_5_c_9551_1_c; _10476_2_c_10632_1_c_4905_1_c_515_1_c_517_2_c_521_1_c_522_3_c_9551_2_c; _10476_1_c_10632_1_c_4905_1_c_515_1_c_517_2_c_521_1_c_522_5_c_9551_1_c; _10476_1_c_10632_1_c_4905_1_c_515_2_c_517_2_c_521_1_c_522_3_c_9551_1_c; _10476_2_c_10632_1_c_4905_1_c_515_1_c_517_2_c_521_1_c_522_4_c_9551_2_c; _10476_2_c_10632_1_c_4905_1_c_515_3_c_517_2_c_521_1_c_522_2_c_9551_3_c; _10476_1_c_10632_1_c_4905_1_c_515_1_c_517_1_c_521_1_c_522_2_c_9551_2_c; _10476_2_c_10632_1_c_4905_1_c_515_1_c_517_2_c_521_1_c_522_3_c_9551_1_c; _10476_1_c_10632_1_c_4905_1_c_515_2_c_517_1_c_521_1_c_522_3_c_9551_2_c; _10476_1_c_10632_1_c_4905_1_c_515_2_c_517_2_c_521_1_c_522_2_c_9551_3_c; _10476_1_c_10632_1_c_4905_1_c_515_1_c_517_2_c_521_1_c_522_3_c_9551_3_c; _10476_2_c_10632_1_c_4905_1_c_515_2_c_517_2_c_521_1_c_522_3_c_9551_1_c; _10476_1_c_10632_1_c_4905_1_c_515_2_c_517_2_c_521_1_c_522_4_c_9551_2_c; _10476_1_c_10632_1_c_4905_1_c_515_1_c_517_1_c_521_1_c_522_1_c_9551_2_c; _10476_1_c_10632_1_c_4905_1_c_515_1_c_517_1_c_521_1_c_522_4_c_9551_2_c; _10476_1_c_10632_1_c_4905_1_c_515_3_c_517_2_c_521_1_c_522_2_c_9551_3_c; _10476_2_c_10632_1_c_4905_1_c_515_1_c_517_2_c_521_1_c_522_5_c_9551_2_c; _10476_1_c_10632_1_c_4905_1_c_515_2_c_517_1_c_521_1_c_522_2_c_9551_1_c; _10476_2_c_10632_1_c_4905_1_c_515_1_c_517_2_c_521_1_c_522_1_c_9551_3_c; _10476_2_c_10632_1_c_4905_1_c_515_3_c_517_2_c_521_1_c_522_4_c_9551_1_c; _10476_2_c_10632_1_c_4905_1_c_515_1_c_517_1_c_521_1_c_522_3_c_9551_3_c; _10476_1_c_10632_1_c_4905_1_c_515_1_c_517_1_c_521_1_c_522_5_c_9551_1_c; _10476_1_c_10632_1_c_4905_1_c_515_2_c_517_1_c_521_1_c_522_1_c_9551_2_c; _10476_2_c_10632_1_c_4905_1_c_515_1_c_517_1_c_521_1_c_522_1_c_9551_1_c; _10476_1_c_10632_1_c_4905_1_c_515_2_c_517_1_c_521_1_c_522_4_c_9551_3_c; _10476_1_c_10632_1_c_4905_1_c_515_1_c_517_2_c_521_1_c_522_1_c_9551_2_c; _10476_1_c_10632_1_c_4905_1_c_515_2_c_517_2_c_521_1_c_522_5_c_9551_2_c; _10476_2_c_10632_1_c_4905_1_c_515_3_c_517_2_c_521_1_c_522_1_c_9551_1_c; _10476_2_c_10632_1_c_4905_1_c_515_2_c_517_1_c_521_1_c_522_4_c_9551_2_c; _10476_2_c_10632_1_c_4905_1_c_515_2_c_517_1_c_521_1_c_522_1_c_9551_1_c; _10476_2_c_10632_1_c_4905_1_c_515_2_c_517_1_c_521_1_c_522_3_c_9551_2_c; _10476_2_c_10632_1_c_4905_1_c_515_2_c_517_1_c_521_1_c_522_1_c_9551_2_c; _10476_2_c_10632_1_c_4905_1_c_515_1_c_517_1_c_521_1_c_522_3_c_9551_1_c; _10476_2_c_10632_1_c_4905_1_c_515_1_c_517_2_c_521_1_c_522_5_c_9551_3_c; _10476_1_c_10632_1_c_4905_1_c_515_3_c_517_1_c_521_1_c_522_5_c_9551_1_c; _10476_2_c_10632_1_c_4905_1_c_515_2_c_517_1_c_521_1_c_522_4_c_9551_1_c; _10476_2_c_10632_1_c_4905_1_c_515_3_c_517_1_c_521_1_c_522_3_c_9551_2_c; _10476_2_c_10632_1_c_4905_1_c_515_2_c_517_2_c_521_1_c_522_4_c_9551_2_c; _10476_2_c_10632_1_c_4905_1_c_515_2_c_517_2_c_521_1_c_522_1_c_9551_3_c; _10476_2_c_10632_1_c_4905_1_c_515_2_c_517_1_c_521_1_c_522_2_c_9551_3_c; _10476_2_c_10632_1_c_4905_1_c_515_2_c_517_2_c_521_1_c_522_5_c_9551_1_c; _10476_1_c_10632_1_c_4905_1_c_515_1_c_517_2_c_521_1_c_522_5_c_9551_2_c; _10476_1_c_10632_1_c_4905_1_c_515_3_c_517_1_c_521_1_c_522_3_c_9551_2_c; _10476_1_c_10632_1_c_4905_1_c_515_2_c_517_2_c_521_1_c_522_2_c_9551_1_c; _10476_1_c_10632_1_c_4905_1_c_515_2_c_517_2_c_521_1_c_522_4_c_9551_1_c; _10476_1_c_10632_1_c_4905_1_c_515_2_c_517_2_c_521_1_c_522_5_c_9551_3_c; _10476_2_c_10632_1_c_4905_1_c_515_3_c_517_1_c_521_1_c_522_5_c_9551_3_c; _10476_1_c_10632_1_c_4905_1_c_515_2_c_517_2_c_521_1_c_522_2_c_9551_2_c; _10476_2_c_10632_1_c_4905_1_c_515_2_c_517_2_c_521_1_c_522_2_c_9551_2_c; _10476_1_c_10632_1_c_4905_1_c_515_3_c_517_1_c_521_1_c_522_1_c_9551_1_c; _10476_2_c_10632_1_c_4905_1_c_515_1_c_517_2_c_521_1_c_522_4_c_9551_3_c; _10476_1_c_10632_1_c_4905_1_c_515_1_c_517_1_c_521_1_c_522_3_c_9551_2_c; _10476_2_c_10632_1_c_4905_1_c_515_2_c_517_2_c_521_1_c_522_2_c_9551_1_c; _10476_2_c_10632_1_c_4905_1_c_515_3_c_517_1_c_521_1_c_522_1_c_9551_2_c; _10476_2_c_10632_1_c_4905_1_c_515_3_c_517_1_c_521_1_c_522_5_c_9551_2_c; _10476_2_c_10632_1_c_4905_1_c_515_3_c_517_2_c_521_1_c_522_3_c_9551_3_c; _10476_1_c_10632_1_c_4905_1_c_515_1_c_517_1_c_521_1_c_522_2_c_9551_1_c; _10476_2_c_10632_1_c_4905_1_c_515_2_c_517_1_c_521_1_c_522_5_c_9551_3_c; _10476_2_c_10632_1_c_4905_1_c_515_1_c_517_2_c_521_1_c_522_2_c_9551_3_c; _10476_1_c_10632_1_c_4905_1_c_515_2_c_517_1_c_521_1_c_522_5_c_9551_3_c; _10476_1_c_10632_1_c_4905_1_c_515_3_c_517_1_c_521_1_c_522_4_c_9551_1_c; _10476_2_c_10632_1_c_4905_1_c_515_2_c_517_1_c_521_1_c_522_1_c_9551_3_c; _10476_1_c_10632_1_c_4905_1_c_515_3_c_517_2_c_521_1_c_522_5_c_9551_2_c; _10476_2_c_10632_1_c_4905_1_c_515_1_c_517_2_c_521_1_c_522_4_c_9551_1_c; _10476_2_c_10632_1_c_4905_1_c_515_3_c_517_1_c_521_1_c_522_1_c_9551_1_c; _10476_2_c_10632_1_c_4905_1_c_515_3_c_517_2_c_521_1_c_522_3_c_9551_1_c; _10476_2_c_10632_1_c_4905_1_c_515_2_c_517_2_c_521_1_c_522_3_c_9551_2_c; _10476_2_c_10632_1_c_4905_1_c_515_2_c_517_2_c_521_1_c_522_5_c_9551_2_c; _10476_2_c_10632_1_c_4905_1_c_515_1_c_517_1_c_521_1_c_522_1_c_9551_2_c; _10476_2_c_10632_1_c_4905_1_c_515_3_c_517_2_c_521_1_c_522_4_c_9551_3_c; _10476_2_c_10632_1_c_4905_1_c_515_3_c_517_1_c_521_1_c_522_3_c_9551_1_c; _10476_1_c_10632_1_c_4905_1_c_515_3_c_517_2_c_521_1_c_522_4_c_9551_2_c; _10476_1_c_10632_1_c_4905_1_c_515_2_c_517_1_c_521_1_c_522_2_c_9551_3_c; _10476_1_c_10632_1_c_4905_1_c_515_2_c_517_2_c_521_1_c_522_3_c_9551_2_c; _10476_1_c_10632_1_c_4905_1_c_515_1_c_517_1_c_521_1_c_522_3_c_9551_3_c; _10476_2_c_10632_1_c_4905_1_c_515_3_c_517_1_c_521_1_c_522_3_c_9551_3_c; _10476_2_c_10632_1_c_4905_1_c_515_1_c_517_2_c_521_1_c_522_3_c_9551_3_c; _10476_2_c_10632_1_c_4905_1_c_515_1_c_517_1_c_521_1_c_522_2_c_9551_3_c; _10476_1_c_10632_1_c_4905_1_c_515_1_c_517_1_c_521_1_c_522_3_c_9551_1_c; _10476_1_c_10632_1_c_4905_1_c_515_1_c_517_1_c_521_1_c_522_5_c_9551_2_c; _10476_1_c_10632_1_c_4905_1_c_515_3_c_517_1_c_521_1_c_522_2_c_9551_1_c; _10476_1_c_10632_1_c_4905_1_c_515_3_c_517_2_c_521_1_c_522_5_c_9551_1_c; _10476_2_c_10632_1_c_4905_1_c_515_2_c_517_2_c_521_1_c_522_4_c_9551_1_c; _10476_1_c_10632_1_c_4905_1_c_515_2_c_517_1_c_521_1_c_522_3_c_9551_1_c; _10476_2_c_10632_1_c_4905_1_c_515_3_c_517_2_c_521_1_c_522_2_c_9551_1_c; _10476_2_c_10632_1_c_4905_1_c_515_3_c_517_2_c_521_1_c_522_3_c_9551_2_c; _10476_2_c_10632_1_c_4905_1_c_515_3_c_517_2_c_521_1_c_522_1_c_9551_3_c; _10476_1_c_10632_1_c_4905_1_c_515_2_c_517_1_c_521_1_c_522_5_c_9551_2_c
+ATP5H:ATP5L:NSF:ATP5F1:ATP5G1:ATP5I:ATP5J:ATP5J2,_10476_2_c_10632_1_c_4905_1_c_515_2_c_516_2_c_521_1_c_522_1_c_9551_1_c; _10476_2_c_10632_1_c_4905_1_c_515_2_c_516_1_c_521_1_c_522_5_c_9551_3_c; _10476_1_c_10632_1_c_4905_1_c_515_2_c_516_2_c_521_1_c_522_1_c_9551_3_c; _10476_1_c_10632_1_c_4905_1_c_515_1_c_516_2_c_521_1_c_522_5_c_9551_1_c; _10476_2_c_10632_1_c_4905_1_c_515_2_c_516_1_c_521_1_c_522_5_c_9551_2_c; _10476_2_c_10632_1_c_4905_1_c_515_2_c_516_1_c_521_1_c_522_1_c_9551_1_c; _10476_1_c_10632_1_c_4905_1_c_515_1_c_516_1_c_521_1_c_522_4_c_9551_1_c; _10476_1_c_10632_1_c_4905_1_c_515_1_c_516_1_c_521_1_c_522_1_c_9551_1_c; _10476_1_c_10632_1_c_4905_1_c_515_3_c_516_2_c_521_1_c_522_2_c_9551_2_c; _10476_1_c_10632_1_c_4905_1_c_515_3_c_516_2_c_521_1_c_522_2_c_9551_1_c; _10476_1_c_10632_1_c_4905_1_c_515_2_c_516_1_c_521_1_c_522_5_c_9551_1_c; _10476_2_c_10632_1_c_4905_1_c_515_3_c_516_1_c_521_1_c_522_1_c_9551_1_c; _10476_1_c_10632_1_c_4905_1_c_515_2_c_516_1_c_521_1_c_522_5_c_9551_3_c; _10476_1_c_10632_1_c_4905_1_c_515_1_c_516_2_c_521_1_c_522_1_c_9551_2_c; _10476_2_c_10632_1_c_4905_1_c_515_2_c_516_2_c_521_1_c_522_5_c_9551_1_c; _10476_1_c_10632_1_c_4905_1_c_515_2_c_516_2_c_521_1_c_522_5_c_9551_2_c; _10476_1_c_10632_1_c_4905_1_c_515_1_c_516_1_c_521_1_c_522_3_c_9551_2_c; _10476_2_c_10632_1_c_4905_1_c_515_1_c_516_1_c_521_1_c_522_4_c_9551_3_c; _10476_1_c_10632_1_c_4905_1_c_515_1_c_516_1_c_521_1_c_522_5_c_9551_3_c; _10476_1_c_10632_1_c_4905_1_c_515_2_c_516_2_c_521_1_c_522_3_c_9551_3_c; _10476_2_c_10632_1_c_4905_1_c_515_3_c_516_2_c_521_1_c_522_4_c_9551_3_c; _10476_2_c_10632_1_c_4905_1_c_515_1_c_516_2_c_521_1_c_522_1_c_9551_1_c; _10476_2_c_10632_1_c_4905_1_c_515_3_c_516_2_c_521_1_c_522_5_c_9551_3_c; _10476_2_c_10632_1_c_4905_1_c_515_3_c_516_2_c_521_1_c_522_3_c_9551_2_c; _10476_1_c_10632_1_c_4905_1_c_515_3_c_516_2_c_521_1_c_522_2_c_9551_3_c; _10476_2_c_10632_1_c_4905_1_c_515_3_c_516_2_c_521_1_c_522_4_c_9551_2_c; _10476_2_c_10632_1_c_4905_1_c_515_1_c_516_2_c_521_1_c_522_4_c_9551_3_c; _10476_2_c_10632_1_c_4905_1_c_515_3_c_516_1_c_521_1_c_522_3_c_9551_2_c; _10476_1_c_10632_1_c_4905_1_c_515_2_c_516_1_c_521_1_c_522_3_c_9551_2_c; _10476_2_c_10632_1_c_4905_1_c_515_1_c_516_2_c_521_1_c_522_4_c_9551_2_c; _10476_1_c_10632_1_c_4905_1_c_515_1_c_516_1_c_521_1_c_522_2_c_9551_3_c; _10476_2_c_10632_1_c_4905_1_c_515_2_c_516_1_c_521_1_c_522_2_c_9551_1_c; _10476_1_c_10632_1_c_4905_1_c_515_2_c_516_2_c_521_1_c_522_2_c_9551_1_c; _10476_2_c_10632_1_c_4905_1_c_515_2_c_516_1_c_521_1_c_522_2_c_9551_3_c; _10476_1_c_10632_1_c_4905_1_c_515_1_c_516_1_c_521_1_c_522_1_c_9551_3_c; _10476_1_c_10632_1_c_4905_1_c_515_2_c_516_1_c_521_1_c_522_4_c_9551_2_c; _10476_1_c_10632_1_c_4905_1_c_515_3_c_516_1_c_521_1_c_522_2_c_9551_3_c; _10476_1_c_10632_1_c_4905_1_c_515_1_c_516_2_c_521_1_c_522_4_c_9551_1_c; _10476_1_c_10632_1_c_4905_1_c_515_1_c_516_2_c_521_1_c_522_5_c_9551_2_c; _10476_1_c_10632_1_c_4905_1_c_515_3_c_516_2_c_521_1_c_522_3_c_9551_2_c; _10476_2_c_10632_1_c_4905_1_c_515_1_c_516_1_c_521_1_c_522_3_c_9551_3_c; _10476_2_c_10632_1_c_4905_1_c_515_1_c_516_1_c_521_1_c_522_3_c_9551_1_c; _10476_2_c_10632_1_c_4905_1_c_515_3_c_516_1_c_521_1_c_522_3_c_9551_1_c; _10476_2_c_10632_1_c_4905_1_c_515_2_c_516_1_c_521_1_c_522_2_c_9551_2_c; _10476_2_c_10632_1_c_4905_1_c_515_3_c_516_1_c_521_1_c_522_1_c_9551_3_c; _10476_1_c_10632_1_c_4905_1_c_515_3_c_516_1_c_521_1_c_522_2_c_9551_1_c; _10476_1_c_10632_1_c_4905_1_c_515_3_c_516_2_c_521_1_c_522_5_c_9551_3_c; _10476_2_c_10632_1_c_4905_1_c_515_2_c_516_2_c_521_1_c_522_3_c_9551_3_c; _10476_1_c_10632_1_c_4905_1_c_515_2_c_516_1_c_521_1_c_522_1_c_9551_1_c; _10476_1_c_10632_1_c_4905_1_c_515_3_c_516_2_c_521_1_c_522_1_c_9551_3_c; _10476_1_c_10632_1_c_4905_1_c_515_2_c_516_1_c_521_1_c_522_3_c_9551_3_c; _10476_1_c_10632_1_c_4905_1_c_515_1_c_516_2_c_521_1_c_522_1_c_9551_3_c; _10476_1_c_10632_1_c_4905_1_c_515_3_c_516_2_c_521_1_c_522_4_c_9551_2_c; _10476_1_c_10632_1_c_4905_1_c_515_1_c_516_1_c_521_1_c_522_1_c_9551_2_c; _10476_1_c_10632_1_c_4905_1_c_515_2_c_516_2_c_521_1_c_522_4_c_9551_2_c; _10476_2_c_10632_1_c_4905_1_c_515_3_c_516_2_c_521_1_c_522_3_c_9551_3_c; _10476_1_c_10632_1_c_4905_1_c_515_3_c_516_1_c_521_1_c_522_1_c_9551_2_c; _10476_1_c_10632_1_c_4905_1_c_515_1_c_516_2_c_521_1_c_522_4_c_9551_3_c; _10476_1_c_10632_1_c_4905_1_c_515_1_c_516_2_c_521_1_c_522_2_c_9551_1_c; _10476_2_c_10632_1_c_4905_1_c_515_2_c_516_2_c_521_1_c_522_1_c_9551_2_c; _10476_2_c_10632_1_c_4905_1_c_515_3_c_516_1_c_521_1_c_522_3_c_9551_3_c; _10476_1_c_10632_1_c_4905_1_c_515_3_c_516_2_c_521_1_c_522_5_c_9551_2_c; _10476_1_c_10632_1_c_4905_1_c_515_2_c_516_2_c_521_1_c_522_2_c_9551_3_c; _10476_2_c_10632_1_c_4905_1_c_515_2_c_516_2_c_521_1_c_522_4_c_9551_3_c; _10476_1_c_10632_1_c_4905_1_c_515_2_c_516_1_c_521_1_c_522_4_c_9551_3_c; _10476_1_c_10632_1_c_4905_1_c_515_3_c_516_1_c_521_1_c_522_5_c_9551_3_c; _10476_1_c_10632_1_c_4905_1_c_515_1_c_516_1_c_521_1_c_522_3_c_9551_1_c; _10476_1_c_10632_1_c_4905_1_c_515_2_c_516_2_c_521_1_c_522_3_c_9551_1_c; _10476_2_c_10632_1_c_4905_1_c_515_1_c_516_2_c_521_1_c_522_3_c_9551_2_c; _10476_1_c_10632_1_c_4905_1_c_515_1_c_516_1_c_521_1_c_522_5_c_9551_2_c; _10476_2_c_10632_1_c_4905_1_c_515_1_c_516_1_c_521_1_c_522_1_c_9551_3_c; _10476_1_c_10632_1_c_4905_1_c_515_1_c_516_2_c_521_1_c_522_3_c_9551_3_c; _10476_2_c_10632_1_c_4905_1_c_515_2_c_516_1_c_521_1_c_522_4_c_9551_3_c; _10476_2_c_10632_1_c_4905_1_c_515_3_c_516_1_c_521_1_c_522_4_c_9551_3_c; _10476_2_c_10632_1_c_4905_1_c_515_2_c_516_1_c_521_1_c_522_4_c_9551_2_c; _10476_1_c_10632_1_c_4905_1_c_515_3_c_516_1_c_521_1_c_522_3_c_9551_2_c; _10476_2_c_10632_1_c_4905_1_c_515_3_c_516_1_c_521_1_c_522_5_c_9551_2_c; _10476_2_c_10632_1_c_4905_1_c_515_1_c_516_1_c_521_1_c_522_2_c_9551_3_c; _10476_2_c_10632_1_c_4905_1_c_515_1_c_516_1_c_521_1_c_522_5_c_9551_1_c; _10476_2_c_10632_1_c_4905_1_c_515_3_c_516_2_c_521_1_c_522_5_c_9551_2_c; _10476_1_c_10632_1_c_4905_1_c_515_2_c_516_1_c_521_1_c_522_2_c_9551_3_c; _10476_2_c_10632_1_c_4905_1_c_515_1_c_516_2_c_521_1_c_522_1_c_9551_3_c; _10476_1_c_10632_1_c_4905_1_c_515_1_c_516_1_c_521_1_c_522_4_c_9551_2_c; _10476_1_c_10632_1_c_4905_1_c_515_1_c_516_2_c_521_1_c_522_1_c_9551_1_c; _10476_2_c_10632_1_c_4905_1_c_515_3_c_516_2_c_521_1_c_522_4_c_9551_1_c; _10476_1_c_10632_1_c_4905_1_c_515_3_c_516_2_c_521_1_c_522_4_c_9551_3_c; _10476_2_c_10632_1_c_4905_1_c_515_2_c_516_1_c_521_1_c_522_3_c_9551_3_c; _10476_2_c_10632_1_c_4905_1_c_515_1_c_516_2_c_521_1_c_522_3_c_9551_3_c; _10476_1_c_10632_1_c_4905_1_c_515_1_c_516_2_c_521_1_c_522_3_c_9551_2_c; _10476_2_c_10632_1_c_4905_1_c_515_2_c_516_2_c_521_1_c_522_2_c_9551_2_c; _10476_2_c_10632_1_c_4905_1_c_515_2_c_516_1_c_521_1_c_522_3_c_9551_1_c; _10476_2_c_10632_1_c_4905_1_c_515_2_c_516_2_c_521_1_c_522_4_c_9551_2_c; _10476_2_c_10632_1_c_4905_1_c_515_1_c_516_2_c_521_1_c_522_1_c_9551_2_c; _10476_1_c_10632_1_c_4905_1_c_515_3_c_516_1_c_521_1_c_522_5_c_9551_1_c; _10476_2_c_10632_1_c_4905_1_c_515_3_c_516_1_c_521_1_c_522_2_c_9551_2_c; _10476_2_c_10632_1_c_4905_1_c_515_1_c_516_2_c_521_1_c_522_5_c_9551_1_c; _10476_2_c_10632_1_c_4905_1_c_515_2_c_516_2_c_521_1_c_522_4_c_9551_1_c; _10476_2_c_10632_1_c_4905_1_c_515_1_c_516_1_c_521_1_c_522_2_c_9551_2_c; _10476_2_c_10632_1_c_4905_1_c_515_3_c_516_1_c_521_1_c_522_2_c_9551_3_c; _10476_1_c_10632_1_c_4905_1_c_515_1_c_516_2_c_521_1_c_522_3_c_9551_1_c; _10476_2_c_10632_1_c_4905_1_c_515_3_c_516_1_c_521_1_c_522_4_c_9551_2_c; _10476_1_c_10632_1_c_4905_1_c_515_1_c_516_1_c_521_1_c_522_2_c_9551_2_c; _10476_2_c_10632_1_c_4905_1_c_515_1_c_516_2_c_521_1_c_522_5_c_9551_3_c; _10476_1_c_10632_1_c_4905_1_c_515_2_c_516_2_c_521_1_c_522_5_c_9551_1_c; _10476_1_c_10632_1_c_4905_1_c_515_2_c_516_1_c_521_1_c_522_2_c_9551_1_c; _10476_1_c_10632_1_c_4905_1_c_515_1_c_516_2_c_521_1_c_522_4_c_9551_2_c; _10476_1_c_10632_1_c_4905_1_c_515_3_c_516_2_c_521_1_c_522_1_c_9551_1_c; _10476_1_c_10632_1_c_4905_1_c_515_2_c_516_1_c_521_1_c_522_3_c_9551_1_c; _10476_2_c_10632_1_c_4905_1_c_515_1_c_516_1_c_521_1_c_522_4_c_9551_1_c; _10476_1_c_10632_1_c_4905_1_c_515_2_c_516_1_c_521_1_c_522_5_c_9551_2_c; _10476_2_c_10632_1_c_4905_1_c_515_1_c_516_2_c_521_1_c_522_2_c_9551_1_c; _10476_1_c_10632_1_c_4905_1_c_515_3_c_516_1_c_521_1_c_522_1_c_9551_3_c; _10476_1_c_10632_1_c_4905_1_c_515_3_c_516_2_c_521_1_c_522_4_c_9551_1_c; _10476_2_c_10632_1_c_4905_1_c_515_2_c_516_2_c_521_1_c_522_1_c_9551_3_c; _10476_1_c_10632_1_c_4905_1_c_515_3_c_516_1_c_521_1_c_522_5_c_9551_2_c; _10476_2_c_10632_1_c_4905_1_c_515_1_c_516_2_c_521_1_c_522_5_c_9551_2_c; _10476_1_c_10632_1_c_4905_1_c_515_2_c_516_2_c_521_1_c_522_3_c_9551_2_c; _10476_2_c_10632_1_c_4905_1_c_515_2_c_516_2_c_521_1_c_522_5_c_9551_2_c; _10476_1_c_10632_1_c_4905_1_c_515_1_c_516_1_c_521_1_c_522_5_c_9551_1_c; _10476_1_c_10632_1_c_4905_1_c_515_1_c_516_1_c_521_1_c_522_3_c_9551_3_c; _10476_1_c_10632_1_c_4905_1_c_515_1_c_516_2_c_521_1_c_522_2_c_9551_3_c; _10476_2_c_10632_1_c_4905_1_c_515_3_c_516_2_c_521_1_c_522_1_c_9551_3_c; _10476_1_c_10632_1_c_4905_1_c_515_3_c_516_1_c_521_1_c_522_4_c_9551_2_c; _10476_2_c_10632_1_c_4905_1_c_515_2_c_516_2_c_521_1_c_522_3_c_9551_2_c; _10476_2_c_10632_1_c_4905_1_c_515_1_c_516_2_c_521_1_c_522_2_c_9551_2_c; _10476_1_c_10632_1_c_4905_1_c_515_2_c_516_2_c_521_1_c_522_1_c_9551_1_c; _10476_2_c_10632_1_c_4905_1_c_515_3_c_516_2_c_521_1_c_522_1_c_9551_2_c; _10476_2_c_10632_1_c_4905_1_c_515_1_c_516_1_c_521_1_c_522_4_c_9551_2_c; _10476_2_c_10632_1_c_4905_1_c_515_2_c_516_2_c_521_1_c_522_2_c_9551_1_c; _10476_1_c_10632_1_c_4905_1_c_515_3_c_516_1_c_521_1_c_522_4_c_9551_3_c; _10476_1_c_10632_1_c_4905_1_c_515_2_c_516_2_c_521_1_c_522_5_c_9551_3_c; _10476_2_c_10632_1_c_4905_1_c_515_2_c_516_2_c_521_1_c_522_5_c_9551_3_c; _10476_2_c_10632_1_c_4905_1_c_515_2_c_516_1_c_521_1_c_522_1_c_9551_2_c; _10476_1_c_10632_1_c_4905_1_c_515_1_c_516_2_c_521_1_c_522_2_c_9551_2_c; _10476_2_c_10632_1_c_4905_1_c_515_3_c_516_1_c_521_1_c_522_4_c_9551_1_c; _10476_1_c_10632_1_c_4905_1_c_515_3_c_516_2_c_521_1_c_522_3_c_9551_1_c; _10476_1_c_10632_1_c_4905_1_c_515_3_c_516_2_c_521_1_c_522_1_c_9551_2_c; _10476_2_c_10632_1_c_4905_1_c_515_3_c_516_1_c_521_1_c_522_5_c_9551_1_c; _10476_2_c_10632_1_c_4905_1_c_515_1_c_516_2_c_521_1_c_522_2_c_9551_3_c; _10476_2_c_10632_1_c_4905_1_c_515_3_c_516_2_c_521_1_c_522_2_c_9551_2_c; _10476_2_c_10632_1_c_4905_1_c_515_1_c_516_2_c_521_1_c_522_4_c_9551_1_c; _10476_2_c_10632_1_c_4905_1_c_515_2_c_516_1_c_521_1_c_522_1_c_9551_3_c; _10476_1_c_10632_1_c_4905_1_c_515_2_c_516_2_c_521_1_c_522_4_c_9551_3_c; _10476_1_c_10632_1_c_4905_1_c_515_3_c_516_1_c_521_1_c_522_2_c_9551_2_c; _10476_1_c_10632_1_c_4905_1_c_515_2_c_516_1_c_521_1_c_522_1_c_9551_3_c; _10476_1_c_10632_1_c_4905_1_c_515_2_c_516_1_c_521_1_c_522_1_c_9551_2_c; _10476_1_c_10632_1_c_4905_1_c_515_3_c_516_2_c_521_1_c_522_3_c_9551_3_c; _10476_1_c_10632_1_c_4905_1_c_515_1_c_516_1_c_521_1_c_522_2_c_9551_1_c; _10476_1_c_10632_1_c_4905_1_c_515_2_c_516_2_c_521_1_c_522_1_c_9551_2_c; _10476_2_c_10632_1_c_4905_1_c_515_2_c_516_2_c_521_1_c_522_3_c_9551_1_c; _10476_1_c_10632_1_c_4905_1_c_515_2_c_516_1_c_521_1_c_522_4_c_9551_1_c; _10476_1_c_10632_1_c_4905_1_c_515_3_c_516_1_c_521_1_c_522_3_c_9551_1_c; _10476_2_c_10632_1_c_4905_1_c_515_3_c_516_1_c_521_1_c_522_5_c_9551_3_c; _10476_1_c_10632_1_c_4905_1_c_515_3_c_516_1_c_521_1_c_522_4_c_9551_1_c; _10476_2_c_10632_1_c_4905_1_c_515_1_c_516_2_c_521_1_c_522_3_c_9551_1_c; _10476_1_c_10632_1_c_4905_1_c_515_3_c_516_2_c_521_1_c_522_5_c_9551_1_c; _10476_2_c_10632_1_c_4905_1_c_515_3_c_516_1_c_521_1_c_522_2_c_9551_1_c; _10476_1_c_10632_1_c_4905_1_c_515_2_c_516_2_c_521_1_c_522_2_c_9551_2_c; _10476_2_c_10632_1_c_4905_1_c_515_1_c_516_1_c_521_1_c_522_5_c_9551_2_c; _10476_2_c_10632_1_c_4905_1_c_515_1_c_516_1_c_521_1_c_522_1_c_9551_2_c; _10476_2_c_10632_1_c_4905_1_c_515_2_c_516_1_c_521_1_c_522_3_c_9551_2_c; _10476_2_c_10632_1_c_4905_1_c_515_3_c_516_2_c_521_1_c_522_2_c_9551_1_c; _10476_2_c_10632_1_c_4905_1_c_515_2_c_516_1_c_521_1_c_522_4_c_9551_1_c; _10476_1_c_10632_1_c_4905_1_c_515_3_c_516_1_c_521_1_c_522_1_c_9551_1_c; _10476_2_c_10632_1_c_4905_1_c_515_2_c_516_2_c_521_1_c_522_2_c_9551_3_c; _10476_2_c_10632_1_c_4905_1_c_515_1_c_516_1_c_521_1_c_522_3_c_9551_2_c; _10476_1_c_10632_1_c_4905_1_c_515_2_c_516_2_c_521_1_c_522_4_c_9551_1_c; _10476_2_c_10632_1_c_4905_1_c_515_3_c_516_2_c_521_1_c_522_1_c_9551_1_c; _10476_1_c_10632_1_c_4905_1_c_515_3_c_516_1_c_521_1_c_522_3_c_9551_3_c; _10476_2_c_10632_1_c_4905_1_c_515_1_c_516_1_c_521_1_c_522_5_c_9551_3_c; _10476_2_c_10632_1_c_4905_1_c_515_3_c_516_2_c_521_1_c_522_3_c_9551_1_c; _10476_2_c_10632_1_c_4905_1_c_515_3_c_516_2_c_521_1_c_522_5_c_9551_1_c; _10476_2_c_10632_1_c_4905_1_c_515_3_c_516_1_c_521_1_c_522_1_c_9551_2_c; _10476_2_c_10632_1_c_4905_1_c_515_1_c_516_1_c_521_1_c_522_2_c_9551_1_c; _10476_2_c_10632_1_c_4905_1_c_515_2_c_516_1_c_521_1_c_522_5_c_9551_1_c; _10476_2_c_10632_1_c_4905_1_c_515_3_c_516_2_c_521_1_c_522_2_c_9551_3_c; _10476_1_c_10632_1_c_4905_1_c_515_2_c_516_1_c_521_1_c_522_2_c_9551_2_c; _10476_2_c_10632_1_c_4905_1_c_515_1_c_516_1_c_521_1_c_522_1_c_9551_1_c; _10476_1_c_10632_1_c_4905_1_c_515_1_c_516_1_c_521_1_c_522_4_c_9551_3_c
+MANBA,_4126_1_l
+B3GALNT1,_8706_4_g; _8706_1_g; _8706_2_g; _8706_3_g
+B3GALT5,_10317_5_g; _10317_1_g; _10317_3_g; _10317_2_g; _10317_4_g
+B3GNT5,_84002_1_g
+BAAT,_570_1_x; _570_1_c
+HLCS,_3141_1_m; _3141_1_c
+BCMO1,_53630_1_c
+BDH1,_622_2_m; _622_3_m; _622_1_m
+ALG1,_56052_1_c
+SLCO1B1,_10599_1_c
+BLVRB,_645_1_c
+BLVRA,_644_1_c
+PIGB,_9488_1_r
+BPNT1,_10380_1_c
+BTD,_686_1[e]; _686_1_c; _686_1_m
+SLC19A3,_80704_1_c
+TM7SF2,_7108_1_r; _7108_1_c
+NSDHL,_50814_1_r
+HSD17B4,_3295_1_c; _3295_1_x; _3295_1_r; _3295_1[e]; _3295_1_m
+MSMO1,_6307_1_r
+ATP2B3,_492_1_c
+ATP2B2,_491_1_c
+ATP2B1,_490_1_c
+ATP2B4,_493_1_c
+SLC8A3,_6547_1_c; _6547_4_c; _6547_5_c; _6547_3_c; _6547_2_c; _6547_6_c
+SLC8A1,_6546_1_c
+SLC8A2,_6543_1_c
+CPS1,_1373_1_m; _1373_2_m
+CBR1,_873_1_c
+CDIPT,_10423_2_c; _10423_1_c
+CDS1,_1040_1_c
+CDS2,_8760_1_m
+CEPT1,_10390_1_c
+COL4A3BP,_10087_1_c
+ABCC4,_10257_1_c
+ABCC5,_10057_1_c; _10057_2_c
+CHAT,_1103_3_c; _1103_1_c; _1103_2_c; _1103_4_c; _1103_3_n; _1103_2_n; _1103_4_n; _1103_1_n
+SLCO1A2,_6579_1_c
+CHDH,_55349_1_m
+CHKB,_1120_2_c; _1120_1_c
+CHKA,_1119_2_c; _1119_1_c
+SLC5A7,_60482_1_c
+SLC22A2,_6582_1_c; _6582_2_c
+SLC22A5,_6584_1_c
+STARD3,_10948_1_c
+CLYBL,_171425_2_c; _171425_1_c
+SLC13A2,_9058_1_c
+SLC25A1,_6576_1_x; _6576_1_m; _6576_1_c
+SLC26A6,_65010_2_c; _65010_1_c; _65010_3_c
+CRLS1,_54675_1_c
+SLC35A1,_10559_1_c
+CMAS,_55907_1_c; _55907_1_n
+SLC25A16,_8034_1_c
+COQ3,_51805_1_m
+COQ6,_51004_1_m; _51004_2_m
+COQ7,_10229_1_m
+GCNT3,_9245_1_g
+GCNT1,_2650_1_g
+GCNT4,_51301_1_g
+B3GNT6,_192134_1_g
+SLC6A8,_6535_1_c
+SLC6A10P,_386757_1_c
+CS,_1431_2_m; _1431_1_m
+CRAT,_1384_2_x; _1384_1_m; _1384_3_r
+CROT,_54677_1_x; _54677_1_m
+VNN1,_8876_1_c
+VNN2,_8875_2_c; _8875_1_c
+VNN3,_55350_3_c; _55350_1_c; _55350_2_c
+VNN3:VNN2:VNN1,_55350_1_c_8875_2_c_8876_1_c; _55350_3_c_8875_1_c_8876_1_c; _55350_2_c_8875_1_c_8876_1_c; _55350_1_c_8875_1_c_8876_1_c; _55350_3_c_8875_2_c_8876_1_c; _55350_2_c_8875_2_c_8876_1_c
+_AA081045_1_c,_AA081045_1_c
+_AI620219_1_c,_AI620219_1_c
+_AU149534_1_c,_AU149534_1_c
+_T83654_1_c,_T83654_1_c
+SLC7A8,_23428_2_c; _23428_1_c
+SLC7A8:SLC3A2,_23428_2_c_6520_1_c; _23428_1_c_6520_1_c
+CDO1,_1036_1_c
+SLC7A11,_23657_1_c
+SLC7A11:SLC3A2,_23657_1_c_6520_1_c
+AICDA,_57379_1_n
+CMPK1,_51727_1_c; _51727_1_n
+DGKI,_9162_1_c; _9162_1_n
+DGKB,_1607_2_c; _1607_1_c
+DGKZ,_8525_2_c; _8525_1_n; _8525_1_c; _8525_3_c
+DGKH,_160851_1_c; _160851_2_c
+DGKG,_1608_1_c
+DGKD,_8527_2_c; _8527_1_c
+DGKA,_1606_1_c
+DGKE,_8526_1_c
+DGKQ,_1609_1_c
+GLRX,_2745_1_c
+GLRX2,_51022_1_c; _51022_2_c
+DCK,_1633_1_m; _1633_1_n
+DCTD,_1635_1_c
+SCD,_6319_1_m; _6319_1_c
+FADS2,_9415_1_c
+DGAT1,_8694_1_c
+DGAT2,_84649_1_c
+GUK1,_2987_1_c
+DGUOK,_1716_4_m; _1716_5_m; _1716_2_m; _1716_3_m; _1716_1_m; _1716_1_c
+DHCR24,_1718_1_r; _1718_1_c; _1718_1_m
+DHCR7,_1717_1_r
+DEGS1,_8560_2_c; _8560_1_c
+SULT1E1,_6783_1_c
+DHFR,_1719_1_m; _1719_1_c
+DHODH,_1723_1_c
+CAD,_790_1_c
+DPYS,_1807_1_c
+DPYSL3,_1809_1_c
+DPYSL2,_1808_1_c
+SLC16A8,_23539_1_c
+FDPS,_2224_1_x
+SLC25A19,_60386_1_c
+RPN2,_6185_1_r
+DDOST,_1650_1_r
+RPN1,_6184_1_r
+DAD1,_1603_1_r
+DAD1:DDOST:RPN1:RPN2,_1603_1_r_1650_1_r_6184_1_r_6185_1_r
+DOLPP1,_57171_1_r
+ALG6,_29929_1_r
+ALG8,_79053_2_r; _79053_3_r; _79053_1_r
+DPM3,_54344_1_r; _54344_2_r
+DPM2,_8818_1_c; _8818_2_r; _8818_2_c; _8818_1_r
+DPM1,_8813_1_r
+DPM3:DPM1:DPM2,_54344_1_r_8813_1_r_8818_2_r; _54344_2_r_8813_1_r_8818_1_r; _54344_1_r_8813_1_r_8818_1_r; _54344_2_r_8813_1_r_8818_2_r
+ALG3,_10195_4_r; _10195_1_r; _10195_3_r; _10195_2_r
+ALG12,_79087_1_c
+MOXD1,_26002_1_c
+DBH,_1621_1_c
+SLC6A2,_6530_1_c
+SLC6A3,_6531_1_c
+SLC22A3,_6581_1_c
+RBKS,_64080_1_c
+DTYMK,_1841_1_c
+DPYD,_1806_1_c
+TK1,_7083_1_c
+TK2,_7084_1_c; _7084_1_m
+PNP,_4860_1_c
+UPP2,_151531_1_c
+DUT,_1854_1_n
+ECHS1,_1892_1_m; _1892_1_r
+AUH,_549_1_m
+ETFB,_2109_1_m; _2109_2_m
+ETFA,_2108_1_m
+ETFA:ETFB,_2108_1_m_2109_1_m; _2108_1_m_2109_2_m
+ETFDH,_2110_1_m
+FPGT,_8790_1_c
+FUT8,_2530_2_g; _2530_4_g; _2530_1_g; _2530_3_g; _2530_5_g
+ACSL3,_2181_2_c; _2181_1_x; _2181_1_c
+_22305_2_c,_22305_2_c
+ACSL4,_2182_2_c; _2182_1_x; _2182_1_c
+ACSL1,_2180_1_c; _2180_1_x
+_22305_1_c,_22305_1_c
+ACSL5,_51703_1_x; _51703_1_c
+SLC27A2,_11001_1_r; _11001_1_c; _11001_1_x
+ACSM1,_116285_1_m
+ELOVL4,_6785_1_c
+EHHADH,_1962_1_r; _1962_1_m; _1962_1[e]; _1962_1_x
+EHHADH:ACAA1:ACOX1,_1962_1_x_30_1_x_51_2_x; _1962_1_x_30_1_x_51_1_x
+ACAA1:HSD17B4:ACOX1,_30_1_x_3295_1_x_51_2_x; _30_1_x_3295_1_x_51_1_x
+FASN,_2194_1_c; _2194_1_m; _2194_1_x
+SLC27A1,_376497_2_c; _376497_1_c
+SLC27A4,_10999_1_c
+SLC27A3,_11000_1_c
+SLC27A5,_10998_1_c
+ALDOA,_226_3_c; _226_1_c; _226_1_x; _226_2_c
+ALDOC,_230_1_x; _230_1_c
+ALDOB,_229_1_x; _229_1_c
+FBP1,_2203_1_c
+FBP2,_8789_1_c
+PFKFB4,_5210_1_c
+PFKFB1,_5207_1_c
+PFKFB3,_5209_1_c
+PFKFB2,_5208_1_c
+FUK,_197258_1_c
+FLAD1,_80308_2_c; _80308_1_c
+FPGS,_2356_1_m
+SLC5A9,_200010_1_c
+FTCD,_10841_2_c; _10841_1_c
+MTHFD1,_4522_1_c
+_286297_1_c,_286297_1_c
+FUCA2,_2519_1[e]
+FUCA1,_2517_1_l
+FH,_2271_1_c; _2271_1_m
+FAH,_2184_1_c
+SLC25A10,_1468_1_c
+FUT1,_2523_1_g
+FUT9,_10690_1_g
+ALG2,_85365_2_c; _85365_1_c
+B4GALT5,_9334_1_g
+B4GALT1,_2683_1_g
+B4GALT3,_8703_1_g
+B4GALT2,_8704_1_g; _8704_2_g
+GPD1,_2819_1_c
+ALDH18A1,_5832_1_m
+H6PD,_9563_1_r
+SLC37A4,_2542_1_c
+GAL3ST1,_9514_1_g
+CTSA,_5476_1_l
+GLB1,_2720_1_l
+GALNS,_2588_1_l
+NEU1,_4758_1_l
+GALNS:GLB1:NEU1:CTSA,_2588_1_l_2720_1_l_4758_1_l_5476_1_l
+GLB1:CTSA,_2720_1_l_5476_1_l
+GALK1,_2584_1_c
+GALK2,_2585_1_c; _2585_2_c
+GALNT8,_26290_1_g
+GALNT12,_79695_1_g
+GALNT1,_2589_1_g
+GALNT9,_50614_1_g
+GALNT4,_8693_1_g
+GALNT10,_55568_1_g; _55568_2_g
+GALNT13,_114805_1_g
+GALNT6,_11226_1_g
+GALNTL2,_117248_1_g
+GALNT5,_11227_1_g
+GALNT2,_2590_1_g
+GALNT7,_51809_1_g
+GALNT14,_79623_1_g
+GALNT11,_63917_1_g
+GALNT3,_2591_1_g
+GALT,_2592_1_c; _2592_1_r; _2592_2_c; _2592_3_c
+UGP2,_7360_1_c; _7360_2_c
+_7359_1_c,_7359_1_c
+GAPDH,_2597_1_c
+GAPDHS,_26330_1_c
+GART,_2618_1_c; _2618_2_c
+AGA,_175_1_l
+GBA,_2629_1_c; _2629_4_c; _2629_3_c; _2629_5_c; _2629_2_c
+AMT,_275_1_m
+GLDC,_2731_1_m
+GCSH,_2653_1_m
+DLD:GCSH:GLDC:AMT,_1738_1_m_2653_1_m_2731_1_m_275_1_m
+GCNT2,_2651_1_g
+SLC35C1,_55343_1_c
+GGH,_8836_1_l; _8836_1[e]
+GGCT,_79017_1_c
+SHMT1,_6470_2_c; _6470_1_c
+SHMT2,_6472_1_m
+GLA,_2717_1_l; _2717_1_c
+GUSB,_2990_1_l
+NAGLU,_4669_1_l
+DPAGT1,_1798_1_c; _1798_2_c
+SLC5A12,_159963_1_c
+SLC5A3,_6526_1_c
+SLC5A10,_125206_1_c
+SLC5A2,_6524_1_c
+GLUL,_2752_1_c
+LGSN,_51557_1_c
+GLUD2,_2747_1_m
+GLUD1,_2746_1_m
+GLS,_2744_1_m
+GLS2,_27165_2_m; _27165_1_m
+PPAT,_5471_1_c
+SLC25A18,_83733_1_c
+SLC25A22,_79751_1_c
+GCDH,_2639_1_c; _2639_2_m; _2639_1_m
+LDHD,_197257_1_c; _197257_2_c
+SLC6A12,_6539_1_c
+HAO2,_51179_1_x; _51179_2_x
+HAO1,_54363_1_x
+HAGH,_3029_1_c
+HAGHL,_84264_2_c; _84264_1_c
+SLC6A9,_6536_2_c; _6536_1_c
+GMDS,_2762_1_c
+GMPR,_2766_1_c
+GMPR2,_51292_3_c; _51292_1_c; _51292_2_c
+PIGW,_284098_1_c
+PGAP1,_80055_1_r
+PIGM,_93183_1_r
+PIGX,_54965_1_r
+PIGX:PIGM,_54965_1_r_93183_1_r
+GSR,_2936_1_c; _2936_1_m
+PRDX2,_7001_2_c; _7001_3_c; _7001_1_c
+PRDX1,_5052_1_c; _5052_3_c; _5052_2_c
+GPX2,_2877_1_c
+GPX1,_2876_1_c; _2876_2_c
+GPX4,_2879_1_m; _2879_1_c
+PRDX3,_10935_2_m; _10935_1_m
+GGT3P,_2679_1_c
+GGT1,_2678_1_m; _2678_3_c; _2678_1_c; _2678_1[e]; _2678_2_c
+GUCY1A2,_2977_1_c
+GUCY1B3,_2983_1_c
+GUCY1A2:GUCY1B3,_2977_1_c_2983_1_c
+NPR2,_4882_1_c; _4882_2_c
+GUCY1A3,_2982_1_c
+GUCY1B2,_2974_1_c
+GUCY1B2:GUCY1A3,_2974_1_c_2982_1_c
+GUCY2F,_2986_1_c
+GUCY2C,_2984_1_c
+NPR1,_4881_1_c
+GUCY1B2:GUCY1A2,_2974_1_c_2977_1_c
+GUCY2D,_3000_1_c
+GUCY1A3:GUCY1B3,_2982_1_c_2983_1_c
+HPRT1,_3251_1_c
+CA3,_761_1_c
+CA12,_771_1_c; _771_2_c
+CA13,_377677_1_c
+CA4,_762_1_c
+CA7,_766_2_c; _766_1_c
+CA14,_23632_1_c
+CA1,_759_1_c
+CA9,_768_1_c
+CA2,_760_1_c
+PIGV,_55650_1_r
+AQP8,_343_1_c
+PIGN,_23556_1_r; _23556_2_r
+PIGO,_84720_1_r; _84720_2_r
+PIGF,_5281_1_r; _5281_2_r
+PIGF:PIGO,_5281_1_r_84720_1_r; _5281_1_r_84720_2_r; _5281_2_r_84720_1_r; _5281_2_r_84720_2_r
+PIGG,_54872_1_r
+PIGF:PIGG,_5281_2_r_54872_1_r; _5281_1_r_54872_1_r
+PIGK,_10026_1_r
+GPAA1,_8733_1_r
+PIGU,_128869_1_r
+PIGS,_94005_1_r
+PIGT,_51604_1_r
+PIGK:PIGU:PIGT:GPAA1:PIGS,_10026_1_r_128869_1_r_51604_1_r_8733_1_r_94005_1_r
+HSD17B10,_3028_1_r; _3028_1[e]; _3028_1_m
+HADH,_3033_1_m; _3033_1_r; _3033_1[e]
+HAS3,_3038_2_c; _3038_1_c
+HAS1,_3036_1_c
+HAS2,_3037_1_c
+COQ2,_27235_1_m
+SLC4A2,_6522_1_c
+SLC4A9,_83697_1_c
+SLC4A1,_6521_1_c
+SLC4A3,_6508_2_c; _6508_1_c
+HK1,_3098_2_c; _3098_1_c; _3098_4_c; _3098_3_c; _3098_5_c
+HKDC1,_80201_1_c
+GCK,_2645_1_c; _2645_3_c; _2645_2_c
+HK2,_3099_1_c
+HK3,_3101_1_c
+HGD,_3081_1_c
+HIBADH,_11112_1_m
+HAL,_3034_1_c
+HDC,_3067_1_c
+KYNU,_8942_1_c
+HMGCS1,_3157_2_c; _3157_1_c
+HMGCL,_3155_1_m
+HMGCLL1,_54511_1_m
+HMOX1,_3162_1_c
+HMOX2,_3163_1_c
+GRHPR,_9380_1_c
+SGSH,_6448_1_l
+HSD11B1,_3290_1_r; _3290_2_r
+HSD11B2,_3291_1_r
+HSD17B2,_3294_1_r
+AKR1C4,_1109_1_c; _1109_1_r
+HSD3B1,_3283_1_c; _3283_1_r; _3283_1_m
+HSD3B2,_3284_1_m; _3284_1_r
+HSD3B7,_80270_1_r; _80270_1_m
+IDH2,_3418_1_x; _3418_1_m; _3418_1_c
+IDUA,_3425_1_l
+BCAT2,_587_1_m
+SLC43A1,_8501_1_c
+SLC43A2,_124935_1_c
+SLC28A2,_9153_1_c
+SLC28A3,_64078_1_c
+SLC2A13,_114134_1_c
+IDI1,_3422_1_x
+IDI2,_91734_1_x
+SLC5A8,_160728_1_c
+SUCLG1,_8802_1_m
+SUCLG2,_8801_1_m
+SUCLG2:SUCLG1,_8801_1_m_8802_1_m
+SUCLA2,_8803_1_m
+SUCLG1:SUCLA2,_8802_1_m_8803_1_m
+SLC12A4,_6560_1_c
+SLC12A7,_10723_1_c
+SLC12A6,_9990_1_c
+SLC12A5,_57468_1_c
+KHK,_3795_2_c; _3795_1_c
+LCT,_3938_1[e]
+ACP2,_53_1_l; _53_1_c
+LCAT,_3931_1[e]
+BCAT1,_586_1_c
+GLO1,_2739_1_c
+LSS,_4047_1_r
+PLA2G4A,_5321_1_c
+CLC,_1178_1_c
+LGALS13,_29124_1_c
+PIPOX,_51268_1_x
+PLA2G3,_50487_1[e]
+SC5DL,_6309_1_r
+LTA4H,_4048_1_c
+MAN2A1,_4124_1_g
+MAN2A2,_4122_1_g
+MGAT1,_4245_1_g
+MGAT2,_4247_1_g
+GSTZ1,_2954_2_c; _2954_1_c; _2954_3_c
+MGAM,_8972_1[e]
+GMPPA,_29926_2_c; _29926_1_c
+GMPPB,_29925_1_c; _29925_2_c
+MPI,_4351_1_c
+MCCC1,_56922_1_m
+MCCC2,_64087_1_m
+MCCC1:MCCC2,_56922_1_m_64087_1_m
+MDH2,_4191_1_m
+ME2,_4200_1_m
+ME3,_10873_1_m
+CYP2C19,_1557_1_c
+CYP1A1,_1543_1_c
+CYP1B1,_1545_1_r; _1545_1_c
+CYP1A2,_1544_1_c
+MOGS,_7841_1_r
+INPP5D,_3635_1_c
+SYNJ1,_8867_2_c; _8867_1_c
+INPPL1,_3636_1_c
+INPP5J,_27124_2_c; _27124_1_c
+INPP5B,_3633_1_c
+INPP5E,_56623_1_c
+INPP5A,_3632_1_c
+INPP1,_3628_1_c
+ITPKA,_3706_1_c
+ITPKC,_80271_1_c
+ITPKB,_3707_1_c
+IMPA1,_3612_1_c
+IMPA2,_3613_1_c
+ISYNA1,_51477_1_c
+INPP4A,_3631_2_c; _3631_1_c
+INPP4B,_8821_1_c
+MAN1A1,_4121_1_g
+MAN1C1,_57134_1_g
+MAN1A2,_10905_1_g
+MAN1B1,_11253_1_r
+MCEE,_84693_1_m
+MUT,_4594_1_m
+ALDH6A1,_4329_1_m
+_100287639_1_c,_100287639_1_c
+MTHFD2L,_441024_1_c
+MTHFD1L,_25902_1_m
+MTHFD2,_10797_1_m
+C1GALT1,_56913_1_g
+ASPA,_443_1_c
+ACY3,_91703_1_c
+NAGA,_4668_1_l
+SLC4A8,_9498_1_c
+SLC4A10,_57282_1_c
+SLC5A5,_6528_1_c
+ATP1B1,_481_1_c
+ATP1A3,_478_1_c
+ATP1A3:ATP1B1,_478_1_c_481_1_c
+ATP1A2,_477_1_c
+ATP1B4,_23439_1_c
+ATP1B4:ATP1A2,_23439_1_c_477_1_c
+ATP1B3,_483_1_c
+ATP1A1,_476_1_c
+ATP1A1:ATP1B3,_476_1_c_483_1_c
+ATP1A4,_480_1_c
+ATP1A4:ATP1B1,_480_1_c_481_1_c
+ATP1B2,_482_1_c
+ATP1A3:ATP1B2,_478_1_c_482_1_c
+ATP1A1:ATP1B2,_476_1_c_482_1_c
+ATP1A2:ATP1B2,_477_1_c_482_1_c
+ATP1A1:ATP1B1,_476_1_c_481_1_c
+ATP1B4:ATP1A1,_23439_1_c_476_1_c
+ATP1B4:ATP1A4,_23439_1_c_480_1_c
+ATP1A2:ATP1B1,_477_1_c_481_1_c
+SLC9A4,_389015_1_c
+SLC9A1,_6548_1_c
+SLC9A3,_6550_1_c
+SLC9A2,_6549_1_c
+SLC9A5,_6553_1_c
+SLC24A4,_123041_2_c; _123041_1_c; _123041_3_c
+SLC24A3,_57419_1_c
+SLC24A1,_9187_1_c
+SLC24A2,_25769_1_c
+CANT1,_124583_1[e]
+ENTPD4,_9583_1_g
+NME3,_4832_1_c
+NME6,_10201_1_c
+NME2,_4831_1_n; _4831_1_c
+NME1,_4830_1_c; _4830_2_n; _4830_2_c; _4830_1_n
+NME1:NME2,_4830_2_n_4831_1_n; _4830_2_c_4831_1_c; _4830_1_n_4831_1_n; _4830_1_c_4831_1_c
+NME7,_29922_1_c; _29922_2_c
+NME4,_4833_1_m
+RHBG,_57127_1_c
+RHAG,_6005_1_c
+NMNAT1,_64802_1_n
+PNMT,_5409_1_c
+NT5C,_30833_1_c; _30833_1[e]
+NT5C1B,_93034_2_c; _93034_1[e]; _93034_1_c
+NT5C2,_22978_1_c; _22978_1[e]
+SI,_6476_1_c; _6476_1[e]
+OTC,_5009_1_m; _5009_1_c
+OXCT1,_5019_1_m
+OXCT2,_64064_1_m
+UMPS,_7372_1_c
+OAT,_4942_1_m
+CYP11A1,_1583_1_m
+CYP27A1,_1593_1_c; _1593_1_m
+CYP2C8,_1558_1_c; _1558_2_c
+CYP2C9,_1559_1_c
+CYP7A1,_1581_1_r
+CYP8B1,_1582_1_r
+PYCR1,_5831_2_m; _5831_1_c; _5831_1_m
+PLA2G7,_7941_1[e]
+SLC35B2,_347734_1_c
+PLD2,_5338_1_c
+PLD1,_5337_1_r; _5337_1_m
+ACMSD,_130013_1_c
+PC,_5091_2_m; _5091_1_m
+ABCB4,_5244_1_c; _5244_3_c; _5244_2_c
+PDE3A,_5139_1_c
+PDE4B,_5142_1_c
+PDE8A,_5151_4_c; _5151_5_c; _5151_1_c; _5151_2_c; _5151_3_c
+PDE1B,_5153_1_c
+PDE7A,_5150_1_c; _5150_2_c
+PDE4C,_5143_1_c
+PDE1C,_5137_1_c
+PDE4D,_5144_1_c
+PDE1A,_5136_2_c; _5136_1_c
+PDE3B,_5140_2_c; _5140_1_c
+PDE10A,_10846_1_c
+PDE4A,_5141_1_c
+PDE2A,_5138_1_c
+PDE7B,_27115_1_c
+PDE11A,_50940_1_c
+PDE8B,_8622_1_c
+PDE6C,_5146_1_c
+PDE9A,_5152_17_c; _5152_12_c; _5152_15_c; _5152_20_c; _5152_3_c; _5152_18_c; _5152_4_c; _5152_13_c; _5152_19_c; _5152_5_c; _5152_11_c; _5152_10_c; _5152_14_c; _5152_16_c; _5152_7_c; _5152_6_c; _5152_2_c
+PDE5A,_8654_1_c; _8654_3_c; _8654_2_c
+PDE6A,_5145_1_c
+PDE6B,_5158_1_c
+PDE6H,_5149_1_c
+PDE6A:PDE6H:PDE6B,_5145_1_c_5149_1_c_5158_1_c
+PDE6D,_5147_1_c
+PDE6G,_5148_1_c
+PDE6A:PDE6C:PDE6D:PDE6G:PDE6B,_5145_1_c_5146_1_c_5147_1_c_5148_1_c_5158_1_c
+PNPO,_55163_1_c
+PCK2,_5106_1_m
+ACOX3,_8310_1_x; _8310_1_c
+EHHADH:ACAA1:HSD17B4:ACOX3,_1962_1_x_30_1_x_3295_1_x_8310_1_x
+PCYT2,_5833_1_c
+PEMT,_10400_3_r; _10400_3_m; _10400_2_r; _10400_1_r; _10400_1_m; _10400_2_m
+PHGDH,_26227_1_c
+PTGDS,_5730_1_c
+HPGDS,_27306_1_c
+GPI,_2821_1_c
+PTGIS,_5740_1_r
+PGK1,_5230_1_c
+MIA3,_375056_1_c
+PGK2,_5232_1_c
+SLC46A1,_113235_1_c
+PHYH,_5264_1_x
+PTEN,_5728_1_c
+SYNJ2,_8871_1_c
+PIP5K1A,_8394_1_c
+PIP5K1C,_23396_1_c
+PIP5K1B,_8395_1_c
+PIK3CB,_5291_1_c
+PIK3R1,_5295_3_c; _5295_2_c; _5295_1_c
+PIK3CB:PIK3R1,_5291_1_c_5295_1_c; _5291_1_c_5295_2_c; _5291_1_c_5295_3_c
+PIK3CD,_5293_1_c
+PIK3R3,_8503_1_c
+PIK3CD:PIK3R3,_5293_1_c_8503_1_c
+PIK3R2,_5296_1_c
+PIK3CA,_5290_1_c
+PIK3CA:PIK3R2,_5290_1_c_5296_1_c
+PIK3CD:PIK3R1,_5293_1_c_5295_1_c; _5293_1_c_5295_3_c; _5293_1_c_5295_2_c
+PIK3CB:PIK3R2,_5291_1_c_5296_1_c
+PIK3CA:PIK3R1,_5290_1_c_5295_2_c; _5290_1_c_5295_1_c; _5290_1_c_5295_3_c
+HCST,_10870_1_c
+PIK3CG,_5294_1_c
+HCST:PIK3CG,_10870_1_c_5294_1_c
+PIK3R5,_23533_1_c
+PIK3R5:PIK3CG,_23533_1_c_5294_1_c
+PIK3CA:PIK3R3,_5290_1_c_8503_1_c
+PIK3CB:PIK3R3,_5291_1_c_8503_1_c
+PIK3CD:PIK3R2,_5293_1_c_5296_1_c
+OCRL,_4952_2_c; _4952_1_c
+PLCB1,_23236_2_n; _23236_1_n; _23236_1_c; _23236_2_c
+PLCG2,_5336_1_c
+PLCH2,_9651_1_c
+PLCD3,_113026_1_c
+PLCZ1,_89869_1_c
+PLCD4,_84812_1_c
+PLCB2,_5330_1_c
+PLCG1,_5335_2_c; _5335_1_c
+PLCE1,_51196_1_c
+PLCD1,_5333_1_c
+PLCB4,_5332_1_c; _5332_2_c
+PLCB3,_5331_1_c
+PLCL1,_5334_1_c
+PLCXD2,_257068_1_c
+PLCH1,_23007_1_c
+PIK3C2B,_5287_1_c; _5287_1_n
+PIK3C2A,_5286_1_c; _5286_1_n
+PIK3C2G,_5288_1_c; _5288_1_n
+PIK3C3,_5289_1_c
+PI4KA,_5297_1_m; _5297_1_c
+PI4K2A,_55361_1_c
+PI4KB,_5298_1_c; _5298_1_m
+PIGC,_5279_2_c; _5279_1_c
+PIGP,_51227_2_c; _51227_3_c; _51227_1_c
+PIGH,_5283_1_c
+PIGA,_5277_3_c; _5277_1_c; _5277_2_c
+PIGQ,_9091_2_c; _9091_1_c
+PIGP:PIGA:PIGC:PIGH:DPM2:PIGQ,_51227_2_c_5277_2_c_5279_1_c_5283_1_c_8818_1_c_9091_2_c; _51227_1_c_5277_3_c_5279_2_c_5283_1_c_8818_2_c_9091_2_c; _51227_1_c_5277_2_c_5279_2_c_5283_1_c_8818_1_c_9091_1_c; _51227_3_c_5277_1_c_5279_2_c_5283_1_c_8818_2_c_9091_2_c; _51227_3_c_5277_2_c_5279_2_c_5283_1_c_8818_1_c_9091_1_c; _51227_3_c_5277_2_c_5279_2_c_5283_1_c_8818_2_c_9091_2_c; _51227_1_c_5277_3_c_5279_1_c_5283_1_c_8818_1_c_9091_2_c; _51227_2_c_5277_3_c_5279_2_c_5283_1_c_8818_1_c_9091_2_c; _51227_1_c_5277_3_c_5279_1_c_5283_1_c_8818_1_c_9091_1_c; _51227_3_c_5277_2_c_5279_1_c_5283_1_c_8818_2_c_9091_2_c; _51227_1_c_5277_1_c_5279_2_c_5283_1_c_8818_2_c_9091_1_c; _51227_3_c_5277_3_c_5279_2_c_5283_1_c_8818_1_c_9091_1_c; _51227_3_c_5277_1_c_5279_1_c_5283_1_c_8818_2_c_9091_1_c; _51227_3_c_5277_1_c_5279_1_c_5283_1_c_8818_2_c_9091_2_c; _51227_1_c_5277_2_c_5279_1_c_5283_1_c_8818_2_c_9091_1_c; _51227_3_c_5277_1_c_5279_2_c_5283_1_c_8818_1_c_9091_1_c; _51227_1_c_5277_2_c_5279_2_c_5283_1_c_8818_1_c_9091_2_c; _51227_1_c_5277_1_c_5279_1_c_5283_1_c_8818_2_c_9091_1_c; _51227_3_c_5277_1_c_5279_2_c_5283_1_c_8818_2_c_9091_1_c; _51227_2_c_5277_2_c_5279_2_c_5283_1_c_8818_1_c_9091_1_c; _51227_3_c_5277_2_c_5279_1_c_5283_1_c_8818_1_c_9091_1_c; _51227_2_c_5277_1_c_5279_1_c_5283_1_c_8818_2_c_9091_1_c; _51227_1_c_5277_1_c_5279_2_c_5283_1_c_8818_1_c_9091_1_c; _51227_2_c_5277_3_c_5279_1_c_5283_1_c_8818_1_c_9091_2_c; _51227_3_c_5277_3_c_5279_2_c_5283_1_c_8818_1_c_9091_2_c; _51227_2_c_5277_3_c_5279_1_c_5283_1_c_8818_2_c_9091_1_c; _51227_2_c_5277_3_c_5279_2_c_5283_1_c_8818_2_c_9091_2_c; _51227_2_c_5277_1_c_5279_2_c_5283_1_c_8818_2_c_9091_2_c; _51227_3_c_5277_3_c_5279_1_c_5283_1_c_8818_2_c_9091_2_c; _51227_2_c_5277_1_c_5279_1_c_5283_1_c_8818_2_c_9091_2_c; _51227_2_c_5277_2_c_5279_1_c_5283_1_c_8818_2_c_9091_2_c; _51227_3_c_5277_2_c_5279_1_c_5283_1_c_8818_1_c_9091_2_c; _51227_2_c_5277_3_c_5279_2_c_5283_1_c_8818_1_c_9091_1_c; _51227_1_c_5277_2_c_5279_1_c_5283_1_c_8818_1_c_9091_2_c; _51227_1_c_5277_3_c_5279_1_c_5283_1_c_8818_2_c_9091_2_c; _51227_2_c_5277_2_c_5279_2_c_5283_1_c_8818_2_c_9091_1_c; _51227_1_c_5277_1_c_5279_2_c_5283_1_c_8818_2_c_9091_2_c; _51227_2_c_5277_2_c_5279_2_c_5283_1_c_8818_2_c_9091_2_c; _51227_2_c_5277_1_c_5279_2_c_5283_1_c_8818_1_c_9091_2_c; _51227_1_c_5277_3_c_5279_2_c_5283_1_c_8818_1_c_9091_1_c; _51227_1_c_5277_3_c_5279_2_c_5283_1_c_8818_2_c_9091_1_c; _51227_3_c_5277_1_c_5279_1_c_5283_1_c_8818_1_c_9091_2_c; _51227_1_c_5277_1_c_5279_1_c_5283_1_c_8818_1_c_9091_2_c; _51227_2_c_5277_3_c_5279_2_c_5283_1_c_8818_2_c_9091_1_c; _51227_3_c_5277_2_c_5279_2_c_5283_1_c_8818_2_c_9091_1_c; _51227_3_c_5277_3_c_5279_1_c_5283_1_c_8818_1_c_9091_2_c; _51227_3_c_5277_3_c_5279_2_c_5283_1_c_8818_2_c_9091_2_c; _51227_2_c_5277_1_c_5279_2_c_5283_1_c_8818_1_c_9091_1_c; _51227_2_c_5277_1_c_5279_1_c_5283_1_c_8818_1_c_9091_1_c; _51227_3_c_5277_1_c_5279_1_c_5283_1_c_8818_1_c_9091_1_c; _51227_3_c_5277_3_c_5279_2_c_5283_1_c_8818_2_c_9091_1_c; _51227_3_c_5277_3_c_5279_1_c_5283_1_c_8818_2_c_9091_1_c; _51227_1_c_5277_2_c_5279_1_c_5283_1_c_8818_1_c_9091_1_c; _51227_2_c_5277_3_c_5279_1_c_5283_1_c_8818_1_c_9091_1_c; _51227_3_c_5277_2_c_5279_1_c_5283_1_c_8818_2_c_9091_1_c; _51227_2_c_5277_3_c_5279_1_c_5283_1_c_8818_2_c_9091_2_c; _51227_3_c_5277_1_c_5279_2_c_5283_1_c_8818_1_c_9091_2_c; _51227_3_c_5277_2_c_5279_2_c_5283_1_c_8818_1_c_9091_2_c; _51227_1_c_5277_1_c_5279_1_c_5283_1_c_8818_2_c_9091_2_c; _51227_2_c_5277_1_c_5279_1_c_5283_1_c_8818_1_c_9091_2_c; _51227_1_c_5277_2_c_5279_1_c_5283_1_c_8818_2_c_9091_2_c; _51227_1_c_5277_3_c_5279_2_c_5283_1_c_8818_1_c_9091_2_c; _51227_1_c_5277_1_c_5279_1_c_5283_1_c_8818_1_c_9091_1_c; _51227_1_c_5277_1_c_5279_2_c_5283_1_c_8818_1_c_9091_2_c; _51227_1_c_5277_2_c_5279_2_c_5283_1_c_8818_2_c_9091_2_c; _51227_1_c_5277_3_c_5279_1_c_5283_1_c_8818_2_c_9091_1_c; _51227_1_c_5277_2_c_5279_2_c_5283_1_c_8818_2_c_9091_1_c; _51227_3_c_5277_3_c_5279_1_c_5283_1_c_8818_1_c_9091_1_c; _51227_2_c_5277_2_c_5279_2_c_5283_1_c_8818_1_c_9091_2_c; _51227_2_c_5277_2_c_5279_1_c_5283_1_c_8818_1_c_9091_1_c; _51227_2_c_5277_1_c_5279_2_c_5283_1_c_8818_2_c_9091_1_c
+SLC17A4,_10050_1_c
+SLC17A3,_10786_1_c
+SLC17A2,_10246_1_c
+SLC17A1,_6568_1_c
+SLC34A1,_6569_1_c
+SLC34A2,_10568_1_c
+_2544_1_c,_2544_1_c
+PLA2G6,_8398_2_c; _8398_1_c
+PLA2G2A,_5320_1[e]; _5320_1_c
+PLA2G5,_5322_1[e]
+PLA2G1B,_5319_1[e]
+PLA2G12A,_81579_1[e]
+PLA2G2F,_64600_1[e]
+PLA2G2D,_26279_1[e]
+PLA2G10,_8399_1[e]
+PLA2G2E,_30814_1[e]
+PMM1,_5372_1_c
+PGM2,_55276_1_c
+PMM2,_5373_1_c
+PANK3,_79646_1_c; _79646_1_m
+PANK2,_80025_1_m; _80025_3_c; _80025_1_c; _80025_4_c; _80025_2_c
+PANK1,_53354_2_c; _53354_1_m; _53354_1_c; _53354_3_c
+PANK4,_55229_1_c; _55229_1_m
+PPA1,_5464_1_c; _5464_1_x
+PPA2,_27068_2_m; _27068_1_m; _27068_3_m; _27068_4_m; _27068_1_x
+PPCDC,_60490_1_r; _60490_1_c
+PCCB,_5096_1_m
+PCCA,_5095_1_m
+PCCA:PCCB,_5095_1_m_5096_1_m
+PFAS,_5198_1_c
+SULT2B1,_6820_2_c
+PRODH,_5625_1_m
+SLCO2A1,_6578_1_c
+SLCO4A1,_28231_1_c
+SLCO3A1,_28232_1_c
+SLC22A1,_6580_1_c
+PRPS1L1,_221823_1_c; _221823_2_c
+PRPS1,_5631_1_c
+PRPS2,_5634_1_c
+PISD,_23761_1_m
+PSAT1,_29968_2_c; _29968_1_c
+ATP8A1,_10396_1_c
+ATP10A,_57194_1_c
+_8781_1_c,_8781_1_c
+PSPH,_5723_1_c
+PTDSS1,_9791_1_c
+ACOT2,_10965_1_c; _10965_1_x; _10965_1_m
+PDXK,_8566_1_c
+PKM2,_5315_2_c; _5315_1_c; _5315_1_r; _5315_3_c
+PKLR,_5313_2_c; _5313_1_r; _5313_1_c
+TMEM54,_113452_1_c
+UPP1,_7378_2_c; _7378_1_c
+RFK,_55312_1_c
+RDH5,_5959_1_c
+RDH16,_8608_1_c
+RDH13,_112724_1_c
+RDH12,_145226_1_c
+RDH11,_51109_1_c
+RDH14,_57665_1[e]; _57665_1_c
+SDR16C5,_195814_1_c
+PNPLA4,_8228_1_c
+RRM1,_6240_1_c; _6240_1_m
+RRM2,_6241_1_m; _6241_1_c
+RRM1:RRM2,_6240_1_c_6241_1_c
+RPE,_6120_2_c; _6120_1_c
+RPIA,_22934_1[e]; _22934_1_c
+ST3GAL4,_6484_1_g
+ST3GAL1,_6482_2_g; _6482_1_g
+ST3GAL2,_6483_1_g
+ST3GAL3,_6487_3_g; _6487_6_g; _6487_11_g; _6487_4_g; _6487_5_g; _6487_7_g; _6487_2_g; _6487_10_g; _6487_8_g; _6487_1_g; _6487_9_g
+IDS,_3423_2_l; _3423_1_l
+ARSB,_411_2_l; _411_1_l
+CHST5,_23563_2_g; _23563_1_g
+CHST2,_9435_1_g
+CHST4,_10164_1_g
+CHST6,_4166_1_g
+CHST1,_8534_1_g
+CHST3,_9469_1_g
+GNS,_2799_1_l
+HNMT,_3176_1_c
+SORD,_6652_1_c
+SCP2,_6342_1_c; _6342_1_x
+SDS,_10993_1_c
+SLC7A7,_9056_1_c
+SLC3A1,_6519_1_c
+SLC3A1:SLC7A7,_6519_1_c_9056_1_c
+SPTLC1,_10558_1_c
+SPTLC2,_9517_1_c
+SPTLC1:SPTLC2,_10558_1_c_9517_1_c
+ESD,_2098_1_c
+SGPL1,_8879_1_r; _8879_1_c
+ST3GAL5,_8869_1_g
+SMPD3,_55512_2_g; _55512_1_g
+SGMS1,_259230_1_c
+SLC13A4,_26266_1_c
+SPHK2,_56848_1_c
+SRM,_6723_1_c
+SOD3,_6649_1[e]
+SOD2,_6648_1_m
+SQLE,_6713_1_r
+FDFT1,_2222_1_m; _2222_1_r
+SRD5A2,_6716_1_r
+SRD5A1,_6715_1_r
+SLC6A4,_6532_1_c
+ST8SIA1,_6489_1_g
+ST8SIA5,_29906_1_g
+STS,_412_1_c
+SDHA,_6389_1_m; _6389_1_c
+SDHD,_6392_1_c; _6392_1_m
+SDHC,_6391_1_m; _6391_1_c
+SDHB,_6390_1_m; _6390_1_c
+SDHA:SDHB:SDHC:SDHD,_6389_1_m_6390_1_m_6391_1_m_6392_1_m
+TALDO1,_6888_1_c
+SLC6A6,_6533_1_c
+PCBD1,_5092_1_n; _5092_2_c; _5092_1_c
+NNT,_23530_2_c; _23530_1_c
+SLC28A1,_9154_2_c; _9154_1_c
+SLCO1C1,_53919_1_c
+SLC16A2,_6567_1_c
+TKT,_7086_1_c
+TKTL2,_84076_1_c
+TKTL1,_8277_1_c
+TPK1,_27010_1_c
+TPI1,_7167_1_c
+TPI1P2,_286016_1_c
+TXNRD1,_7296_1_c; _7296_4_c; _7296_3_c; _7296_2_c
+TXNRD3,_114112_1_m
+TXNRD2,_10587_1_m; _10587_2_m; _10587_3_m
+TREH,_11181_1[e]
+TPH1,_7166_1_c
+TPH2,_121278_1_c
+TDO2,_6999_1_c
+SLC13A1,_6561_1_c
+TBXAS1,_6916_1_r
+TH,_7054_3_c; _7054_2_c; _7054_1_c
+TAT,_6898_1_m
+GALE,_2582_2_c; _2582_1_c
+UAP1,_6675_1_c
+UAP1L1,_91373_1_c
+ALG5,_29880_1_c
+SLC35A2,_7355_1_c
+UGDH,_7358_1_c
+SLC35D1,_23169_1_c
+UGCG,_7357_1_r
+SLC35D2,_11046_1_c
+UGT1A8,_54576_1_r
+UPB1,_51733_1_c
+UROC1,_131669_1_c
+SLC5A1,_6523_1_c
+SLC14A1,_6563_1_c
+SLC14A2,_8170_1_c
+AQP9,_366_1_c
+UCK2,_7371_1_c; _7371_1_r
+UCK1,_83549_1_c; _83549_1_r
+XYLB,_9942_1_c
+SLC2A3,_6515_1_c
+DCXR,_51181_1_c
+_AI990637_1_x,_AI990637_1_x
+LHPP,_64077_1_x; _64077_1_c
+_AV717590_1_c,_AV717590_1_c
+ENTPD8,_377841_1_c; _377841_1_m
+_AA532636_1_m,_AA532636_1_m
+ATG9B,_285973_1[e]; _285973_1_c
+_D29675_1_c,_D29675_1_c
+NOS1,_4842_1[e]; _4842_1_c
+_NOS2A_1_c,_NOS2A_1_c
+NOS3,_4846_1_c; _4846_1[e]
+_AV717590_1_m,_AV717590_1_m
+_AI769281_1[e],_AI769281_1[e]
+NT5C3,_51251_1[e]
+NT5E,_4907_1[e]
+NT5M,_56953_1[e]
+RBAK,_57786_1[e]
+APRT,_353_1_c
+ACOT12,_134526_1_c
+ACSS1,_84532_1_c; _84532_1[e]; _84532_1_m
+ACSS2,_55902_1_m; _55902_1_c; _55902_1[e]
+_AI971036_1_m,_AI971036_1_m
+IDH1,_3417_1_c; _3417_1_m; _3417_1_x
+_AI971036_1_x,_AI971036_1_x
+_AI971036_1_c,_AI971036_1_c
+NIT2,_56954_1_m; _56954_1[e]
+_H77542_1_c,_H77542_1_c
+_LOC374569_1[e],_LOC374569_1[e]
+_AI222095_1[e],_AI222095_1[e]
+_AI697028_1[e],_AI697028_1[e]
+_D87002_1[e],_D87002_1[e]
+GGT2,_728441_1_m; _728441_1[e]
+GGT5,_2687_1[e]; _2687_1_m
+GGT7,_2686_1[e]; _2686_1_m
+_728226_1[e],_728226_1[e]
+_NM_013421_1[e],_NM_013421_1[e]
+SUOX,_6821_1_c
+_D29675_1[e],_D29675_1[e]
+_NOS2A_1[e],_NOS2A_1[e]
+_AA502753_1_m,_AA502753_1_m
+CTPS1,_1503_1_m
+CTPS2,_56474_1_m
+_H77542_1_r,_H77542_1_r
+ITPA,_3704_1_x
+_AI656480_1_m,_AI656480_1_m
+_BE042354_1_m,_BE042354_1_m
+_AA081045_1[e],_AA081045_1[e]
+_AI620219_1[e],_AI620219_1[e]
+_AU149534_1[e],_AU149534_1[e]
+_T83654_1[e],_T83654_1[e]
+_U37519_1[e],_U37519_1[e]
+_U37519_1_c,_U37519_1_c
+ALDH5A1,_7915_1_c
+DYLX2,_9856_1_c
+CTH,_1491_1_c
+_AI640625_1_c,_AI640625_1_c
+ACSS3,_79611_1_c; _79611_1[e]
+_HG2846_HT2983_1_c,_HG2846_HT2983_1_c
+_HG2846_HT2983_1_m,_HG2846_HT2983_1_m
+AFMID,_125061_1_c
+ACP5,_54_1_c
+ACP6,_51205_1_c
+ACPP,_55_1_c
+_AI191472_1_c,_AI191472_1_c
+ALPI,_248_1_c
+ALPL,_249_1_c
+ALPP,_250_1_c
+ALPPL2,_251_1_c
+ACAA2,_10449_1_r; _10449_1_c; _10449_1_m
+MYO5B,_4645_1_c; _4645_1_r; _4645_1_m
+_AI761708_1_m,_AI761708_1_m
+_AA664770_1_m,_AA664770_1_m
+_AI684467_1_m,_AI684467_1_m
+GMPS,_8833_1_m
+ACOT4,_122970_1_c
+ACOT7,_11332_1_c; _11332_1_m
+EGFL8,_80864_1_c
+ESPN,_83715_1_c
+PPT1,_5538_1_c
+PPT2,_9374_1_c
+_R33828_1_c,_R33828_1_c
+_AA526438_1_m,_AA526438_1_m
+_H17063_1_m,_H17063_1_m
+MECR,_51102_1_m; _51102_1_c
+PECR,_55825_1_c; _55825_1_m
+ACADL,_33_1_m; _33_1_c
+ACADVL,_37_1_m; _37_1_c
+_AI285872_1_c,_AI285872_1_c
+_AA788780_1_c,_AA788780_1_c
+_AA977580_1_c,_AA977580_1_c
+ACSL6,_23305_1_x; _23305_1_c
+_AI694761_1_c,_AI694761_1_c
+_AI915649_1_c,_AI915649_1_c
+_AL525798_1_c,_AL525798_1_c
+_AV727634_1_c,_AV727634_1_c
+_728637_1_c,_728637_1_c
+_LOC728997_1_c,_LOC728997_1_c
+_AA278423_1_c,_AA278423_1_c
+_R39999_1_c,_R39999_1_c
+_AI653169_1_c,_AI653169_1_c
+_206_1_c,_206_1_c
+_AW277253_1_c,_AW277253_1_c
+OGDHL,_55753_1[e]; _55753_1_c
+BCKDHB,_594_1_c; _594_1_m; _594_2_m
+TMEM91,_641649_1_c
+_AI934540_1_c,_AI934540_1_c
+_W74642_1_c,_W74642_1_c
+_AA081045_1_m,_AA081045_1_m
+_AI620219_1_m,_AI620219_1_m
+_AU149534_1_m,_AU149534_1_m
+_T83654_1_m,_T83654_1_m
+XDH,_7498_1_x; _7498_1_m
+QDPR,_5860_1_m
+_AI824319_1_r,_AI824319_1_r
+_AI469183_1_x,_AI469183_1_x
+_BC005314_1_x,_BC005314_1_x
+_BF195998_1_x,_BF195998_1_x
+_AA278423_1_m,_AA278423_1_m
+_AA614647_1_c,_AA614647_1_c
+_NM_001929_1_c,_NM_001929_1_c
+_AI090874_1_c,_AI090874_1_c
+_AL048840_1_c,_AL048840_1_c
+_BG035985_1_c,_BG035985_1_c
+HMGCS2,_3158_1_c; _3158_1_m
+_BE966236_1_c,_BE966236_1_c
+RRM2B,_50484_1_c; _50484_1_m
+_BE966236_1_m,_BE966236_1_m
+HMGCR,_3156_1_c
+_AA629629_1_m,_AA629629_1_m
+_AA854479_1_m,_AA854479_1_m
+_AI345944_1_m,_AI345944_1_m
+_AI378339_1_m,_AI378339_1_m
+_AI601100_1_m,_AI601100_1_m
+_AI631997_1_m,_AI631997_1_m
+_AI935189_1_m,_AI935189_1_m
+EARS2,_124454_1_m
+_F23536_1_m,_F23536_1_m
+_FLJ44968_1_m,_FLJ44968_1_m
+_H45672_1_m,_H45672_1_m
+_H53099_1_m,_H53099_1_m
+IK,_3550_1_m
+_LOC727762_1_m,_LOC727762_1_m
+NDUFA1,_4694_1_c; _4694_1_m
+NDUFA10,_4705_1_c; _4705_1_m
+NDUFA11,_126328_1_m; _126328_1_c
+NDUFA12,_55967_1_c; _55967_1_m
+NDUFA13,_51079_1_m; _51079_1_c
+NDUFA2,_4695_1_c; _4695_1_m
+NDUFA3,_4696_1_m; _4696_1_c
+NDUFA4,_4697_1_c; _4697_1_m
+NDUFA4L2,_56901_1_m
+NDUFA5,_4698_1_m; _4698_1_c
+NDUFA6,_4700_1_c; _4700_1_m
+NDUFA7,_4701_1_c; _4701_1_m
+NDUFA8,_4702_1_c; _4702_1_m
+NDUFA9,_4704_1_c; _4704_1_m
+NDUFAB1,_4706_1_m; _4706_1_c
+NDUFB1,_4707_1_m; _4707_1_c
+NDUFB10,_4716_1_m; _4716_1_c
+NDUFB11,_54539_1_m
+NDUFB2,_4708_1_c; _4708_1_m
+NDUFB3,_4709_1_m; _4709_1_c
+NDUFB4,_4710_1_m; _4710_1_c
+NDUFB5,_4711_1_c; _4711_1_m
+NDUFB6,_4712_1_c; _4712_2_c; _4712_1_m
+NDUFB7,_4713_1_m; _4713_1_c
+NDUFB8,_4714_1_m; _4714_1_c
+NDUFB9,_4715_1_m; _4715_1_c
+NDUFC1,_4717_1_m; _4717_1_c
+NDUFC2,_4718_1_m; _4718_1_c
+NDUFS1,_4719_1_c; _4719_1_m
+NDUFS2,_4720_1_c; _4720_1_m
+NDUFS3,_4722_1_c; _4722_1_m
+NDUFS4,_4724_1_m; _4724_1_c
+NDUFS5,_4725_1_c; _4725_1_m
+NDUFS6,_4726_1_m; _4726_1_c
+NDUFS7,_374291_1_m; _374291_1_c
+NDUFS8,_4728_1_m; _4728_1_c
+NDUFV1,_4723_1_m; _4723_1_c
+NDUFV2,_4729_1_c; _4729_1_m
+NDUFV3,_4731_1_c; _4731_1_m; _4731_2_c
+_AF080579_1_c,_AF080579_1_c
+_AI348006_1_c,_AI348006_1_c
+_642502_1_c,_642502_1_c
+_AF116616_1_m,_AF116616_1_m
+_PRO1933_1_m,_PRO1933_1_m
+SCD5,_79966_1_m
+MTHFS,_10588_1_c
+ST20,_400410_1_c
+_AA021081_1_r,_AA021081_1_r
+_AI440329_1_r,_AI440329_1_r
+_R06874_1_r,_R06874_1_r
+UCKL1,_54963_1_r
+ADO,_84890_1_m
+_AV713053_1_m,_AV713053_1_m
+_AD000092_1_c,_AD000092_1_c
+_U37519_1_m,_U37519_1_m
+_AW299740_1_m,_AW299740_1_m
+DLAT,_1737_1_m
+_J03866_1_m,_J03866_1_m
+DBT,_1629_1_m; _1629_1_c; _1629_1[e]
+_C7orf24_1_m,_C7orf24_1_m
+_AI926493_1_c,_AI926493_1_c
+ENPP1,_5167_1[e]; _5167_1_m; _5167_1_c
+ENPP3,_5169_1_c; _5169_1_m
+NUDT12,_83594_1_c
+COASY,_80347_1_m
+_AI926493_1_m,_AI926493_1_m
+MPST,_4357_1_m
+HIBCH,_26275_1_c
+LEFTY1,_10637_1_m; _10637_1_c
+PYCR2,_29920_1_c; _29920_1_m
+PYCRL,_65263_1_m; _65263_1_c
+_AI539321_1_c,_AI539321_1_c
+QPRT,_23475_1_c
+RPL36A,_6173_1_c
+_AI373818_1_m,_AI373818_1_m
+_AI222095_1_m,_AI222095_1_m
+_AI697028_1_m,_AI697028_1_m
+_D87002_1_m,_D87002_1_m
+_728226_1_m,_728226_1_m
+_NM_013421_1_m,_NM_013421_1_m
+ACOT8,_10005_1_c; _10005_1_x
+IVD,_3712_1_x
+_R14373_1_x,_R14373_1_x
+PTS,_5805_1_m
+_AA177072_1_x,_AA177072_1_x
+OXSM,_54995_1_x; _54995_1_m; _54995_1_c
+_AI924226_1_m,_AI924226_1_m
+_100128062_1_m,_100128062_1_m
+GCH1,_2643_1_c
+_AA526438_1_c,_AA526438_1_c
+_H17063_1_c,_H17063_1_c
+_AI291895_1_c,_AI291895_1_c
+_M68895_1_c,_M68895_1_c
+_X63359_1_c,_X63359_1_c
+_AA177072_1_c,_AA177072_1_c
+UROD,_7389_1_c
+CYP51A1,_1595_1_c
+_83530_1_c,_83530_1_c
+TSTA3,_7264_1_c
+_AA419122_1_c,_AA419122_1_c
+_AA576959_1_c,_AA576959_1_c
+MTMR1,_8776_1_c
+MTMR2,_8898_1_c
+MTMR6,_9107_1_c
+PHPT1,_29085_1_c
+PPAP2A,_8611_1_c
+PPAP2B,_8613_1_c
+PPAP2C,_8612_1_c
+SGPP1,_81537_1_c
+SGPP2,_130367_1_c
+SKIV2L2,_23517_1_c
+TRNT1,_51095_1_c
+_AA203143_1_c,_AA203143_1_c
+AGPAT3,_56894_2_c; _56894_1_c
+AGPAT4,_56895_1_c
+_AGPAT7_1_c,_AGPAT7_1_c
+_AI818585_1_c,_AI818585_1_c
+_AI971023_1_c,_AI971023_1_c
+EGFR,_1956_1_c
+ELOVL2,_54898_1_c
+ELOVL5,_60481_1_c
+ELOVL6,_79071_1_c
+ESCO1,_114799_1_c
+ESCO2,_157570_1_c
+HYAL3,_8372_1_c
+_LOC647190_1_c,_LOC647190_1_c
+LPGAT1,_9926_1_c
+MBOAT2,_129642_1_c
+_MBOAT5_1_c,_MBOAT5_1_c
+MBOAT7,_79143_1_c
+_N63787_1_c,_N63787_1_c
+PNPLA3,_80339_1_c
+TAZ,_6901_1_c
+_W87865_1_c,_W87865_1_c
+_AI024818_1_c,_AI024818_1_c
+_AI091231_1_c,_AI091231_1_c
+_AI480132_1_c,_AI480132_1_c
+_AI972237_1_c,_AI972237_1_c
+_AL050025_1_c,_AL050025_1_c
+CA5A,_763_1_c
+CA5B,_11238_1_c
+CA6,_765_1_c
+CA8,_767_1_c
+NAE1,_8883_1_c
+_R51273_1_c,_R51273_1_c
+ABCA1,_19_1_c
+_AL038231_1_c,_AL038231_1_c
+SLC7A5,_8140_1_c
+SLC7A6,_9057_1_c
+SLC7A9,_11136_1_c
+ABCD1,_215_1_c
+_U52111_1_c,_U52111_1_c
+ACOT6,_641372_1_c
+ACOT1,_641371_1_c
+PCBD2,_84105_1_n
+AMY2B,_280_1[e]
+LYZL1,_84569_1[e]
+AMY1A,_276_1[e]
+AMY1B,_277_1[e]
+AMY1C,_278_1[e]
+AMY2A,_279_1[e]
+ACE2,_59272_1[e]
+ECI1,_1632_1_m
+ECI2,_10455_1_m
+TST,_7263_1_m
+CMA1,_1215_1[e]
+ACE,_1636_1[e]
+KL,_9365_1[e]
+PIP4K2A,_5305_1_c
+PIP4K2B,_8396_1_c
+PIP4K2C,_79837_1_c
+ECH1,_1891_1_m
+DECR1,_1666_1_m
+ELOVL1,_64834_1_r
+MTMR3,_8897_2_c; _8897_3_c; _8897_1_c
+GPX5,_2880_1[e]
+GPX6,_257202_1[e]
+GPX7,_2882_1[e]
+GPX3,_2878_1[e]
+SLC13A5,_284111_1_c
+SLC6A5,_9152_1_c
+SLC4A7,_9497_1_c
+SLC5A11,_115584_1_c
+SLC20A1,_6574_1_c
+SLC20A2,_6575_1_c
+SLC6A7,_6534_1_c
+COX8A,_1351_1_c
+COX7A2,_1347_1_c
+COX5B,_1329_1_c
+COX4I1,_1327_1_c
+COX8C,_341947_1_c
+COX7A2L,_9167_1_c
+COX7C,_1350_1_c
+COX1,_4512_1_c
+COX7B,_1349_1_c
+COX6A2,_1339_1_c
+COX6C,_1345_1_c
+COX2,_4513_1_c
+COX5A,_9377_1_c
+COX6B2,_125965_1_c
+COX3,_4514_1_c
+COX7B2,_170712_1_c
+COX7A1,_1346_1_c
+COX6B1,_1340_1_c
+COX4I2,_84701_1_c
+COX6A1,_1337_1_c
+COX6B2:COX4I1:COX5B:COX6A1:COX6A2:COX6B1:COX6C:COX7A1:COX7A2:COX7B:COX7C:COX8A:COX7B2:COX8C:COX1:COX2:COX3:COX4I2:COX7A2L:COX5A,_125965_1_c_1327_1_c_1329_1_c_1337_1_c_1339_1_c_1340_1_c_1345_1_c_1346_1_c_1347_1_c_1349_1_c_1350_1_c_1351_1_c_170712_1_c_341947_1_c_4512_1_c_4513_1_c_4514_1_c_84701_1_c_9167_1_c_9377_1_c
+LIPA,_3988_1[e]
+MVD,_4597_1_c
+SLC40A1,_30061_1_c
+HEPH,_9843_1_c
+MVK,_4598_1_c
+PMVK,_10654_1_c
+PRODH2,_58510_1_c
+10-formyltetrahydrofolate(2-),10fthf[e]
+10-formyltetrahydrofolate-[Glu](5),10fthf5glu[e]
+10-formyltetrahydrofolate-[Glu](6),10fthf6glu[e]
+10-formyltetrahydrofolate-[Glu](7),10fthf7glu[e]
+fatty acid 11-cis-retinol,11_cis_retfa[e]
+1 acyl phosphoglycerol,1glyc_hs[e]
+2-Hydroxybutyrate,2hb[e]
+"3,4-Dihydroxyphenylethyleneglycol",34dhoxpeg[e]
+"3',5'-cyclic GMP(1-)",35cgmp[e]
+(S)-3-aminoisobutyric acid,3aib[e]
+3-Methylimidazoleacetic acid,3mlda[e]
+4-methylpentanal,4mptnl[e]
+4 hydroxy tolbutamide,4mtolbutamide[e]
+4-Nitrophenyl sulfate,4nphsf[e]
+4-pyridoxate,4pyrdx[e]
+17beta-hydroxy-5alpha-androstan-3-one,5adtststerone[e]
+5alpha-Dihydrotestosterone sulfate,5adtststerones[e]
+pentaglutamyl folate (DHF),5dhf[e]
+pentaglutamyl folate (THF),5thf[e]
+hexaglutamyl folate (DHF),6dhf[e]
+hexaglutamyl folate  (THF),6thf[e]
+heptaglutamyl folate (DHF),7dhf[e]
+heptaglutamyl folate (THF),7thf[e]
+L-arabinitol,abt[e]
+acetone,acetone[e]
+Type IIIA glycolipid,acgalfucgalacgalfuc12gal14acglcgalgluside_hs[e]
+Type IIIAb,acgalfucgalacgalfucgalacglcgal14acglcgalgluside_hs[e]
+acetylcholine,ach[e]
+disialyl galactosylgloboside,acnacngalgbside_hs[e]
+adenine,ade[e]
+ADP(3-),adp[e]
+adrenic acid,adrn[e]
+1-alkyl 2-lysoglycerol 3-phosphocholine,ak2lgchol_hs[e]
+2-oxoglutarate(2-),akg[e]
+beta-alanine,ala_B[e]
+alpha-pinene oxide,apnnox[e]
+(+)-alpha-pinene,appnn[e]
+(20S)-20-hydroxypregn-4-en-3-one,aprgstrn[e]
+arachidonate,arachd[e]
+ATP(4-),atp[e]
+mono(glucosyluronic acid)bilirubin(2-),bilglcur[e]
+bilirubin(2-),bilirub[e]
+Biocytin,biocyt[e]
+beta-carotene,caro[e]
+citrate(3-),cit[e]
+clupanodonic acid,clpnd[e]
+CMP(2-),cmp[e]
+carbon monoxide,co[e]
+CO2,co2[e]
+"cervonic acid, C22:6 n-3",crvnc[e]
+"chondroitin sulfate E (GalNAc4,6diS-GlcA) proteoglycan",cspg_e[e]
+hydrogen cyanide,cyan[e]
+diglyceride,dag_hs[e]
+"docosa-4,7,10,13,16-pentaenoic acid",dcsptn1[e]
+3beta-hydroxyandrost-5-en-17-one 3-sulfate(1-),dheas[e]
+dihydrofolate(2-),dhf[e]
+dihomo-gamma-linolenic acid (n-6),dlnlcg[e]
+"2,6 dimethylheptanoyl carnitine",dmhptcrn[e]
+dopamine 3-O-sulfate,dopasf[e]
+eicosatetranoic acid,eicostet[e]
+elaidate,elaid[e]
+estradiol,estradiol[e]
+formate,for[e]
+(Gal)4 (Glc)1 (GlcNAc)3 (LFuc)3 (Cer)1,fucfucfucgalacglc13galacglcgal14acglcgalgluside_hs[e]
+Gal-GlcNAc-Gal globoside,galacglcgalgbside_hs[e]
+(Gal)6 (Glc)1 (GlcNAc)3 (LFuc)2 (Cer)1,galgalfucfucgalacglcgalacglcgal14acglcgalgluside_hs[e]
+Gal-Gal-Gal-Gal-Gal-Glc-Cer,galgalgalthcrm_hs[e]
+globoside,gbside_hs[e]
+5-L-Glutamyl-L-alanine,gluala[e]
+(S)-Glycerate,glyc_S[e]
+GMP(3-),gmp[e]
+glutathionate(1-),gthrd[e]
+GTP(4-),gtp[e]
+guanine,gua[e]
+H2O,h2o[e]
+hydrogen peroxide,h2o2[e]
+Hexadecenoate (n-C16:1),hdcea[e]
+"4,17 dihydroxy estradiol",hestratriol[e]
+margarate,hpdca[e]
+6 alpha hydroxy taxol/ 6 alpha hydroxy paclitaxel,htaxol[e]
+hypoxanthine,hxan[e]
+IMP(2-),imp[e]
+keratan sulfate I,ksi[e]
+"keratan sulfate I, degradation product 1",ksi_deg1[e]
+leukotriene A4(1-),leuktrA4[e]
+leukotriene B4(1-),leuktrB4[e]
+leukotriene C4(2-),leuktrC4[e]
+Leukotriene D4,leuktrD4[e]
+leukotriene E4(1-),leuktrE4[e]
+leukotriene F4,leuktrF4[e]
+lignocerate,lgnc[e]
+limonene,limnen[e]
+linoelaidic acid (all trans C18:2),lneldc[e]
+linoleate,lnlc[e]
+alpha-linolenate,lnlnca[e]
+gamma-linolenate,lnlncg[e]
+"N-Acetyl-beta-D-glucosaminyl-1,2-alpha-D-mannosyl-1,3-(N-acetyl-beta-D-glucosaminyl-1,2-alpha-D-mannosyl-1,6)-(N-acetyl-beta-D-glucosaminyl-1,4)-beta-D-mannosyl-1,4-N-acetyl-beta-D-glucosaminyl-R",n2m2nmasn[e]
+ammonium,nh4[e]
+Norepinephrine,nrpphr[e]
+Sulfate derivative of norepinephrine,nrpphrsf[e]
+nervonate,nrvnc[e]
+superoxide,o2s[e]
+9-O-Acetylated GT3,oagt3_hs[e]
+octanoate (n-C8:0),octa[e]
+1-alkyl 2-acteylglycerol 3-phosphocholine,paf_hs[e]
+Phosphatidylcholine,pchol_hs[e]
+phosphatidylethanolamine,pe_hs[e]
+perillyl alcohol,perillyl[e]
+phosphatidylglycerol(1-),pglyc_hs[e]
+(2S)-4-carbamoyl-2-(2-phenylacetamido)butanoate,pheacgln[e]
+phytanate,phyt[e]
+progesterone,prgstrn[e]
+prostaglandin D2(1-),prostgd2[e]
+prostaglandin E1(1-),prostge1[e]
+prostaglandin E2(1-),prostge2[e]
+prostaglandin F2alpha(1-),prostgf2[e]
+phosphatidylserine,ps_hs[e]
+pentadecanoate,ptdca[e]
+D-ribitol,rbt[e]
+fatty acid retinol,retfa[e]
+retinol,retinol[e]
+11-cis-retinol,retinol_cis_11[e]
+R total,Rtotal[e]
+R total 2 position,Rtotal2[e]
+R total 3 position,Rtotal3[e]
+PA6,s2l2fn2m2masn[e]
+de-Fuc form of PA6,s2l2n2m2masn[e]
+sphingosylphosphorylcholine,spc_hs[e]
+"(2S,3R)-2-azaniumyl-3-hydroxyoctadecyl phosphate",sph1p[e]
+sphingosine 1-phosphate(1-),sphs1p[e]
+"stearidonic acid C18:4, n-3",strdnc[e]
+succinate(2-),succ[e]
+triglyceride,tag_hs[e]
+D-tagatose,tagat_D[e]
+paclitaxel,taxol[e]
+taurocholic acid,tchola[e]
+thiocyanate,tcynt[e]
+"tetracosahexaenoic acid, n-3",tethex3[e]
+"tetracosapentaenoic acid, n-3",tetpent3[e]
+"tetracosapentaenoic acid, n-6",tetpent6[e]
+tetracosatetraenoic acid n-6,tettet6[e]
+"(6S)-5,6,7,8-tetrahydrofolate(2-)",thf[e]
+"timnodonic acid C20:5, n-3",tmndnc[e]
+tolbutamide,tolbutamide[e]
+testosterone,tststerone[e]
+testosterone sulfate,tststerones[e]
+thromboxane A2(1-),txa2[e]
+Tyramine O-sulfate,tymsf[e]
+UDP(3-),udp[e]
+UMP(2-),ump[e]
+Urate,urate[e]
+UTP(4-),utp[e]
+trans-vaccenate,vacc[e]
+calciol,vitd3[e]
+cholesterol ester,xolest2_hs[e]
+xylitol,xylt[e]
+4-ammoniobutanal,4abutn[e]
+"7,8-dihydroneopterin 3'-triphosphate(4-)",ahdt[e]
+CTP(4-),ctp[e]
+dGMP(2-),dgmp[e]
+dGTP,dgtp[e]
+glycerone,dha[e]
+glycerone phosphate(2-),dhap[e]
+dTMP(2-),dtmp[e]
+dTTP(4-),dttp[e]
+Flavin adenine dinucleotide oxidized,fad[e]
+alpha-D-glucose 1-phosphate(2-),g1p[e]
+Isomaltose,HC00229[e]
+hydrosulfide,HC00250[e]
+4-nitrophenyl phosphate(2-),HC01104[e]
+Dihydroneopterin,HC01361[e]
+Galactosylglycerol,HC01444[e]
+UroporphyrinogenI,HC01609[e]
+CoproporphyrinogenI,HC01610[e]
+ITP(3-),itp[e]
+orotate,orot[e]
+5-O-phosphonato-alpha-D-ribofuranosyl diphosphate(5-),prpp[e]
+pyridoxal 5'-phosphate(2-),pydx5p[e]
+"[(2R,3S,4R,5R)-5-(2,4-dioxo-1,2,3,4-tetrahydropyrimidin-1-yl)-3,4-dihydroxyoxolan-2-yl]methyl {[(3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl phosphonato]oxy}phosphonate",udpg[e]
+spermine(4+),sprm[e]
+prostaglandin H2(1-),prostgh2[e]
+prostaglandin I2(1-),prostgi2[e]
+CDP(3-),cdp[e]
+"({[(2R,3S,5R)-3-hydroxy-5-(5-methyl-2,4-dioxo-1,2,3,4-tetrahydropyrimidin-1-yl)oxolan-2-yl]methyl phosphonato}oxy)phosphonate",dtdp[e]
+citr_L[e],citr_L[e]
+Xanthurenic acid,C02470[e]
+Chitobiose,HC00822[e]
+prostaglandin A1(1-),HC02202[e]
+prostaglandin-a2,HC02203[e]
+prostaglandin-b2,HC02205[e]
+prostaglandin C1(1-),HC02206[e]
+prostaglandin-c2,HC02207[e]
+spermidine dialdehyde,CE1943[e]
+spermine dialdehyde,CE1936[e]
+Maltotetraose,maltttr[e]
+maltopentaose,maltpt[e]
+beta-casomorphin,CE2915[e]
+beta-casomorphin (1-6),CE4722[e]
+neocasomorphin,CE2916[e]
+neocasomorphin (1-5),CE4723[e]
+apelin-13,CE2917[e]
+apelin (1-12),CE4724[e]
+maltoheptaose,malthp[e]
+maltodecaose,CE2839[e]
+maltononaose,CE2838[e]
+kinetensin,CE5786[e]
+kinetensin 1-7,CE5788[e]
+N-acetyl-seryl-aspartyl-lysyl-proline,CE5867[e]
+N-acetyl-seryl-aspartate,CE5868[e]
+lysyl-proline,CE5869[e]
+gama-CEHC-glucuronide,CE5854[e]
+gama-carboxyethyl-hydroxychroman,CE1926[e]
+UDP-D-galactose(2-),udpgal[e]
+N-acylsphingosine,crm_hs[e]
+D-galactosyl-N-acylsphingosine,galside_hs[e]
+alpha-CEHC-glucuronide,CE5853[e]
+3'-carboxy-alpha-chromanol,CE1925[e]
+12(S)-HPETE(1-),C05965[e]
+"(5Z,9E,14Z)-(8xi,11R,12S)-11,12-epoxy-8-hydroxyicosa-5,9,14-trienoate",C04849[e]
+3-hydroxydodecanoylcarnitine,3ddcrn[e]
+3-hydroxydecanoylcarnitine,3deccrn[e]
+3-hydroxyhexadecenoylcarnitine,3hdececrn[e]
+3-hydroxyhexadecanoylcarnitine,3hexdcrn[e]
+3-hydroxy-isovaleryl carnitine,3ivcrn[e]
+3-hydroxyoctadecanoyl carnitine,3octdeccrn[e]
+3-hydroxy-octadecenoyl carnitine,3octdece1crn[e]
+3-hydroxy-tetradecanoyl carnitine,3tdcrn[e]
+3-hydroxy tetradecenoyl-7-carnitine,3tetd7ecoacrn[e]
+"3-hydroxy trans7,10-hexadecadienoyl carnitine",3thexddcoacrn[e]
+"3-hydroxy trans5,8tetradecadienoyl carnitine",3ttetddcoacrn[e]
+decenoyl carnitine,c101crn[e]
+decanoyl carnitine,c10crn[e]
+Hexadecanedioic acid mono-L-carnitine ester,c16dc[e]
+malonyl carnitine,c3dc[e]
+tiglyl carnitine,c51crn[e]
+glutaryl carnitine,c5dc[e]
+octenoyl carnitine,c81crn[e]
+octanoyl carnitine,c8crn[e]
+dodecenoyl carnitine,ddece1crn[e]
+lauroyl carnitine,ddeccrn[e]
+decadienoyl carnitine,decdicrn[e]
+docosenoic acid (C22:1),doco13ac[e]
+isovaleryl carnitine,ivcrn[e]
+myristoyl carnitine,tdcrn[e]
+tetradecadienoyl carnitine,tetdec2crn[e]
+tetradecenoyl carnitine,tetdece1crn[e]
+gums,gum[e]
+guar gum-taurocholic acid complex,gumtchol[e]
+Leucylleucine,leuleu[e]
+L-Prolinylglycine,progly[e]
+psyllium,psyl[e]
+psillium-glycocholic acid complex,psylchol[e]
+FMN,fmn[e]
+Pantetheine 4'-phosphate,pan4p[e]
+ubiquinone-10,q10[e]
+Ubiquinol-10,q10h2[e]
+3-(4-hydroxyphenyl)pyruvate,34hpp[e]
+3-methyl-2-oxobutanoate,3mob[e]
+4-methyl-2-oxopentanoate,4mop[e]
+5-oxoprolinate,5oxpro[e]
+5-Amino-1-(5-Phospho-D-ribosyl)imidazole-4-carboxamide,aicar[e]
+anthranilate,anth[e]
+N-Carbamoyl-L-aspartate,cbasp[e]
+ECHDC2,_55268_1_m
+A4GNT,_51146_1_g
+GNPNAT1,_64841_1_c
+AGPAT2,_10555_1_c
+AGPAT6,_137964_1_c
+AGPAT5,_55326_1_c
+AGPAT1,_10554_1_c
+AHCY,_191_1_c
+AHCYL1,_10768_2_c; _10768_1_c
+SLC15A2,_6565_1_c
+SLC26A4,_5172_1_c
+SLC2A1,_6513_1_c
+SLC2A4,_6517_1_c
+ALG10,_84920_1_r
+CYBRD1,_79901_1[e]
+GAMT,_2593_1_c; _2593_2_c
+SLC2A8,_29988_1_c
+SLC2A2,_6514_1_c
+SLC2A10,_81031_1_c
+GFPT1,_2673_1_c
+GFPT2,_9945_1_c
+SLC2A11,_66035_1_c
+SLC2A9,_56606_1_c; _56606_2_c
+SLC2A12,_154091_1_c
+SLC2A6,_11182_1_c
+SLC2A7,_155184_1_c
+SLC2A14,_144195_1_c
+GATM,_2628_1_c
+GNMT,_27232_1_c
+GPAM,_57678_1_c
+HYALP1,_26062_1_x
+HSD17B7,_51478_1_r
+GANC,_2595_1_c
+MTR,_4548_1_c
+ND3,_4537_1_c
+TUSC3,_7991_1_c; _7991_2_c
+ND6,_4541_1_c
+ND4L,_4539_1_c
+ND4,_4538_1_c
+ND2,_4536_1_c
+ND1,_4535_1_c
+ND5,_4540_1_c
+_126328_1_c_374291_1_c_4535_1_c_4536_1_c_4537_1_c_4538_1_c_4539_1_c_4540_1_c_4541_1_c_4694_1_c_4695_1_c_4696_1_c_4697_1_c_4698_1_384784,_126328_1_c_374291_1_c_4535_1_c_4536_1_c_4537_1_c_4538_1_c_4539_1_c_4540_1_c_4541_1_c_4694_1_c_4695_1_c_4696_1_c_4697_1_c_4698_1_384784
+_126328_1_c_374291_1_c_4535_1_c_4536_1_c_4537_1_c_4538_1_c_4539_1_c_4540_1_c_4541_1_c_4694_1_c_4695_1_c_4696_1_c_4697_1_c_4698_1_402228,_126328_1_c_374291_1_c_4535_1_c_4536_1_c_4537_1_c_4538_1_c_4539_1_c_4540_1_c_4541_1_c_4694_1_c_4695_1_c_4696_1_c_4697_1_c_4698_1_402228
+_126328_1_c_374291_1_c_4535_1_c_4536_1_c_4537_1_c_4538_1_c_4539_1_c_4540_1_c_4541_1_c_4694_1_c_4695_1_c_4696_1_c_4697_1_c_4698_1_538614,_126328_1_c_374291_1_c_4535_1_c_4536_1_c_4537_1_c_4538_1_c_4539_1_c_4540_1_c_4541_1_c_4694_1_c_4695_1_c_4696_1_c_4697_1_c_4698_1_538614
+_126328_1_c_374291_1_c_4535_1_c_4536_1_c_4537_1_c_4538_1_c_4539_1_c_4540_1_c_4541_1_c_4694_1_c_4695_1_c_4696_1_c_4697_1_c_4698_1_603091,_126328_1_c_374291_1_c_4535_1_c_4536_1_c_4537_1_c_4538_1_c_4539_1_c_4540_1_c_4541_1_c_4694_1_c_4695_1_c_4696_1_c_4697_1_c_4698_1_603091
+_126328_1_c_374291_1_c_4535_1_c_4536_1_c_4537_1_c_4538_1_c_4539_1_c_4540_1_c_4541_1_c_4694_1_c_4695_1_c_4696_1_c_4697_1_c_4698_1_660293,_126328_1_c_374291_1_c_4535_1_c_4536_1_c_4537_1_c_4538_1_c_4539_1_c_4540_1_c_4541_1_c_4694_1_c_4695_1_c_4696_1_c_4697_1_c_4698_1_660293
+_126328_1_c_374291_1_c_4535_1_c_4536_1_c_4537_1_c_4538_1_c_4539_1_c_4540_1_c_4541_1_c_4694_1_c_4695_1_c_4696_1_c_4697_1_c_4698_1_743078,_126328_1_c_374291_1_c_4535_1_c_4536_1_c_4537_1_c_4538_1_c_4539_1_c_4540_1_c_4541_1_c_4694_1_c_4695_1_c_4696_1_c_4697_1_c_4698_1_743078
+_126328_1_c_374291_1_c_4535_1_c_4536_1_c_4537_1_c_4538_1_c_4539_1_c_4540_1_c_4541_1_c_4694_1_c_4695_1_c_4696_1_c_4697_1_c_4698_1_291593,_126328_1_c_374291_1_c_4535_1_c_4536_1_c_4537_1_c_4538_1_c_4539_1_c_4540_1_c_4541_1_c_4694_1_c_4695_1_c_4696_1_c_4697_1_c_4698_1_291593
+_126328_1_c_374291_1_c_4535_1_c_4536_1_c_4537_1_c_4538_1_c_4539_1_c_4540_1_c_4541_1_c_4694_1_c_4695_1_c_4696_1_c_4697_1_c_4698_1_925034,_126328_1_c_374291_1_c_4535_1_c_4536_1_c_4537_1_c_4538_1_c_4539_1_c_4540_1_c_4541_1_c_4694_1_c_4695_1_c_4696_1_c_4697_1_c_4698_1_925034
+NADSYN1,_55191_1_c
+CNDP1,_84735_1_c
+NMNAT3,_349565_1_c
+NMNAT2,_23057_1_c; _23057_2_c
+BCKDHA,_593_1_m
+DBT:DLD:BCKDHA:BCKDHB,_1629_1_m_1738_1_m_593_1_m_594_2_m; _1629_1_m_1738_1_m_593_1_m_594_1_m
+CYP17A1,_1586_1_r
+PCK1,_5105_1_c
+PFKP,_5214_1_c
+PFKL,_5211_1_c; _5211_2_c
+PFKL:PFKP,_5211_1_c_5214_1_c; _5211_2_c_5214_1_c
+PFKM,_5213_1_c
+PFKM:PFKP,_5213_1_c_5214_1_c
+PFKL:PFKM,_5211_2_c_5213_1_c; _5211_1_c_5213_1_c
+PGM1,_5236_1_c
+PPCS,_79717_1_x; _79717_1_c
+RDH10,_157506_1_c
+RDH8,_50700_1_c
+SARDH,_1757_1_m
+SLC26A7,_115111_1_c; _115111_2_c
+SLC26A9,_115019_2_c; _115019_1_c
+SLC26A2,_1836_1_c
+SLC26A8,_116369_2_c; _116369_1_c
+SLC26A11,_284129_1_c
+SLC26A1,_10861_2_c; _10861_1_c; _10861_3_c
+SLC26A3,_1811_1_c
+LALBA,_3906_1_g
+B4GALT1:LALBA,_2683_1_g_3906_1_g
+_AI769281_1__91__e__93__,_AI769281_1[e]
+_LOC374569_1__91__e__93__,_LOC374569_1[e]
+_AI222095_1__91__e__93__,_AI222095_1[e]
+_AI697028_1__91__e__93__,_AI697028_1[e]
+_D87002_1__91__e__93__,_D87002_1[e]
+_728226_1__91__e__93__,_728226_1[e]
+_NM_013421_1__91__e__93__,_NM_013421_1[e]
+_D29675_1__91__e__93__,_D29675_1[e]
+_NOS2A_1__91__e__93__,_NOS2A_1[e]
+_AA081045_1__91__e__93__,_AA081045_1[e]
+_AI620219_1__91__e__93__,_AI620219_1[e]
+_AU149534_1__91__e__93__,_AU149534_1[e]
+_T83654_1__91__e__93__,_T83654_1[e]
+_U37519_1__91__e__93__,_U37519_1[e]
+_AA676725_1_c,_AA676725_1_c
+C15orf33,_196951_1_c
+_AI435857_1_x,_AI435857_1_x
+5 hydroxy omeprazole,5homeprazole[e]
+fatty acid 9-cis-retinol,9_cis_retfa[e]
+(-)-trans-carveol,carveol[e]
+chitin,chtn[e]
+creatine,creat[e]
+chondroitin sulfate D (GlcNAc6S-GlcA2S) proteoglycan,cspg_d[e]
+GDP(3-),gdp[e]
+IDP(3-),idp[e]
+keratan sulfate II (core 2-linked),ksii_core2[e]
+keratan sulfate II (core 4-linked),ksii_core4[e]
+9-O-Acetylated GD3,oagd3_hs[e]
+omeprazole,omeprazole[e]
+9-cis-retinol,retinol_9_cis[e]
+all-trans-retinoate,retn[e]
+sarcosine,sarcs[e]
+thymine,thym[e]
+prostaglandin-b1,HC02204[e]
+spermine monoaldehyde,CE1935[e]
+3-hydroxy butyryl carnitine,3bcrn[e]
+butyryl carnitine,c4crn[e]
+succinyl carnitine,c4dc[e]
+Decanoate (n-C10:0),dca[e]
+carnosine,carn[e]
+Glycylsarcosine,glysar[e]
+S-Sulfo-L-cysteine,slfcys[e]

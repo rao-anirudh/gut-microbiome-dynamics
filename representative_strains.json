@@ -1,0 +1,98 @@
+{
+    "Bacillota": {
+        "phylum_size": 328,
+        "representative_strain": "Enterococcus_asini_ATCC_700915",
+        "min_jaccard_distance": 0.38268284007992764,
+        "avg_jaccard_distance": 0.44308224461617907
+    },
+    "Pseudomonadota": {
+        "phylum_size": 138,
+        "representative_strain": "Yersinia_rohdei_ATCC_43380",
+        "min_jaccard_distance": 0.29341531567781975,
+        "avg_jaccard_distance": 0.35274806333780245
+    },
+    "Actinomycetota": {
+        "phylum_size": 112,
+        "representative_strain": "Actinomyces_viscosus_C505",
+        "min_jaccard_distance": 0.3638714196256291,
+        "avg_jaccard_distance": 0.42001027333034685
+    },
+    "Verrucomicrobiota": {
+        "phylum_size": 1,
+        "representative_strain": "Akkermansia_muciniphila_ATCC_BAA_835",
+        "min_jaccard_distance": 0.0,
+        "avg_jaccard_distance": 0.0
+    },
+    "Bacteroidota": {
+        "phylum_size": 85,
+        "representative_strain": "Bacteroides_faecis_MAJ27",
+        "min_jaccard_distance": 0.3051064879137652,
+        "avg_jaccard_distance": 0.36521059418680435
+    },
+    "Synergistota": {
+        "phylum_size": 3,
+        "representative_strain": "Cloacibacillus_evryensis_DSM_19522",
+        "min_jaccard_distance": 0.2406834951846714,
+        "avg_jaccard_distance": 0.2573908024443307
+    },
+    "Campylobacterota": {
+        "phylum_size": 23,
+        "representative_strain": "Campylobacter_jejuni_jejuni_ICDCCJ07004",
+        "min_jaccard_distance": 0.24040395017702376,
+        "avg_jaccard_distance": 0.2931406144946154
+    },
+    "Thermodesulfobacteriota": {
+        "phylum_size": 3,
+        "representative_strain": "Bilophila_wadsworthia_3_1_6",
+        "min_jaccard_distance": 0.20681958253484822,
+        "avg_jaccard_distance": 0.2242994747763186
+    },
+    "Spirochaetota": {
+        "phylum_size": 1,
+        "representative_strain": "Brachyspira_pilosicoli_B2904",
+        "min_jaccard_distance": 0.0,
+        "avg_jaccard_distance": 0.0
+    },
+    "Nitrososphaerota": {
+        "phylum_size": 1,
+        "representative_strain": "Candidatus_Nitrososphaera_gargensis_Ga9_2",
+        "min_jaccard_distance": 0.0,
+        "avg_jaccard_distance": 0.0
+    },
+    "Fusobacteriota": {
+        "phylum_size": 18,
+        "representative_strain": "Fusobacterium_nucleatum_subsp_animalis_3_1_33",
+        "min_jaccard_distance": 0.1966337739606251,
+        "avg_jaccard_distance": 0.2571274140884504
+    },
+    "Methanobacteriota": {
+        "phylum_size": 4,
+        "representative_strain": "Methanosphaera_stadtmanae_DSM_3091",
+        "min_jaccard_distance": 0.29910118340300984,
+        "avg_jaccard_distance": 0.3379113219741918
+    },
+    "Thermoplasmatota": {
+        "phylum_size": 1,
+        "representative_strain": "Methanomassiliicoccus_luminyensis_B10",
+        "min_jaccard_distance": 0.0,
+        "avg_jaccard_distance": 0.0
+    },
+    "Planctomycetota": {
+        "phylum_size": 1,
+        "representative_strain": "Schlesneria_paludicola_DSM_18645",
+        "min_jaccard_distance": 0.0,
+        "avg_jaccard_distance": 0.0
+    },
+    "Thermoproteota": {
+        "phylum_size": 1,
+        "representative_strain": "Sulfolobus_solfataricus_P2",
+        "min_jaccard_distance": 0.0,
+        "avg_jaccard_distance": 0.0
+    },
+    "Mycoplasmatota": {
+        "phylum_size": 2,
+        "representative_strain": "Ureaplasma_parvum_serovar_1_str_ATCC_27813",
+        "min_jaccard_distance": 0.014094955489614258,
+        "avg_jaccard_distance": 0.014094955489614258
+    }
+}
